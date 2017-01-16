@@ -1,0 +1,380 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="PrayerWayDhaka.HowToPray"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Images/SingleBackground.png"/>
+        </Grid.Background>
+        <!--Pivot Control-->
+        <phone:Pivot Title="prayer way dhaka">
+            <!--Pivot item one-->
+            <phone:PivotItem Header="step #1">
+                <Grid Margin="0,0,0,-220">
+                    <Image HorizontalAlignment="Left" Height="300" Margin="10,0,0,0" VerticalAlignment="Top" Width="436" Source="/Images/HowToPray/1.jpg" Stretch="Fill"/>
+                    <Rectangle Fill="{StaticResource PhoneInactiveBrush}" HorizontalAlignment="Left" Height="295" Margin="10,305,0,0" Stroke="{StaticResource PhoneInactiveBrush}" VerticalAlignment="Top" Width="436"/>
+                    <ScrollViewer HorizontalAlignment="Left" Margin="10,305,0,0" VerticalAlignment="Top" Height="292" Width="436">
+                        <TextBlock TextWrapping="Wrap" Height="500" Width="436" FontSize="30">
+                        	<Span>
+                        		<Run Text="1. Prepare for prayer and stand to face the Qibla"/>
+                        	</Span>
+                        	<LineBreak/>
+                            <LineBreak/>
+                        	<Span>
+                        		<Run Text="Preparing for prayer include performing Wadu, wearing clean clothes, and finding a clean calm and pure place to pray."/>
+                        	</Span>
+                        	<LineBreak/>
+                        	<Span>
+                        		<Run Text="The Quibla is the direction towards the Kaaba."/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PivotItem>
+
+            <!--Pivot item two-->
+            <phone:PivotItem Header="step #2">
+                <Grid Margin="0,0,0,-220">
+                    <Image HorizontalAlignment="Left" Height="300" Margin="10,0,0,0" VerticalAlignment="Top" Width="436" Source="/Images/HowToPray/2.jpg" Stretch="Fill"/>
+                    <Rectangle Fill="{StaticResource PhoneInactiveBrush}" HorizontalAlignment="Left" Height="295" Margin="10,305,0,0" Stroke="{StaticResource PhoneInactiveBrush}" VerticalAlignment="Top" Width="436"/>
+                    <ScrollViewer HorizontalAlignment="Left" Margin="10,305,0,0" VerticalAlignment="Top" Height="292" Width="436" >
+                        <TextBlock TextWrapping="Wrap" FontSize="30" Height="500" Width="436">
+                    		<Span>
+                    			<Run Text="2. Make the intention to pray"/>
+                    		</Span>
+                    		<LineBreak/>
+                    		<LineBreak/>
+                    		<Span>
+                    			<Run Text="You do not need to say it out loud, but you need to know which prayer of the day you are performing, what will be the type of the rakaat, and the number of rakaats."/>
+                    		</Span>
+                    		<LineBreak/>
+                    		<Run/>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PivotItem>
+
+            <!--Pivot item three-->
+            <phone:PivotItem Header="step #3">
+                <Grid Margin="0,0,0,-220">
+                    <Image HorizontalAlignment="Left" Height="300" Margin="10,0,0,0" VerticalAlignment="Top" Width="436" Source="/Images/HowToPray/3.jpg" Stretch="Fill"/>
+                    <Rectangle Fill="{StaticResource PhoneInactiveBrush}" HorizontalAlignment="Left" Height="295" Margin="10,305,0,0" Stroke="{StaticResource PhoneInactiveBrush}" VerticalAlignment="Top" Width="436"/>
+                    <ScrollViewer HorizontalAlignment="Left" Margin="10,305,0,0" VerticalAlignment="Top" Height="292" Width="436" >
+                        <TextBlock TextWrapping="Wrap" FontSize="30" Height="500" Width="436">
+                    		<Span>
+                    			<Run Text="3. Perform the Takbiratul Ihram"/>
+                    		</Span>
+                    		<LineBreak/>
+                    		<LineBreak/>
+                    		<Span>
+                    			<Run Text="This starts the prayer. Raise your hands, palms facing forwards, up till you ear lobes (or to your shoulders if you are a woman), and say "/>
+                    		</Span>
+                    		<Span FontFamily="Times New Roman">
+                    			<Run Text="الله اكبر"/>
+                    		</Span>
+                    		<Span>
+                    			<Run Text=" (Allahu Akbar = God is the Greatest)."/>
+                    		</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PivotItem>
+
+            <!--Pivot item four-->
+            <phone:PivotItem Header="step #4">
+                <Grid Margin="0,0,0,-1000">
+                    <Image HorizontalAlignment="Left" Height="300" Margin="10,0,0,0" VerticalAlignment="Top" Width="436" Source="/Images/HowToPray/4.jpg" Stretch="Fill"/>
+                    <Rectangle Fill="{StaticResource PhoneInactiveBrush}" HorizontalAlignment="Left" Height="295" Margin="10,305,0,0" Stroke="{StaticResource PhoneInactiveBrush}" VerticalAlignment="Top" Width="436"/>
+                    <ScrollViewer HorizontalAlignment="Left" Margin="10,305,0,0" VerticalAlignment="Top" Height="292" Width="436">
+                        <TextBlock TextWrapping="Wrap" Height="1100" Width="436" FontSize="30">
+                    		<Span>
+                    			<Run Text="4. Perform Qiyam"/>
+                    		</Span>
+                    		<LineBreak/>
+                            <LineBreak/>
+                    		<Span>
+                    			<Run Text="Qiyam is where you stand up, your hands folded across your chest, and recite the Surah Al Fatihah and another short portion of the Qur'an."/>
+                    		</Span>
+                    		<LineBreak/>
+                            <LineBreak/>
+                            <Span>
+                    		    <Run Text="I.&#x9;Stand up straight, with your hands folded. Your right hand should be over your left, and they should overlap till the wrists only. Men place their folded hands below their navel, and women at chest level."/>
+                            </Span>
+                            <LineBreak/>
+                            <LineBreak/>
+                    		<Span>
+                    			<Run Text="II.&#x9;Recite Surah Al-Fatihah. Your voice can audible to yourself, but if it is not, thinking the prayer perhaps in your brain or mind is also a valid method."/>
+                    		</Span>
+                            <LineBreak/>
+                            <LineBreak/>
+                            <Span>
+                                <Run Text="III.&#x9;Recite a short portion of the Qur'an. It is helpful to have memorized small surahs of the Qur'an by heart."/>
+                            </Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PivotItem>
+
+            <!--Pivot item five-->
+            <phone:PivotItem Header="step #5">
+                <Grid Margin="0,0,0,-500">
+                    <Image HorizontalAlignment="Left" Height="300" Margin="10,0,0,0" VerticalAlignment="Top" Width="436" Source="/Images/HowToPray/5.jpg" Stretch="Fill"/>
+                    <Rectangle Fill="{StaticResource PhoneInactiveBrush}" HorizontalAlignment="Left" Height="295" Margin="10,305,0,0" Stroke="{StaticResource PhoneInactiveBrush}" VerticalAlignment="Top" Width="436"/>
+                    <ScrollViewer HorizontalAlignment="Left" Margin="10,305,0,0" VerticalAlignment="Top" Height="292" Width="436">
+                        <TextBlock TextWrapping="Wrap" Height="700" Width="436" FontSize="30">
+                        	<Span>
+                        		<Run Text="5. Perform Ruk'u"/>
+                        	</Span>
+                        	<LineBreak/>
+                            <LineBreak/>
+                        	<Span>
+                        		<Run Text="The ruku is basically a bow. You unfold your hands and bow, then placing your hands on your knees. Your back should become parallel to the ground. It is essential to completely bow, not just tilt your body at 45"/>
+                        	</Span>
+                        	<Span FontWeight="Bold">
+                        		<Run Text="° "/>
+                        	</Span>
+                        	<Span>
+                        		<Run Text="the vertical. Say "/>
+                        	</Span>
+                        	<Span FontFamily="Times New Roman">
+                        		<Run Text="الله اكبر"/>
+                        	</Span>
+                        	<Span>
+                        		<Run Text=" (Allahu Akbar) as you perform this step. When you are in ruku, recite "/>
+                        	</Span>
+                        	<Span FontFamily="Times New Roman">
+                        		<Run Text="سُبحانَ رَبِّيَ العظيم"/>
+                        	</Span>
+                        	<Span>
+                        		<Run Text=" (Subhan rabbi alAdheem) thrice."/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PivotItem>
+
+            <!--Pivot item six-->
+            <phone:PivotItem Header="step #6">
+                <Grid>
+                    <Image HorizontalAlignment="Left" Height="300" Margin="10,0,0,0" VerticalAlignment="Top" Width="436" Source="/Images/HowToPray/6.jpg" Stretch="Fill"/>
+                    <Rectangle Fill="{StaticResource PhoneInactiveBrush}" HorizontalAlignment="Left" Height="295" Margin="10,305,0,0" Stroke="{StaticResource PhoneInactiveBrush}" VerticalAlignment="Top" Width="436"/>
+                    <ScrollViewer HorizontalAlignment="Left" Margin="10,305,0,0" VerticalAlignment="Top" Height="292" Width="436">
+                        <TextBlock TextWrapping="Wrap" Height="292" Width="436" FontSize="30">
+                        	<Span>
+                        		<Run Text="6. Rise up"/>
+                        	</Span>
+                        	<LineBreak/>
+                            <LineBreak/>
+                        	<Span>
+                        		<Run Text="Rise form the bow, while reciting "/>
+                        	</Span>
+                        	<Span FontFamily="Times New Roman">
+                        		<Run Text="رَبّنَا لَكَ الحَمدُ"/>
+                        	</Span>
+                        	<Span>
+                        		<Run Text=" (Our Lord, to You is due all praise)."/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PivotItem>
+
+            <!--Pivot item seven-->
+            <phone:PivotItem Header="step #7">
+                <Grid Margin="0,0,0,-500">
+                    <Image HorizontalAlignment="Left" Height="300" Margin="10,0,0,0" VerticalAlignment="Top" Width="436" Source="/Images/HowToPray/7.jpg" Stretch="Fill"/>
+                    <Rectangle Fill="{StaticResource PhoneInactiveBrush}" HorizontalAlignment="Left" Height="295" Margin="10,305,0,0" Stroke="{StaticResource PhoneInactiveBrush}" VerticalAlignment="Top" Width="436"/>
+                    <ScrollViewer HorizontalAlignment="Left" Margin="10,305,0,0" VerticalAlignment="Top" Height="292" Width="436">
+                        <TextBlock TextWrapping="Wrap" Height="700" Width="436" FontSize="30">
+                        	<Span>
+                        		<Run Text="7. Perform Prostration"/>
+                        	</Span>
+                        	<LineBreak/>
+                            <LineBreak/>
+                        	<Span>
+                        		<Run Text="Say "/>
+                        	</Span>
+                        	<Span FontFamily="Times New Roman">
+                        		<Run Text="الله اكبر"/>
+                        	</Span>
+                        	<Span>
+                        		<Run Text=" (Allahu Akbar) and prostrate, placing your forehead, palms, and knees on the ground. The bases of both feet's fingers need to touch the ground. Your forehead must be bare – a covered forehead invalidates prayer. Recite "/>
+                        	</Span>
+                        	<Span FontFamily="Times New Roman">
+                        		<Run Text="سبحان ربِّيَ ألأعلى"/>
+                        	</Span>
+                        	<Span>
+                        		<Run Text=" (Subhan rabbi alAla) trice. A woman's elbows may touch the ground, but men must keep their elbows raised above the ground."/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PivotItem>
+
+            <!--Pivot item eight-->
+            <phone:PivotItem Header="step #8">
+                <Grid Margin="0,0,0,-300">
+                    <Image HorizontalAlignment="Left" Height="300" Margin="10,0,0,0" VerticalAlignment="Top" Width="436" Source="/Images/HowToPray/8.jpg" Stretch="Fill"/>
+                    <Rectangle Fill="{StaticResource PhoneInactiveBrush}" HorizontalAlignment="Left" Height="295" Margin="10,305,0,0" Stroke="{StaticResource PhoneInactiveBrush}" VerticalAlignment="Top" Width="436"/>
+                    <ScrollViewer HorizontalAlignment="Left" Margin="10,305,0,0" VerticalAlignment="Top" Height="292" Width="436">
+                        <TextBlock TextWrapping="Wrap" Height="500" Width="436" FontSize="30">
+                        	<Span>
+                        		<Run Text="8. Rise to a sitting position, saying "/>
+                        	</Span>
+                        	<Span FontFamily="Times New Roman">
+                        		<Run Text="الله اكبر"/>
+                        	</Span>
+                        	<Span>
+                        		<Run Text=" (Allahu Akbar)"/>
+                        	</Span>
+                        	<LineBreak/>
+                            <LineBreak/>
+                        	<Span>
+                        		<Run Text="When you are in this position, you must keep your eyes at your lap, Men turn up the heel, and bend the toes, of the right foot. Women keep both their feet, soles up, under their body."/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PivotItem>
+
+            <!--Pivot item nine-->
+            <phone:PivotItem Header="step #9">
+                <Grid>
+                    <Image HorizontalAlignment="Left" Height="300" Margin="10,0,0,0" VerticalAlignment="Top" Width="436" Source="/Images/HowToPray/9.jpg" Stretch="Fill"/>
+                    <Rectangle Fill="{StaticResource PhoneInactiveBrush}" HorizontalAlignment="Left" Height="295" Margin="10,305,0,0" Stroke="{StaticResource PhoneInactiveBrush}" VerticalAlignment="Top" Width="436"/>
+                    <ScrollViewer HorizontalAlignment="Left" Margin="10,305,0,0" VerticalAlignment="Top" Height="292" Width="436">
+                        <TextBlock TextWrapping="Wrap" Height="292" Width="436" FontSize="30">
+                        	<Span>
+                        		<Run Text="9. Prostrate again, saying "/>
+                        	</Span>
+                        	<Span FontFamily="Times New Roman">
+                        		<Run Text="الله اكبر"/>
+                        	</Span>
+                        	<Span>
+                        		<Run Text=" (Allahu Akbar)"/>
+                        	</Span>
+                        	<LineBreak/>
+                            <LineBreak/>
+                        	<Span>
+                        		<Run Text="The second prostration is identical to the first one."/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PivotItem>
+
+            <!--Pivot item ten-->
+            <phone:PivotItem Header="step #10">
+                <Grid>
+                    <Image HorizontalAlignment="Left" Height="300" Margin="10,0,0,0" VerticalAlignment="Top" Width="436" Source="/Images/HowToPray/10.jpg" Stretch="Fill"/>
+                    <Rectangle Fill="{StaticResource PhoneInactiveBrush}" HorizontalAlignment="Left" Height="295" Margin="10,305,0,0" Stroke="{StaticResource PhoneInactiveBrush}" VerticalAlignment="Top" Width="436"/>
+                    <ScrollViewer HorizontalAlignment="Left" Margin="10,305,0,0" VerticalAlignment="Top" Height="292" Width="436">
+                        <TextBlock TextWrapping="Wrap" Height="292" Width="436" FontSize="30">
+                        	<Span>
+                        		<Run Text="10. "/>
+                        	</Span>
+                        	<LineBreak/>
+                            <LineBreak/>
+                        	<Span>
+                        		<Run Text="If it's the first raka'at, rise up and redo step 4."/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PivotItem>
+
+            <!--Pivot item eleven-->
+            <phone:PivotItem Header="step #11">
+                <Grid Margin="0,0,0,-1500">
+                    <Image HorizontalAlignment="Left" Height="300" Margin="10,0,0,0" VerticalAlignment="Top" Width="436" Source="/Images/HowToPray/11.jpg" Stretch="Fill"/>
+                    <Rectangle Fill="{StaticResource PhoneInactiveBrush}" HorizontalAlignment="Left" Height="295" Margin="10,305,0,0" Stroke="{StaticResource PhoneInactiveBrush}" VerticalAlignment="Top" Width="436"/>
+                    <ScrollViewer HorizontalAlignment="Left" Margin="10,305,0,0" VerticalAlignment="Top" Height="292" Width="436">
+                        <TextBlock TextWrapping="Wrap" Height="1750" Width="436" FontSize="30">
+                        	<Span>
+                        		<Run Text="11.  Perform the Tashahhud at the end of the second raka'at"/>
+                        	</Span>
+                        	<LineBreak/>
+                            <LineBreak/>
+                        	<Span>
+                        		<Run Text="After the second prostration, stay in the sitting position and recite the Tashahhud (also known as Tahiyat) and the Salawat."/>
+                        	</Span>
+                        	<LineBreak/>
+                        	<LineBreak/>
+                        	<Span>
+                        		<Run Text="Atta-hiyyatu lillahi was-salawatu wat-tayyaibatu As-salamu 'alaika ayyuh-an-Nabiyyu wa rahmat-ullahi wa barakatuhu As-salamu 'alaina wa 'alaa 'Ibaadillah-is-salihin. Ash-hadu-al-Ilaha illAllahu wa ash-hadu anna Muhammadan 'abduhu wa Rasuluh."/>
+                        	</Span>
+                        	<LineBreak/>
+                        	<LineBreak/>
+                        	<Span>
+                        		<Run Text="If you are performing only two raka'ats, then this is the last raka'at. After saying the Tashahhud and the Salawat, say the Durud,"/>
+                        	</Span>
+                        	<LineBreak/>
+                        	<LineBreak/>
+                        	<Span>
+                        		<Run Text="(Allahumma sali ala Muhammad wa ala Aali Muhammad kama saliet ala Ibrahim wa barik ala Muhammad wa ala Aali Muhammad kama barakta ala Ibrahim wa ala Aali Ibrahim ennak hameed majeed) then recite, Allahumma inne zalamtu nafsi zulma kasira wala yagfiru junuba inna anta fagfirulu magfiratam min indika war hamni inna kala gafirur rahimand, then complete the prayer by looking over right shoulder (where the angel who records your good deeds is) and saying the salaam."/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PivotItem>
+
+            <!--Pivot item twelve-->
+            <phone:PivotItem Header="step #12">
+                <Grid>
+                    <Image HorizontalAlignment="Left" Height="300" Margin="10,0,0,0" VerticalAlignment="Top" Width="436" Source="/Images/HowToPray/12.jpg" Stretch="Fill"/>
+                    <Rectangle Fill="{StaticResource PhoneInactiveBrush}" HorizontalAlignment="Left" Height="295" Margin="10,305,0,0" Stroke="{StaticResource PhoneInactiveBrush}" VerticalAlignment="Top" Width="436"/>
+                    <ScrollViewer HorizontalAlignment="Left" Margin="10,305,0,0" VerticalAlignment="Top" Height="292" Width="436">
+                        <TextBlock TextWrapping="Wrap" Height="292" Width="436" FontSize="30">
+                        	<Span>
+                        		<Run Text="12. Turn your head to the right"/>
+                        	</Span>
+                        	<LineBreak/>
+                            <LineBreak/>
+                        	<Span>
+                        		<Run Text="Say, ''Asalam Alaikum wa rahmatullah''."/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PivotItem>
+
+            <!--Pivot item thirteen-->
+            <phone:PivotItem Header="step #13">
+                <Grid Margin="0,0,0,-100">
+                    <Image HorizontalAlignment="Left" Height="300" Margin="10,0,0,0" VerticalAlignment="Top" Width="436" Source="/Images/HowToPray/13.jpg" Stretch="Fill"/>
+                    <Rectangle Fill="{StaticResource PhoneInactiveBrush}" HorizontalAlignment="Left" Height="295" Margin="10,305,0,0" Stroke="{StaticResource PhoneInactiveBrush}" VerticalAlignment="Top" Width="436"/>
+                    <ScrollViewer HorizontalAlignment="Left" Margin="10,305,0,0" VerticalAlignment="Top" Height="292" Width="436">
+                        <TextBlock TextWrapping="Wrap" Height="350" Width="436" FontSize="30">
+                        	<Span>
+                        		<Run Text="13. Turn your head to the left"/>
+                        	</Span>
+                        	<LineBreak/>
+                            <LineBreak/>
+                        	<Span>
+                        		<Run Text="Say, ''Asalam Alaikum wa rahmatullah''."/>
+                        	</Span>
+                        	<LineBreak/>
+                            <LineBreak/>
+                        	<Span>
+                        		<Run Text="You are greeting and putting peace on the Angels on shoulders recording your deeds."/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PivotItem>
+        </phone:Pivot>
+    </Grid>
+
+</phone:PhoneApplicationPage>

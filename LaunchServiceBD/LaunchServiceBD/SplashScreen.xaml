@@ -1,0 +1,23 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="LaunchServiceBD.SplashScreen"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True"
+    
+    xmlns:Controls="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Primitives">
+
+    <Grid>
+        <Image HorizontalAlignment="Center" VerticalAlignment="Center" Source="/Assets/SplashScreen.jpg" Stretch="Fill"/>
+        <Controls:RadBusyIndicator IsRunning="True" AnimationStyle="AnimationStyle7" Margin="150,500,150,100" Foreground="#FF60A917"/>
+    </Grid>
+
+</phone:PhoneApplicationPage>

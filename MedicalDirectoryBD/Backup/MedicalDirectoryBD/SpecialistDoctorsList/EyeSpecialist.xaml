@@ -1,0 +1,287 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="MedicalDirectoryBD.EyeSpecialist"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Assets/Aq.PNG"/>
+        </Grid.Background>
+        <!--Pivot Control-->
+        <controls:Pivot Title="Specialist Doctors List" Foreground="White" FontSize="25">
+            <!--Pivot item one-->
+            <controls:PivotItem Header="#1">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. AKM Mamunur Rashid  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, DCO, MPH "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Register , Ex ( Roayal Adelaide Hospital, Australia )  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Eye ( Ophthalmology ) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: Mojibunnessa Eye Hospital Ltd "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Mojibunnessa Eye Hospital Ltd "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: House # 18, Road # 6, Dhanmondi R/A, Dhaka -1205, Bangladesh "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880 1913925566, 01552474338, +880-2-8628512, 8628712  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item two-->
+            <controls:PivotItem Header="#2">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. Deen Mohd. Noorul Huq "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, FCPS "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Professor &amp; Director  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Eye ( Ophthalmology ) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: National Institue of Ophthalmology "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Mojibunnessa Eye Hospital Ltd "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: House # 18, Road # 6, Dhanmondi R/A, Dhaka -1205, Bangladesh "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-9119738, 8113628  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item three-->
+            <controls:PivotItem Header="#3">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. Halima Saidya Begum  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, DO ( DU ) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Consultant "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Eye ( Ophthalmology ) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: National Institute of Opthalmology &amp; Hospital ( NIOH ) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Fashion Eye Hospital Ltd. "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: Fashion tower, 98/6-A, Bara Moghbazar, Dhaka - 1217 "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-9338986, 9343961-2  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item four-->
+            <controls:PivotItem Header="#4">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. Hiramoni Sarma  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, DOMS, Fellow Retinal lasers "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Consultant "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Eye ( Ophthalmology ) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: SQUARE Hospital Ltd, Dhaka, Bangladesh "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: SQUARE Hospitals Ltd. "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: 18/F Bir Uttam Qazi Nuruzzaman Sarak, West Panthapath, Dhaka - 1205, Bangladesh. "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-8159457, 8142431, 8141522, 8144400, 8142333, 01713377773  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item five-->
+            <controls:PivotItem Header="#5">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. Jasim Uddin  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, DO, FICO ( UK ) , PhD ( London )  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Consultant "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Eye ( Ophthalmology ) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: Islami Bank Central Hospital "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Islami Bank Central Hospital "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: 30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000 "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-9355801-2, 9360331-2  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website: "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+    
+</phone:PhoneApplicationPage>

@@ -1,0 +1,287 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="MedicalDirectoryBD.LiverGastroenterology"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Assets/Aq.PNG"/>
+        </Grid.Background>
+        <!--Pivot Control-->
+        <controls:Pivot Title="Specialist Doctors List" Foreground="White" FontSize="25">
+            <!--Pivot item one-->
+            <controls:PivotItem Header="#1">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. A H M Rowshon "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, FCPS (Med.), MD(Gastro), Commonwealth Fellow-gastro (UK) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Professor, Department of Gastroenterlogy "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Liver &amp; Gastroenterology "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: Shaheed Suhrawardy Medical College &amp; Hospital "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Popular Diagnostic Centre Ltd - Dhanmondi Branch "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205 "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item two-->
+            <controls:PivotItem Header="#2">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. A.K.M. Shamsul kabir  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS (DMCH), FCPS (Medicine), MD (Hepatology) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Assistant Professor "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Liver &amp; Gastroenterology "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: Holy Family Red Crescent Medical College Hospital "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Labaid Specialized Hospital - Gulshan Branch "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: House# 13/A, Road # 35, Gulshan # 2, Dhaka-1212 "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-8835981-4, 8858943, 8835966, +880 152463101  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item three-->
+            <controls:PivotItem Header="#3">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Professor Dr. M. T. Rahman  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, FCPS, Trained in France &amp; Japan "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Former Professor, Gastrointestinal Liver &amp; Pancereatic Diseases "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Liver &amp; Gastroenterology "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: Popular Diagnostic Center Ltd.  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Popular Diagnostic Centre Ltd - Dhanmondi Branch "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205 "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item four-->
+            <controls:PivotItem Header="#4">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Professor Dr. Md. Masihur Rahman "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, PhD, ACT(Japan) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Professor "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Liver &amp; Gastroenterology "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: Northern International Medical College &amp; Hospital "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Doctors Diagnostic Center Ltd. "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: Road # 7, Dhanmondi, Dhaka - 1205 "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2- 8115300( Chamber )  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item five-->
+            <controls:PivotItem Header="#5">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. Brig. General Md. Mokhlesur Rahman  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, FCPS, Fellow ( Gastro ) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Consultant "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Liver &amp; Gastroenterology "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: Combined Military Hospital ( CMH ), Dhaka "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Ibn Sina Diagnostic &amp; Imaging Center "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: House # 48, Road # 9/A, Satmasjid Road, Dhanmondi, Dhaka - 1209, Bangladesh "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-9101641, 8123865 ( Chamber ), Cell: +880 1713013064, +880 1918984400  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website: "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+    
+</phone:PhoneApplicationPage>

@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="PrayerWayDhaka.AboutControl"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    d:DesignHeight="480" d:DesignWidth="480">
+
+    <Grid x:Name="LayoutRoot" Background="{StaticResource PhoneChromeBrush}">
+        <StackPanel Margin="0,-12,0,24">
+            <TextBlock Style="{StaticResource PhoneTextLargeStyle}" Text="by BDdevs" />
+
+            <TextBlock Style="{StaticResource PhoneTextNormalStyle}"
+                           FontSize="{StaticResource PhoneFontSizeMedium}" 
+                           Margin="12,12,0,0" FontWeight="Bold"
+                           Text="Copyright (c) 2014 BDdevs." />
+
+            <TextBlock Style="{StaticResource PhoneTextNormalStyle}" 
+                           Margin="12,24,0,0"  FontSize="{StaticResource PhoneFontSizeSmall}"
+                           TextWrapping="Wrap">
+                     In this app we have implemented 1200+ Mosque in Dhaka city. This Database has been created by BDdevs. If you find any mistake please inform us, to improve this app.
+                    <LineBreak/>To know more about us, please see the following references:
+            </TextBlock>
+            <HyperlinkButton Foreground="{StaticResource PhoneAccentBrush}"
+                                 TargetName="_new" FontSize="{StaticResource PhoneFontSizeSmall}"
+                                 HorizontalAlignment="Left" 
+                                 Content="About BDdevs and our goal, approach" />
+
+            <TextBlock Style="{StaticResource PhoneTextNormalStyle}" 
+                           Margin="12,24,0,12" FontWeight="Bold"
+                           Text="More informations:" 
+                           FontSize="{StaticResource PhoneFontSizeMedium}" />
+
+            <HyperlinkButton Foreground="{StaticResource PhoneAccentBrush}"
+                                 TargetName="_new" 
+                                 HorizontalAlignment="Left" 
+                                 Content="bddevs@outlook.com" />
+
+            <HyperlinkButton NavigateUri="https://www.facebook.com/bddevs"
+                                 Foreground="{StaticResource PhoneAccentBrush}"
+                                 TargetName="_new" 
+                                 HorizontalAlignment="Left" 
+                                 Content="Support" />
+
+            <HyperlinkButton NavigateUri="https://www.facebook.com/bddevs"
+                                 Foreground="{StaticResource PhoneAccentBrush}"
+                                 TargetName="_new" 
+                                 HorizontalAlignment="Left" 
+                                 Content="Privacy Policy" />
+
+        </StackPanel>
+    </Grid>
+</UserControl>

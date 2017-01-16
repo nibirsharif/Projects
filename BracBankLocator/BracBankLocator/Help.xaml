@@ -1,0 +1,87 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="BracBankLocator.Help"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardIn"/>
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardIn"/>
+            </toolkit:NavigationInTransition.Forward>
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardOut"/>
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardOut"/>
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="Brac Bank Locator" Foreground="RoyalBlue" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="Help" Foreground="RoyalBlue" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <Line  x:Name="line" X1="0" Y1="5" X2="456" Y2="5"  Stroke="RoyalBlue" StrokeThickness="4"></Line>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <ScrollViewer HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="587" Width="436">
+                <TextBlock TextWrapping="Wrap" Height="800" Width="436" Foreground="RoyalBlue" FontSize="25">
+                	<Span>
+                		<Run Text="Allow your location, so that map can find your current location to show the nearest ATM or Branch location."/>
+                	</Span>
+                	<LineBreak/>
+                	<Span>
+                		<Run Text="You can tap on the pin to know about the specific ATM or Branch location. "/>
+                	</Span>
+                	<LineBreak/>
+                	<LineBreak/>
+                	<Span>
+                		<Run Text="Tap on the nearest button to show the nearest route ATM or Branch location, and you can also tap on 'Turn off route' to off the route."/>
+                	</Span>
+                	<LineBreak/>
+                	<LineBreak/>
+                	<Span>
+                		<Run Text="You can also download the full map for better service."/>
+                	</Span>
+                	<LineBreak/>
+                	<Span>
+                		<Run Text="You can turn direction on/off to help you show the direction of your destination route."/>
+                	</Span>
+                	<LineBreak/>
+                	<LineBreak/>
+                	<Span>
+                		<Run Text="Due to your internet connection sometimes it can be disturbed to find your location, but you can also turn off your location as well. In this case default location will be used."/>
+                	</Span>
+                </TextBlock>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

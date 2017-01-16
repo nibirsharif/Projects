@@ -1,0 +1,286 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="MedicalDirectoryBD.Diabetes"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Assets/Aq.PNG"/>
+        </Grid.Background>
+        <!--Pivot Control-->
+        <controls:Pivot Title="Specialist Doctors List" Foreground="White" FontSize="25">
+            <!--Pivot item one-->
+            <controls:PivotItem Header="#1">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. Abdul Mannan Sarker "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, DEM (DU), MD (Endocrinology) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Consultant "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Diabetes &amp; Endocrine "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: Apollo Hospitals Dhaka "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Apollo Hospitals Dhaka "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: Plot # 81, Block # E, Basudhara R/A, Dhaka - 1229 "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-8401661, 8845242, Cell: +880 1841276556, Hotline: 10678  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item two-->
+            <controls:PivotItem Header="#2">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. Anisur Rhaman  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, DIH, DEM "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Consultant, Senior, Specialist of Endocrinologist "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Diabetes &amp; Endocrine "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: BIRDEM, Shahbagh, Dhaka  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Central Hospital Limited "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: House # 5, Road # 2, Dhaka - 1205 "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880 2 9660015-19, Ext-8209 ( Chamber )  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item three-->
+            <controls:PivotItem Header="#3">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. ( Capt. Rtd. ) H.S Ferdous "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, DEM (DU), FRMH (Australia), MACE (USA) Ph.D Fellow(DU), Ex-Visiting Associate RMH (Australia) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Consultant "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Diabetes &amp; Endocrine "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: BIRDEM &amp; Ibrahim Medical College &amp; Hospital "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Popular Diagnostic Centre Ltd - Dhanmondi Branch "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205 "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-9669480, 9661491-3, Mobile - 01553341060-1, 01553341063  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item four-->
+            <controls:PivotItem Header="#4">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. Indrajit Prasad "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, FCPS, MD, MACE ( USA )  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Assistant professor "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Diabetes &amp; Endocrine "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: Sir Salimullah Medical College (SSMC) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Labaid Specialized Hospital "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: House # 1, Road # 4, Dhanmondi, Dhaka - 1205 "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: + 880-2-8610793 - 8, 9670210 - 3, 8631177  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item five-->
+            <controls:PivotItem Header="#5">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. Kazi Ali Hassan "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, M.Phil (EM), MRCP (UK) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Consultant, Specialist of Endocrinologist "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Diabetes &amp; Endocrine "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: SQUARE Hospital Ltd. "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: SQUARE Hospitals Ltd. "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: 18/F Bir Uttam Qazi Nuruzzaman Sarak, West Panthapath, Dhaka - 1205, Bangladesh. "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-8159457, 8142431, 8141522, 8144400, 8142333, 01713141447  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website: "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+    
+</phone:PhoneApplicationPage>

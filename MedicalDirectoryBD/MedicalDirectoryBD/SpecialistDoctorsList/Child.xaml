@@ -1,0 +1,195 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="MedicalDirectoryBD.Child"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Assets/Aq.PNG"/>
+        </Grid.Background>
+        <!--Pivot Control-->
+        <controls:Pivot Title="Specialist Doctors List" Foreground="White" FontSize="25">
+            <!--Pivot item one-->
+            <controls:PivotItem Header="#1">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name : Professor Dr. A. F. M. Selim"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, MD, FCPS , Phd ( London )"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Deputy Director ( Academic )"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise :  Pediatric - Child"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization : Institute of Child Health ( ICH ) , Shishu Hospital - Dhaka, Bangladesh"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber : Central Hospital Limited"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours : 6 am - 10 am "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location : House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone : +880-2-9660015 - 19, 8624514-18 , Ext - 2214, 2202 ( Chamber ) "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item two-->
+            <controls:PivotItem Header="#2">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name : Dr. Abu Sayeed Mohammad Iqbal"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, FCPS, MD, Fellow (Singapore)"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Senior Consultant"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Child ( Pediatric )"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization : Apollo Hospitals Dhaka"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber : Apollo Hospitals Dhaka"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location : Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone : +880-2-8401661, Hotline - 10678"/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item three-->
+            <controls:PivotItem Header="#3">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name : Dr. Begum Sharifun Nahar"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, BCS, FCPS (Ped), MD (DU)"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Associate Professor, Department of Pediatrics"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Child ( Pediatric ) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization : Bangabandhu Sheikh Mujib Medical University (BSMMU)"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber : Comfort Diagnostic Centre &amp; Comfort Nursing Home - Green Road"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours : 6 am to 10 am"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location : Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone : +880-2-8124990 (Master Line), 8129667, 8124380"/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item four-->
+            <controls:PivotItem Header="#4">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name : Dr. A B M Shahidul Alam"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, MCPS, DCH, FCPS"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Chief Consultant &amp; Head, Pediatrics"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Pediatric - Child"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization : Central Hospital, Dhaka"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber : Central Hospital Limited"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location : House # 5, Road # 2, Dhaka - 1205, Bangladesh"/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone : +880-2-9660015-19, 8624514 Ext - 2214 ( Chamber )"/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+    
+</phone:PhoneApplicationPage>

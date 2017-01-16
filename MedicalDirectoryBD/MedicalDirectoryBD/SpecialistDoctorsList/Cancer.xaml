@@ -1,0 +1,287 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="MedicalDirectoryBD.Cancer"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Assets/Aq.PNG"/>
+        </Grid.Background>
+        <!--Pivot Control-->
+        <controls:Pivot x:Name="MyPivot" Title="Specialist Doctors List" Foreground="White" FontSize="25">
+            <!--Pivot item one-->
+            <controls:PivotItem Header="#1">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. A K M Hamidur Rahman  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, DMRT "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Associate Professor "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Cancer - Oncology "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Ibn Sina Diagnostic &amp; Imaging Center "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: House # 48, Road # 9/A, Dhanmondi, SAtmasjid Road, Dhaka - 1209, Bangladesh "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-9128835-7, 9126625-6, Cell: +880 1717351631( Chamber )  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item two-->
+            <controls:PivotItem Header="#2">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Professor Dr. A.B.M.F. Karim  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, FRCR, PhD "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Professor &amp; Chairman "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Cancer - Oncology "/>
+                        	</Span>
+                        	<LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: Oncology Club &amp; Editorial Board of Cancer Control Journal "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Japan Bangladesh Friednship Hospital "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: 55, Satmasjid Road ( Zigatola Bus Stand ), Dhanmondi, Dhaka - 1209, Bangladesh "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-9672277, 9676161, 9664028, 9664029  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item three-->
+            <controls:PivotItem Header="#3">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. Ehteshamul Haque  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, BCS ( Health ), M.Phil(Radiotherapy) . "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Cancer Specialist  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Cancer - Oncology "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: Ahsania Mission Cancer &amp; General Hospital "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Plot no - M-1/C, Section - 14, Mirpur, Dhaka - 1206 "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: M-1/C, Section - 14, Mirpur, Dhaka - 1206 "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-8113010, 8118522  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item four-->
+            <controls:PivotItem Header="#4">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. Ishtiak Ahmed shamim "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS(Dhaka),Ph.D(Japan) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Assistant Professor "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Cancer - Oncology "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: Bangabandhu Sheikh Mujib Medical University (BSMMU) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: City Hospital Ltd. "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: 1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-8143312, 8143437, 8143166, 8143167, 9124436, Mobile - 01911340179  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website:  "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+            <!--Pivot item five-->
+            <controls:PivotItem Header="#5">
+                <Grid>
+                    <ScrollViewer>
+                        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,10" TextWrapping="Wrap" VerticalAlignment="Top" Height="800" Width="436">
+                        	<Span>
+                        		<Run Text="Doctor's Name: Dr. Lutfun Naher "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Qualification : MBBS, M Phil(Radiotherapy) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Designation : Assistant Professor "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Expertise : Cancer - Oncology "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Organization: Delta Medical College &amp; Hospital "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Chamber: Delta Medical College &amp; Hospital "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Visiting Hours:  "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Location: 26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka- 1212, Bangladesh "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Phone: +880-2-8017151-52, 8031378-79  Members Only (Mobile no) "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="email: Members Only "/>
+                        	</Span>
+                        	<LineBreak/><LineBreak/>
+                        	<Span>
+                        		<Run Text="Website: "/>
+                        	</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+    
+</phone:PhoneApplicationPage>

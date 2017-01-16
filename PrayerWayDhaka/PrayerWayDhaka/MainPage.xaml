@@ -1,0 +1,163 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="PrayerWayDhaka.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <phone:PhoneApplicationPage.Resources>
+        <Style x:Key="ButtonStyle1" TargetType="Button">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="{StaticResource PhoneForegroundBrush}"/>
+            <Setter Property="Foreground" Value="{StaticResource PhoneForegroundBrush}"/>
+            <Setter Property="BorderThickness" Value="{StaticResource PhoneBorderThickness}"/>
+            <Setter Property="FontFamily" Value="{StaticResource PhoneFontFamilySemiBold}"/>
+            <Setter Property="FontSize" Value="{StaticResource PhoneFontSizeMediumLarge}"/>
+            <Setter Property="Padding" Value="10,3,10,5"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid Background="Transparent">
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver"/>
+                                    <VisualState x:Name="Pressed">
+                                        <Storyboard>
+
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="BorderBrush" Storyboard.TargetName="ButtonBackground">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PhoneForegroundBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Disabled">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="BorderBrush" Storyboard.TargetName="ButtonBackground">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PhoneDisabledBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Border x:Name="ButtonBackground" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="0" Margin="{StaticResource PhoneTouchTargetOverhang}" Background="{TemplateBinding Background}">
+                                <ContentControl x:Name="ContentContainer" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" Foreground="{StaticResource PhoneContrastBackgroundBrush}" HorizontalContentAlignment="{TemplateBinding HorizontalContentAlignment}" Padding="{TemplateBinding Padding}" VerticalContentAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ButtonStyle2" TargetType="Button">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="{StaticResource PhoneForegroundBrush}"/>
+            <Setter Property="Foreground" Value="{StaticResource PhoneForegroundBrush}"/>
+            <Setter Property="BorderThickness" Value="{StaticResource PhoneBorderThickness}"/>
+            <Setter Property="FontFamily" Value="{StaticResource PhoneFontFamilySemiBold}"/>
+            <Setter Property="FontSize" Value="{StaticResource PhoneFontSizeMediumLarge}"/>
+            <Setter Property="Padding" Value="10,3,10,5"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid Background="Transparent">
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver"/>
+                                    <VisualState x:Name="Pressed">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="BorderBrush" Storyboard.TargetName="ButtonBackground">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PhoneForegroundBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Disabled">
+                                        <Storyboard>
+                                            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="BorderBrush" Storyboard.TargetName="ButtonBackground">
+                                                <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PhoneDisabledBrush}"/>
+                                            </ObjectAnimationUsingKeyFrames>
+                                        </Storyboard>
+                                    </VisualState>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Border x:Name="ButtonBackground" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" CornerRadius="0" Margin="{StaticResource PhoneTouchTargetOverhang}" Background="{TemplateBinding Background}">
+                                <ContentControl x:Name="ContentContainer" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" Foreground="{StaticResource PhoneBorderBrush}" HorizontalContentAlignment="{TemplateBinding HorizontalContentAlignment}" Padding="{TemplateBinding Padding}" VerticalContentAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </phone:PhoneApplicationPage.Resources>
+
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Images/SingleBackground.png"/>
+        </Grid.Background>
+
+        <Rectangle Fill="{StaticResource PhoneInactiveBrush}" HorizontalAlignment="Left" Height="190" Margin="0,110,0,0" Stroke="{StaticResource PhoneInactiveBrush}" VerticalAlignment="Top" Width="480"/>
+
+        <!--<Image HorizontalAlignment="Left" 
+    		Source="/Assets/BdDevs.png" 
+    		Margin="320,608,0,10" 
+    		Width="150" Height="150"/>-->
+
+        <TextBlock  HorizontalAlignment="Left" Height="110" Margin="10,0,0,0" TextWrapping="Wrap" Width="460" FontSize="60" FontFamily="Segoe WP Light" Text="prayer way dhaka" VerticalAlignment="Top"/>
+
+        <Button ClickMode="Press" Content="prayer&#xd;&#xa;time table" FontFamily="Segoe WP SemiLight" FontSize="26.667" Height="218" HorizontalAlignment="Left" HorizontalContentAlignment="Left" Margin="30,310,0,0" Name="button1" Padding="10,30,8,8" Style="{StaticResource ButtonStyle1}" VerticalAlignment="Top" VerticalContentAlignment="Bottom" Width="207" Click="btnPrayerTimeTable">
+            <Button.Background>
+                <ImageBrush Stretch="UniformToFill" ImageSource="/Images/Icons/appbar.timer.png">
+                    <ImageBrush.RelativeTransform>
+                        <CompositeTransform CenterY="0.5" CenterX="0.5" TranslateY="-0.2"/>
+                    </ImageBrush.RelativeTransform>
+                </ImageBrush>
+            </Button.Background>
+        </Button>
+        <Button ClickMode="Press" Content="how&#xd;&#xa;to pray" FontFamily="Segoe WP SemiLight" FontSize="26.667" FontWeight="Normal" Height="218" HorizontalAlignment="Left" HorizontalContentAlignment="Left" Margin="245,310,0,0" Name="button2" Padding="10,30,8,8" Style="{StaticResource ButtonStyle1}" VerticalAlignment="Top" VerticalContentAlignment="Bottom" Width="207" Click="btnHowToPray">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="/Images/Icons/appbar.book.hardcover.open.writing.png">
+                    <ImageBrush.RelativeTransform>
+                        <CompositeTransform CenterY="0.5" CenterX="0.5" TranslateY="-0.2"/>
+                    </ImageBrush.RelativeTransform>
+                </ImageBrush>
+            </Button.Background>
+        </Button>
+        <Button ClickMode="Press" Content="find&#xd;&#xa;qibla" FontFamily="Segoe WP SemiLight" FontSize="26.667" FontWeight="Normal" Height="218" HorizontalAlignment="Left" HorizontalContentAlignment="Left" Margin="30,530,0,0" Name="button3" Padding="10,30,8,8" Style="{StaticResource ButtonStyle1}" VerticalAlignment="Top" VerticalContentAlignment="Bottom" Width="207" Click="btnFindQibla">
+            <Button.Background>
+                <ImageBrush Stretch="UniformToFill" ImageSource="/Images/Icons/appbar.box.layered.png">
+                    <ImageBrush.RelativeTransform>
+                        <CompositeTransform CenterY="0.5" CenterX="0.5" TranslateY="-0.15"/>
+                    </ImageBrush.RelativeTransform>
+                </ImageBrush>
+            </Button.Background>
+        </Button>
+        <Button ClickMode="Press" Content="nearest&#xd;&#xa;mosque" FontFamily="Segoe WP SemiLight" FontSize="26.667" FontWeight="Normal" Height="218" HorizontalAlignment="Left" HorizontalContentAlignment="Left" Margin="245,530,0,0" Name="button4" Padding="10,30,8,8" Style="{StaticResource ButtonStyle1}" VerticalAlignment="Top" VerticalContentAlignment="Bottom" Width="207" Click="btnNearestMosque">
+            <Button.Background>
+                <ImageBrush Stretch="Fill" ImageSource="/Assets/appbar.show.route.png">
+                    <ImageBrush.RelativeTransform>
+                        <CompositeTransform CenterY="0.5" CenterX="0.5" TranslateY="-0.2"/>
+                    </ImageBrush.RelativeTransform>
+                </ImageBrush>
+            </Button.Background>
+        </Button>
+
+        <TextBlock x:Name="nextPrayTime" HorizontalAlignment="Left" Margin="10,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="159" Width="460" FontSize="110"/>
+        <TextBlock x:Name="nptTextBlock" HorizontalAlignment="Left" Margin="10,110,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="460" Height="50" FontSize="35"/>
+    </Grid>
+
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True" Opacity="0.9" Mode="Minimized" BackgroundColor="SteelBlue">
+            <shell:ApplicationBarIconButton IconUri="/Images/Icons/appbar.information.png" Text="about" Click="about_click"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/Icons/appbar.star.png" Text="review" Click="review_click"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+</phone:PhoneApplicationPage>

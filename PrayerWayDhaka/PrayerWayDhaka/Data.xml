@@ -1,0 +1,845 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Content>
+  <Data Name="10 Number Sector Masjid" Address="Road No 2, Dhaka 1230, Bangladesh" Latitude="23.880501" Longitude="90.391451"/>
+  <Data Name="3 No Alam Gonj Road Jame Masjid" Address="Dhaka, Bangladesh" Latitude="23.699162" Longitude="90.42131"/>
+  <Data Name="A block jame mosjid" Address="Mohammadia Housing Society" Latitude="23.764874" Longitude="90.353621"/>
+  <Data Name="Abdul Latif Jame Mosjid" Address="Water Works Road" Latitude="23.716098" Longitude="90.39408"/>
+  <Data Name="Abdullahpur Sarak O Janapad Jame Masjid" Address="Dhaka, Bangladesh " Latitude="23.880945" Longitude="90.400555"/>
+  <Data Name="Abir jame mosjid" Address="Naddapara Dhaka 1230, Bangladesh" Latitude="23.852273" Longitude="90.428905"/>
+  <Data Name="Abu Bakkar Jame Masjid" Address="Purba Goran, Dhaka, Bangladesh " Latitude="23.752894" Longitude="90.441908"/>
+  <Data Name="ADA Brigade Mosque" Address="Mirpur Cantonment, Mirpur Cantonment Mosque" Latitude="23.841136" Longitude="90.357354"/>
+  <Data Name="Adamjee Bus Stand Jame Masjid" Address="Narayanganj Hwy, Bangladesh " Latitude="23.676157" Longitude="90.517632"/>
+  <Data Name="Adamjee Cantonment College Jame Masjid" Address="Moinul Rd, Dhaka, Bangladesh" Latitude="23.79541" Longitude="90.395212"/>
+  <Data Name="Adamjee Cantonment Public School Mosque" Address="Badiuzzaman Road" Latitude="23.793258" Longitude="90.392974"/>
+  <Data Name="Adamjee Nagar Big Mosque" Address="Shiddhirganj" Latitude="23.672669" Longitude="90.521398"/>
+  <Data Name="Adarsha Bug Baitul Huda Jame Masjid" Address="Block- D, Dhaka, Bangladesh" Latitude="23.827244" Longitude="90.376236"/>
+  <Data Name="Adarsho Nagar Jame Masjid" Address="Dhalpur, Dhaka, Bangladesh" Latitude="23.715617" Longitude="90.435896"/>
+  <Data Name="Agamasi Lane Jame Mosque" Address="Agamasi Lane" Latitude="23.721338" Longitude="90.403999"/>
+  <Data Name="Agargaon Central Jame Mosque" Address="Agargaon, Agargaon, Dhaka" Latitude="23.779798" Longitude="90.368384"/>
+  <Data Name="Ahalia Matir Masjid" Address="Ahalia, Dhaka, Bangladesh" Latitude="23.863445" Longitude="90.384663"/>
+  <Data Name="Ahalia Masjid" Address="Ahalia, Uttara, Dhaka, Ahalia Road, Dhaka 1230, Bangladesh" Latitude="23.861271" Longitude="90.385237"/>
+  <Data Name="Ahle Hadis Masjid" Address="Nazira Bazaar, Dhaka, Bangladesh" Latitude="23.717306" Longitude="90.407373"/>
+  <Data Name="Ahmed Nagar Jame Masjid" Address="Ahmed Nagar, Dhaka, Bangladesh" Latitude="23.794249" Longitude="90.356464"/>
+  <Data Name="Ahmedbaag Jame Masjid" Address="Purbo Bashabo, Dhaka, Bangladesh" Latitude="23.736019" Longitude="90.431959"/>
+  <Data Name="Airport Jame Masjid" Address="Cantonment, Dhaka, Bangladesh" Latitude="23.850605" Longitude="90.405194"/>
+  <Data Name="Ajizia Jame Masjid" Address="Ajiz Market, Dhaka 1206, Bangladesh" Latitude="23.833334" Longitude="90.386751"/>
+  <Data Name="Al - Madina Jame Masjid" Address="Ibrahimpur, Dhaka, Bangladesh" Latitude="23.796556" Longitude="90.379906"/>
+  <Data Name="Al Aqsa Jame Masjid" Address="Ward 50, Dhaka, Bangladesh" Latitude="23.745479" Longitude="90.387675"/>
+  <Data Name="Al Arabia Masjid" Address="Milk Vita Rd, Dhaka, Bangladesh " Latitude="23.817044" Longitude="90.361419"/>
+  <Data Name="Al Arabia Masjid and Madrasa Complex" Address="Milk Vita Rd, Dhaka, Bangladesh" Latitude="23.817118" Longitude="90.361645"/>
+  <Data Name="Al- Fatah Jame Masjid" Address="South Jatra Bari, Dhaka, Bangladesh " Latitude="23.702623" Longitude="90.436797"/>
+  <Data Name="Al Madina Masjid" Address="Dania Bazar, Dhaka, Bangladesh" Latitude="23.694756" Longitude="90.444793"/>
+  <Data Name="Al Modina Jame Masjid" Address="Hazi Pande Ali Rd, Fatulla, Bangladesh " Latitude="23.677287" Longitude="90.4817"/>
+  <Data Name="Al Ramadan Jame Masjid" Address="Dhaka, Bangladesh" Latitude="23.895677" Longitude="90.380829"/>
+  <Data Name="Alam Nagar Jame Masjid" Address="Kathuria, 1310, Bangladesh" Latitude="23.703836" Longitude="90.405681"/>
+  <Data Name="Al-Amin Jame Masjid" Address="Crescent Rd, Dhaka, Bangladesh" Latitude="23.747215" Longitude="90.388172"/>
+  <Data Name="Al-Amin Jame Masjid" Address="Mugdapara, Dhaka, Bangladesh" Latitude="23.729967" Longitude="90.436041"/>
+  <Data Name="Al-Amin Jame' Masjid" Address="46 Shahjahan Rd, Dhaka, Bangladesh" Latitude="23.762102" Longitude="90.366499"/>
+  <Data Name="Al-Amin Jame Mosque" Address="Dania Bazar" Latitude="23.687702" Longitude="90.450415"/>
+  <Data Name="Al-Hera Tower Masjid" Address="Kuril, Dhaka, Bangladesh" Latitude="23.821341" Longitude="90.42309"/>
+  <Data Name="AL-Kareem Jame Masjid" Address="Dhaka, Bangladesh" Latitude="23.893705" Longitude="90.383039"/>
+  <Data Name="Allabdirtec Jama Masjid" Address="Bawnia, Dhaka, Bangladesh" Latitude="23.841999" Longitude="90.385376"/>
+  <Data Name="Allah Karim Jame Masjid" Address="Sher-E-Bangla Rd, Dhaka 1207, Bangladesh" Latitude="23.756795" Longitude="90.361433"/>
+  <Data Name="Allah Karim Jame Masjid Super Market" Address="Satmasjid Rd, Dhaka 1207, Bangladesh" Latitude="23.756915" Longitude="90.361572"/>
+  <Data Name="Allahu Masjid" Address="Cantonment, Dhaka DHAKA-1206, Bangladesh" Latitude="23.7981" Longitude="90.392527"/>
+  <Data Name="Al-Madina Jame Masjid" Address="Road 3, Dhaka 1216, Bangladesh" Latitude="23.809069" Longitude="90.355186"/>
+  <Data Name="Al-Madina Masjid" Address="Alubdi, Dhaka, Bangladesh" Latitude="23.827426" Longitude="90.34801"/>
+  <Data Name="Al-Mobarok Moshjid" Address="Pirerbag" Latitude="23.788192" Longitude="90.369521"/>
+  <Data Name="Alu Bazar Boro Masjid" Address="Haji Osman Gani Rd, Dhaka 1000, Bangladesh" Latitude="23.720464" Longitude="90.408081"/>
+  <Data Name="Alu Bazar Choto Masjid" Address="Haji Osman Gani Rd, Dhaka 1000, Bangladesh" Latitude="23.720582" Longitude="90.407357"/>
+  <Data Name="Aminbag Masjid" Address="Shanti Nagar Rd, Dhaka 1217, Bangladesh" Latitude="23.741694" Longitude="90.412625"/>
+  <Data Name="Amritopur Masjid" Address="Amritopur Jam-E-Masjid Road, 1310, Bangladesh" Latitude="23.703681" Longitude="90.392133"/>
+  <Data Name="Amtola Jame Masjid" Address="Dhaka, Bangladesh" Latitude="23.799874" Longitude="90.366384"/>
+  <Data Name="Amulia boro moshjid" Address="Dhaka, Bangladesh" Latitude="23.737092" Longitude="90.478408"/>
+  <Data Name="An Noori Jame Masjid" Address="Section-1, Mirpur, Dhaka, Bangladesh" Latitude="23.79903" Longitude="90.351732"/>
+  <Data Name="An-Noor Masjid" Address="Barontek, Dhaka 1206, Bangladesh" Latitude="23.82987" Longitude="90.388532"/>
+  <Data Name="Anurbag Jame Masjid" Address="Kazibari, Dhaka 1230, Bangladesh" Latitude="23.862272" Longitude="90.422436"/>
+  <Data Name="Araihazar Bazar Masjid" Address="Arayhazar Union Rd, Araihazar, Bangladesh" Latitude="23.787026" Longitude="90.657082"/>
+  <Data Name="Arjot Para Jame Mosjid" Address="Arjatpara" Latitude="23.776877" Longitude="90.396671"/>
+  <Data Name="Arju Shah Jame Masjid" Address="Atish Deepankar Rd, Dhaka, Bangladesh" Latitude="23.713374" Longitude="90.428214"/>
+  <Data Name="Army Colony Masjid" Address="Kachukhet Rd, Dhaka, Bangladesh" Latitude="23.797665" Longitude="90.387159"/>
+  <Data Name="Arzabad Jame Masjid" Address="Harirampur, Dhaka, Bangladesh" Latitude="23.790978" Longitude="90.342518"/>
+  <Data Name="Ashkona Boro Masjid" Address="Bhuyan Bari Road, Airport Dakshinkhan Rd, Dhaka 1230, Bangladesh" Latitude="23.850546" Longitude="90.417715"/>
+  <Data Name="Ashkona Dilarbari Jame Masjid" Address="Airport Dakshinkhan Rd, Dhaka 1230, Bangladesh" Latitude="23.851798" Longitude="90.419435"/>
+  <Data Name="Ateram Mosjid" Address="Section 14" Latitude="23.800463" Longitude="90.379488"/>
+  <Data Name="Azampur Jame Masjid" Address="Sector 4, Dhaka 1230, Bangladesh" Latitude="23.867168" Longitude="90.402652"/>
+  <Data Name="Azimpur Bus Stand Masjid" Address="Kashmiri Tola, Dhaka, Bangladesh" Latitude="23.726684" Longitude="90.385969"/>
+  <Data Name="Azimpur Chapra Masjid" Address="Azimpur, Dhaka, Bangladesh" Latitude="23.724113" Longitude="90.384907"/>
+  <Data Name="Azimpur Colony Jame Masjid" Address="Local, Dhaka, Bangladesh" Latitude="23.731207" Longitude="90.383049"/>
+  <Data Name="Azimpur Bus Stand Masjid" Address="Kashmiri Tola" Latitude="23.726681" Longitude="90.385968"/>
+  <Data Name="B Type Masjid" Address="Jigatola, Dhaka, Bangladesh" Latitude="23.738747" Longitude="90.371477"/>
+  <Data Name="B.R.I Jame Masjid" Address="Tejgaon Industrial Area, Dhaka 1208, Bangladesh" Latitude="23.764179" Longitude="90.398807"/>
+  <Data Name="Babu Bazar Jame Masjid" Address="Islampur Rd, Dhaka, Bangladesh" Latitude="23.711557" Longitude="90.403814"/>
+  <Data Name="Badamtoli Puranton Jame Masjid" Address="Sadarghat - Gabtoli Rd, Dhaka, Bangladesh" Latitude="23.709671" Longitude="90.402535"/>
+  <Data Name="BAF Base Bongobondhu Central JameMasjid " Address="Cantonment, Dhaka 1206, Bangladesh" Latitude="23.833059" Longitude="90.391526"/>
+  <Data Name="BAF Base Bashar Central Mosque" Address="Old Airport Road" Latitude="23.77051" Longitude="90.388565"/>
+  <Data Name="Bag Bari Masjid" Address="Gabtoli,Darussalam,Dhaka, Mirpur Rd, Dhaka 1216, Bangladesh" Latitude="23.783401" Longitude="90.343482"/>
+  <Data Name="Bagdasha Boro Masjid" Address="Kassabtuly/Kasaituly Ln, Dhaka, Bangladesh" Latitude="23.715388" Longitude="90.404745"/>
+  <Data Name="Bagh Bari Baitun Rahmat Jame Masjid" Address="Dhalpur, Dhaka, Bangladesh" Latitude="23.713677" Longitude="90.432455"/>
+  <Data Name="Bagha Bari Nure Jame Masjid" Address="Dhalka Nagar Ln, Dhaka, Bangladesh" Latitude="23.701176" Longitude="90.426331"/>
+  <Data Name="Bagicha Masjid" Address="Sher Shah Suri Rd, Dhaka, Bangladesh" Latitude="23.703541" Longitude="90.429612"/>
+  <Data Name="Baily Officers' Quarter Masjid" Address="Baily Square Officers Colony, Dhaka, Bangladesh" Latitude="23.74342" Longitude="90.406563"/>
+  <Data Name="Baish Bari Masjid" Address="Mirpur, Dhaka, Bangladesh" Latitude="23.795417" Longitude="90.37083"/>
+  <Data Name="Baishteki Kandriyo Jame Moshjid" Address="Section 13 mirpur" Latitude="23.810024" Longitude="90.37849"/>
+  <Data Name="Baitu Aman Jame Masjid" Address="Salauddin Bhaban . 2nd Floor., Dhaka - Chittagong Hwy, Dhaka, Bangladesh" Latitude="23.716758" Longitude="90.420208"/>
+  <Data Name="Baitul Afia Jame Masjid" Address="Dhaka -Narayanganj Hwy, Fatulla, Bangladesh" Latitude="23.663707" Longitude="90.454921"/>
+  <Data Name="Baitul Afsar Jame Masjid" Address="Jhigatola Rd, Dhaka, Bangladesh" Latitude="23.742973" Longitude="90.369184"/>
+  <Data Name="Baitul Al Jame Masjid" Address="Road No.1, Dhaka 1230, Bangladesh" Latitude="23.869599" Longitude="90.397779"/>
+  <Data Name="Baitul Amaan Jame Masjid" Address="Jigatola, Dhaka 1209, Bangladesh" Latitude="23.739089" Longitude="90.373181"/>
+  <Data Name="Baitul Aman Jaam-e Masjid" Address="Road No.25, Dhaka 1230, Bangladesh" Latitude="23.872238" Longitude="90.395617"/>
+  <Data Name="Baitul Aman Jame Masjid" Address="Sector 14, Dhaka 1230, Bangladesh" Latitude="23.86849" Longitude="90.38855"/>
+  <Data Name="Baitul Aman Jame Masjid" Address="Pilkhana, Dhaka, Bangladesh" Latitude="23.7331" Longitude="90.38399"/>
+  <Data Name="Baitul Aman Jame Masjid" Address="Monipur, Mirpur, Dhaka-1216, Dhaka 1216, Bangladesh" Latitude="23.796652" Longitude="90.363828"/>
+  <Data Name="Baitul Aman Jame Masjid" Address="Bagbari, Dhaka, Bangladesh" Latitude="23.78508" Longitude="90.342064"/>
+  <Data Name="Baitul Aman Jame Masjid" Address="Fatulla, Bangladesh" Latitude="23.668247" Longitude="90.462774"/>
+  <Data Name="Baitul Aman Jame Masjid" Address="Fatulla, Bangladesh" Latitude="23.668228" Longitude="90.462774"/>
+  <Data Name="Baitul Aman Jame Masjid" Address="Urdu Road Dhal, Joynag Rd, Dhaka 1211, Bangladesh" Latitude="23.719094" Longitude="90.394075"/>
+  <Data Name="Baitul Aman Jame Masjid" Address="Kazla Natun Rasta, Dhaka, Bangladesh" Latitude="23.715484" Longitude="90.439214"/>
+  <Data Name="Baitul Aman Jame Masjid" Address="Shaheed Tajuddin Ahmed Ave, Dhaka 1208, Bangladesh" Latitude="23.754777" Longitude="90.399804"/>
+  <Data Name="Baitul Aman Jame Masjid" Address="N Kazipara Mosque Rd, Dhaka, Bangladesh" Latitude="23.800993" Longitude="90.372473"/>
+  <Data Name="Baitul Aman Jame Masjid" Address="Dhalka Nagar Ln, Dhaka, Bangladesh" Latitude="23.700105" Longitude="90.425685"/>
+  <Data Name="Baitul Aman Jame Masjid" Address="Doyagonj New Rd, Dhaka, Bangladesh" Latitude="23.706061" Longitude="90.430776"/>
+  <Data Name="Baitul Aman Masjid" Address="Rd No 7, Dhaka 1205, Bangladesh" Latitude="23.744267" Longitude="90.378913"/>
+  <Data Name="Baitul Aman Masjid" Address="Bangla Sharak, Dhaka 1209, Bangladesh" Latitude="23.742317" Longitude="90.36415"/>
+  <Data Name="Baitul Arafa Masjid" Address="Pirerbag, Dhaka, Bangladesh" Latitude="23.792546" Longitude="90.368299"/>
+  <Data Name="Baitul Arafah Jame Masjid" Address="Lake View Rd, Dhaka, Bangladesh" Latitude="23.783273" Longitude="90.364745"/>
+  <Data Name="Baitul Arosh Jame Masjid" Address="Atish Deepankar Rd, Dhaka, Bangladesh" Latitude="23.723995" Longitude="90.428547"/>
+  <Data Name="Baitul Ashekin Jame Masjid" Address="Dania, Dhaka, Bangladesh" Latitude="23.702085" Longitude="90.448478"/>
+  <Data Name="Baitul Atik Jame Masjid" Address="Senpara Parbata, Dhaka, Bangladesh" Latitude="23.80542" Longitude="90.365925"/>
+  <Data Name="Baitul Atiq Masjid" Address="Kazipara, Dhaka, Bangladesh" Latitude="23.796821" Longitude="90.36898"/>
+  <Data Name="Baitul Azam Jame Masjid" Address="Avenue 5, Dhaka 1216, Bangladesh" Latitude="23.81289" Longitude="90.375305"/>
+  <Data Name="Baitul Azam Jame Masjid" Address="Road No.12, Dhaka 1230, Bangladesh" Latitude="23.864225" Longitude="90.40601"/>
+  <Data Name="Baitul Azim Shahidi Jame Masjid" Address="Kutta Para, 1219, Bangladesh" Latitude="23.752147" Longitude="90.413827"/>
+  <Data Name="Baitul Aziz Jame Masjid" Address="Joar Shahara, Dhaka, Bangladesh" Latitude="23.820114" Longitude="90.418099"/>
+  <Data Name="Baitul Barat Jame Masjid" Address="D-Block Meraj nagar madrasha Rd, Dhaka, Bangladesh" Latitude="23.688802" Longitude="90.454599"/>
+  <Data Name="Baitul Fala Jame Masjid" Address="Meradia Rd, Dhaka 1219, Bangladesh" Latitude="23.76044" Longitude="90.433023"/>
+  <Data Name="Baitul Falah Fakir Banu Jame Masjid" Address="Dhaka - Chittagong Hwy, Dhaka, Bangladesh" Latitude="23.719077" Longitude="90.419178"/>
+  <Data Name="Baitul Falah Jame Masjid" Address="Shahid Muktijoddha Faruk Ikbal and Taslim Rd, Bangladesh" Latitude="23.750304" Longitude="90.413218"/>
+  <Data Name="Baitul Falah Jame Masjid" Address="Section 14, Dhaka, Bangladesh" Latitude="23.80278" Longitude="90.373545"/>
+  <Data Name="Baitul Falah Jame Masjid" Address="Pirerbag, Dhaka, Bangladesh" Latitude="23.790195" Longitude="90.370941"/>
+  <Data Name="Baitul Falah Jame' Masjid" Address="Hatkhola Rd, Dhaka, Bangladesh" Latitude="23.761844" Longitude="90.364582"/>
+  <Data Name="Baitul Ferdaus Masjid Complex" Address="32/8 Tajmahal Rd, Dhaka 1207, Bangladesh" Latitude="23.765254" Longitude="90.359284"/>
+  <Data Name="Baitul Huda Jame Masjid" Address="K. M. Dash Ln, Dhaka, Bangladesh" Latitude="23.71734" Longitude="90.425052"/>
+  <Data Name="Baitul Huda Masjid" Address="Taltola, Dhaka 1230, Bangladesh" Latitude="23.852352" Longitude="90.424646"/>
+  <Data Name="Baitul Ibadat Jame Masjid" Address="Hazi Rd, Dhaka, Bangladesh" Latitude="23.752258" Longitude="90.433678"/>
+  <Data Name="Baitul Iman Jame Masjid" Address="Shyamoli, Dhaka, Bangladesh" Latitude="23.766842" Longitude="90.360212"/>
+  <Data Name="Baitul Izzat Jame Masjid" Address="Bibir bagicha 1 no road, Dhaka Demra Rd, Dhaka, Bangladesh " Latitude="23.710843" Longitude="90.435856"/>
+  <Data Name="Baitul Jannah Jame Masjid and Madrasha Complex" Address="Block-'Ta', Mirpur 6, Dhaka, Bangladesh" Latitude="23.812578" Longitude="90.35985"/>
+  <Data Name="Baitul Jannat BRTA Jame Masjid" Address="Section 14, Dhaka, Bangladesh" Latitude="23.805933" Longitude="90.374621"/>
+  <Data Name="Baitul Jannat Jame Masjid" Address="Road No. 12, Dhaka, Bangladesh" Latitude="23.77184" Longitude="90.395494"/>
+  <Data Name="Baitul Jannat Stadium Jame Masjid" Address="Section 6, Dhaka, Bangladesh" Latitude="23.807386" Longitude="90.364654"/>
+  <Data Name="Baitul Kadir Jame Masjid " Address="East Shewrapara, Dhaka, Bangladesh " Latitude="23.791" Longitude="90.376237"/>
+  <Data Name="Baitul Karim Jame Masjid" Address="17, Dhaka, Bangladesh " Latitude="23.759984" Longitude="90.390607"/>
+  <Data Name="Baitul Karim Jame Masjid" Address="17, Dhaka, Bangladesh" Latitude="23.759979" Longitude="90.390615"/>
+  <Data Name="Baitul Kuddos Jame Masjid" Address="Road Number 8, Dhaka, Bangladesh" Latitude="23.758437" Longitude="90.355229"/>
+  <Data Name="Baitul Mabud Jame Masjid" Address="Kafrul, Dhaka 1206, Bangladesh" Latitude="23.813356" Longitude="90.387579"/>
+  <Data Name="Baitul Mahfuz Jame Masjid" Address="Madhubag, Dhaka, Bangladesh" Latitude="23.759048" Longitude="90.408438"/>
+  <Data Name="Baitul Mahfuz Jame Masjid" Address="Road No. 20, Dhaka, Bangladesh" Latitude="23.835228" Longitude="90.415086"/>
+  <Data Name="Baitul Mamur Jame Masjid" Address="Kadamtoly, Bangladesh " Latitude="23.677484" Longitude="90.514864"/>
+  <Data Name="Baitul Mamur Jame Masjid" Address="Culvert Rd, Dhaka, Bangladesh " Latitude="23.730966" Longitude="90.416174"/>
+  <Data Name="Baitul Mamur Jame Masjid" Address="Malibag, Dhaka, Bangladesh" Latitude="23.748087" Longitude="90.41318"/>
+  <Data Name="Baitul Mamur Jame Masjid" Address="Road 38, Dhaka, Bangladesh " Latitude="23.81529" Longitude="90.358697"/>
+  <Data Name="Baitul Mamur Jame Masjid" Address="Motijheel, Dhaka, Bangladesh " Latitude="23.736071" Longitude="90.420258"/>
+  <Data Name="Baitul Mamur Jame Masjid" Address=" , , Bangladesh " Latitude="23.719401" Longitude="90.427635"/>
+  <Data Name="Baitul Mamur Jame Masjid" Address="Dayaganj, Dhaka, Bangladesh " Latitude="23.706459" Longitude="90.425049"/>
+  <Data Name="Baitul Mamur Jame Masjid" Address="Dhuliapar, Dhaka, Bangladesh" Latitude="23.700604" Longitude="90.433729"/>
+  <Data Name="Baitul Mamur Jame Masjid" Address="Pallabi, Dhaka 1216, Bangladesh" Latitude="23.823677" Longitude="90.369831"/>
+  <Data Name="Baitul Mamur Jamia Masjid" Address="Lake View, Dhaka, Bangladesh" Latitude="23.782466" Longitude="90.42146"/>
+  <Data Name="Baitul Mamur Masjid" Address="Road No 21, Dhaka 1230, Bangladesh " Latitude="23.865662" Longitude="90.385463"/>
+  <Data Name="Baitul Ma'mur Masjid" Address="New Elephant Rd, Dhaka, Bangladesh" Latitude="23.738546" Longitude="90.383864"/>
+  <Data Name="Baitul Meraj Jame Masjid" Address="Mir Hajirbag, Dhaka, Bangladesh " Latitude="23.705074" Longitude="90.430027"/>
+  <Data Name="Baitul Mokaddim Jame Masjid" Address="Rupnagar Rd, Dhaka, Bangladesh " Latitude="23.818544" Longitude="90.35628"/>
+  <Data Name="Baitul Mokkarram Masjid" Address="Motijheel, Dhaka, Bangladesh " Latitude="23.729456" Longitude="90.412727"/>
+  <Data Name="Baitul Momenin Jame Masjid" Address="Satish Sarkar Rd, Dhaka, Bangladesh " Latitude="23.701319" Longitude="90.423499"/>
+  <Data Name="Baitul Monyem Jamya Masjid" Address="Dhaka - Mymensingh Hwy, Dhaka, Bangladesh " Latitude="23.800026" Longitude="90.402433"/>
+  <Data Name="Baitul Mosharof Jame Masjid" Address="Section 6, Dhaka 1216, Bangladesh " Latitude="23.808863" Longitude="90.364021"/>
+  <Data Name="Baitul Mouzzam Jame Masjid" Address="Mohammadpur, Dhaka, Bangladesh" Latitude="23.758219" Longitude="90.361068"/>
+  <Data Name="Baitul Muajjem Jame Masjid" Address="Gono Koborsthan Rd, Dhaka 1230, Bangladesh" Latitude="23.872925" Longitude="90.416383"/>
+  <Data Name="Baitul Mur Jame Masjid" Address="Johnson Rd, Dhaka, Bangladesh" Latitude="23.712665" Longitude="90.411434"/>
+  <Data Name="Baitul Noor Jame Masjid" Address="West Dolairpar, Dhaka, Bangladesh" Latitude="23.701066" Longitude="90.431626"/>
+  <Data Name="Baitul Nur Jame Masjid" Address="Shahid Faroque Rd, Dhaka, Bangladesh" Latitude="23.708961" Longitude="90.431103"/>
+  <Data Name="Baitul Nur Jame Masjid" Address="Manda Rd, Dhaka, Bangladesh " Latitude="23.729653" Longitude="90.437066"/>
+  <Data Name="Baitul Salam Jame' Masjid" Address="Iqbal Rd, Dhaka 1207, Bangladesh " Latitude="23.760565" Longitude="90.367883"/>
+  <Data Name="Baitul Takwah Masjid" Address="Khilgaon, Dhaka, Bangladesh " Latitude="23.750652" Longitude="90.418312"/>
+  <Data Name="Baitul Wadod Jame Masjid" Address="Wasa Rd, Dhaka, Bangladesh" Latitude="23.732327" Longitude="90.43467"/>
+  <Data Name="Baitul Aman Jame Mosjid" Address="Shiddhirganj" Latitude="23.692221" Longitude="90.495368"/>
+  <Data Name="Baitul Falah Jame Mashjid" Address="Hazaribag, 47/3/D Sonatongor Hazaribag (Near Bou Bazaar)" Latitude="23.738261" Longitude="90.362848"/>
+  <Data Name="Baitul Fazal Jame Mosjid" Address="Section 14" Latitude="23.801837" Longitude="90.378093"/>
+  <Data Name="Baitul Kad'r Jam-e-Mosque" Address="Khilbari Tek" Latitude="23.794436" Longitude="90.434076"/>
+  <Data Name="Baitul Maa-mur Jame Mosjid" Address="Nandipara, Road-5, Khilgaon, Dhaka" Latitude="23.745725" Longitude="90.449891"/>
+  <Data Name="Baitul Mamur Jame Masjid" Address="Monipur" Latitude="23.798765" Longitude="90.363856"/>
+  <Data Name="Baitul Mamur Jame Moszid" Address="Lalmati, Bauniabadh Tinshed Coloni Block:E Mirpur:11 " Latitude="23.819456" Longitude="90.38143"/>
+  <Data Name="Baitul Mukaddas Jame Mosque" Address="Ajiz Market, Baigertek Dhaka 1206." Latitude="23.834973" Longitude="90.387951"/>
+  <Data Name="Baitun Jannat Jame Masjid" Address="Sodorghat, Dhaka, Bangladesh" Latitude="23.706415" Longitude="90.40843"/>
+  <Data Name="Baitun Noor Jame Masjid" Address="East Nakhalpara, Dhaka, Bangladesh" Latitude="23.771271" Longitude="90.399212"/>
+  <Data Name="Baitun Noor Jame Masjid" Address="Road No 19, Dhaka 1230, Bangladesh" Latitude="23.875824" Longitude="90.390368"/>
+  <Data Name="Baitun Noor Jame Masjid" Address="Nandipara, Khilgaon, Dhaka, Road Number 1, Dhaka 1214, Bangladesh " Latitude="23.747787" Longitude="90.449343"/>
+  <Data Name="Baitun Noor Jame Masjid" Address="Pirerbag, Dhaka, Bangladesh " Latitude="23.791147" Longitude="90.369167"/>
+  <Data Name="Baitun Noor Jam-e-Masjid" Address="Road No 6C, Dhaka, Bangladesh " Latitude="23.873565" Longitude="90.379398"/>
+  <Data Name="Baitun Nur Jame Masjid" Address="Section 11, Dhaka, Bangladesh" Latitude="23.815962" Longitude="90.367612"/>
+  <Data Name="Baitun Nur Jame Masjid" Address="8, Dhaka, Bangladesh " Latitude="23.822403" Longitude="90.367366"/>
+  <Data Name="Baitun Nur Jame Masjid" Address="Pirerbag, Dhaka, Bangladesh" Latitude="23.786788" Longitude="90.368959"/>
+  <Data Name="Baitun Noor Jame Masjid" Address="East Nakhalpara" Latitude="23.771266" Longitude="90.399208"/>
+  <Data Name="Baitunnur Jame Mosque" Address="Khalpar Road" Latitude="23.734087" Longitude="90.436651"/>
+  <Data Name="Baitur Rahim Jame Masjid" Address="Senpara Parbata, Dhaka, Bangladesh" Latitude="23.800797" Longitude="90.369506"/>
+  <Data Name="Baitur Rahman Jame Masjid" Address="Rupnagar R/A, Dhaka, Bangladesh " Latitude="23.808674" Longitude="90.358485"/>
+  <Data Name="Baitur Rahman Jame Masjid" Address="Pallabi, Dhaka 1216, Bangladesh " Latitude="23.821463" Longitude="90.371909"/>
+  <Data Name="Baitur Rahmat Jame Masjid" Address="Golapbag, Dhaka, Bangladesh" Latitude="23.720322" Longitude="90.431827"/>
+  <Data Name="Baitur Rahomat Masjid" Address="Pallabi, Dhaka 1216, Bangladesh" Latitude="23.697684" Longitude="90.450415"/>
+  <Data Name="Baitur-rashad Jame Masjid" Address="Plot # 24, Road # 16, Sector # 10, Kamarpara Natun Bazar, Uttara, Dhaka-1230, Dhaka 1230, Bangladesh" Latitude="23.890752" Longitude="90.386623"/>
+  <Data Name="Baitus Sakina Jame Masjid" Address="Farmgate, Dhaka 1215, Bangladesh" Latitude="23.756073" Longitude="90.38591"/>
+  <Data Name="Baitus Salah Jame Masjid" Address="Pirerbag, Dhaka, Bangladesh " Latitude="23.792055" Longitude="90.363927"/>
+  <Data Name="Baitus Salah Masjid" Address="Kalabagan, Dhaka, Bangladesh" Latitude="23.747836" Longitude="90.380567"/>
+  <Data Name="Baitus Salam Jame Masjid" Address="31, Moneshwar, Dhaka, Bangladesh " Latitude="23.730627" Longitude="90.371188"/>
+  <Data Name="Baitus Salam Masjid" Address="Kutub Khali, Dhaka, Bangladesh " Latitude="23.699477" Longitude="90.447741"/>
+  <Data Name="Baitus Sobhan Jam-e Masjid" Address="West Nandipara, Dhaka, Bangladesh " Latitude="23.752324" Longitude="90.446962"/>
+  <Data Name="Baitus Sobhan Jam-e Masjid" Address="West Nandipara, Dhaka, Bangladesh " Latitude="23.752363" Longitude="90.447005"/>
+  <Data Name="Baitus Sujud Jame Masjid" Address="Shiddeswari, Dhaka, Bangladesh " Latitude="23.745064" Longitude="90.408074"/>
+  <Data Name="Baitus Sunnah Jame Masjid" Address="West Dolairpar,  , Dhaka 1204, Bangladesh " Latitude="23.701662" Longitude="90.434399"/>
+  <Data Name="Baitus Salam Jame Mosjid" Address="East Kazipara" Latitude="23.796762" Longitude="90.377707"/>
+  <Data Name="Baitush Shakur Jame Masjid" Address="West Shewrapara, Dhaka, Bangladesh " Latitude="23.788172" Longitude="90.372355"/>
+  <Data Name="Baitush Sharf Jame Masjid" Address="Kazi Nazrul Islam Ave, Dhaka 1215, Bangladesh" Latitude="23.760808" Longitude="90.389226"/>
+  <Data Name="Baitussalam Jame Masjid" Address="Ibrahimpur, Dhaka, Bangladesh " Latitude="23.793974" Longitude="90.386118"/>
+  <Data Name="Baitut Taqwa Masjid" Address="Khilgaon, Dhaka 1219, Bangladesh " Latitude="23.750723" Longitude="90.418478"/>
+  <Data Name="Balughat Masjid" Address="Cantonment, Dhaka, Bangladesh " Latitude="23.830115" Longitude="90.390925"/>
+  <Data Name="Balur Math Jame Masjid" Address="Matikata Rd, Dhaka, Bangladesh" Latitude="23.823053" Longitude="90.378154"/>
+  <Data Name="Banani DOHS Jame Masjid" Address="Masjid Rd, Dhaka, Bangladesh" Latitude="23.794536" Longitude="90.400225"/>
+  <Data Name="Banani DOHS Jame Masjid" Address="Masjid Rd, Dhaka, Bangladesh " Latitude="23.794544" Longitude="90.400184"/>
+  <Data Name="Banani Jame Masjid" Address="Road No 17, Dhaka, Bangladesh" Latitude="23.792597" Longitude="90.406107"/>
+  <Data Name="Banani Society Mosque" Address="Gulshan" Latitude="23.800718" Longitude="90.407812"/>
+  <Data Name="Banasree Central Mosque" Address="Block# D" Latitude="23.763469" Longitude="90.431448"/>
+  <Data Name="Bangla College Jame Masjid" Address="Bangla College Hostel Rd, Dhaka, Bangladesh " Latitude="23.784952" Longitude="90.351218"/>
+  <Data Name="Bangla Duar Masjid" Address="Nazira Bazaar, Dhaka, Bangladesh " Latitude="23.718789" Longitude="90.40806"/>
+  <Data Name="Bangla Motor Jame Masjid" Address="Kazi Nazrul Islam Ave, Dhaka, Bangladesh" Latitude="23.746535" Longitude="90.394675"/>
+  <Data Name="Bangladesh Bank Colony Mosque" Address="South Kamalapur Colony" Latitude="23.731082" Longitude="90.423101"/>
+  <Data Name="Bangshal Boro Jame Masjid" Address="Bangshal Rd, Dhaka, Bangladesh" Latitude="23.717448" Longitude="90.407421"/>
+  <Data Name="Baniyanogor Jame Mosjid" Address="Kulutola" Latitude="23.707257" Longitude="90.418612"/>
+  <Data Name="Barabag Masjid" Address="Barabag, Dhaka, Bangladesh " Latitude="23.80262" Longitude="90.36382"/>
+  <Data Name="Bari Bad Zami Masjid" Address="Bari Bad, Sadarghat - Gabtoli Rd, Dhaka, Bangladesh " Latitude="23.756593" Longitude="90.356414"/>
+  <Data Name="Baridhara Ahle-Hadith Jame Masjid" Address="12 United Nations Rd, Dhaka 1212, Bangladesh" Latitude="23.806439" Longitude="90.416541"/>
+  <Data Name="Baridhara Jame Masjid" Address="Baridhara, Dhaka, Bangladesh" Latitude="23.805572" Longitude="90.419948"/>
+  <Data Name="Baridhara DOHS Mosque" Address="Road 5" Latitude="23.813233" Longitude="90.410258"/>
+  <Data Name="Barontek Old Masjid" Address="Barontek, Dhaka 1206, Bangladesh " Latitude="23.830733" Longitude="90.385593"/>
+  <Data Name="Bartula Jame Masjid" Address="Abur Tek Rd, Dhaka 1229, Bangladesh" Latitude="23.831499" Longitude="90.424656"/>
+  <Data Name="Basabo Bazar Jame Mosque" Address="Dhaka, Bangladesh" Latitude="23.739626" Longitude="90.433846"/>
+  <Data Name="Basundhara City Jame Masjid" Address="Maniknagar Rd, Dhaka, Bangladesh " Latitude="23.751003" Longitude="90.390548"/>
+  <Data Name="Bawnia Pachim Para Jame Masjid" Address="Bawnia Rd, Dhaka, Bangladesh" Latitude="23.848712" Longitude="90.387458"/>
+  <Data Name="Baytul Aman Jame Masjid" Address="Purba Goran, Dhaka 1219, Bangladesh " Latitude="23.749356" Longitude="90.441773"/>
+  <Data Name="Baytul Muajjem Jame Mosjid" Address="Dhaka, Bangladesh" Latitude="23.758452" Longitude="90.360949"/>
+  <Data Name="Baytul Nur" Address="Phulbaria Dhaka, Bangladesh" Latitude="23.879152" Longitude="90.386586"/>
+  <Data Name="Baytun Nur Jame Masjid" Address="Bir Uttam Rafiqul Islam Ave, Dhaka, Bangladesh" Latitude="23.774923" Longitude="90.42566"/>
+  <Data Name="Baytus Salat Jame Masjid" Address="Road No.6, Dhaka 1215, Bangladesh" Latitude="23.77102" Longitude="90.393662"/>
+  <Data Name="BDR Masjid" Address="Pilkhana, Dhaka, Bangladesh" Latitude="23.73199" Longitude="90.376657"/>
+  <Data Name="Becharam Dewry Jame Masjid" Address="Begum Bazaar, Dhaka, Bangladesh " Latitude="23.715233" Longitude="90.400276"/>
+  <Data Name="Begum Bazar Suto Masjid" Address="Begum Bazaar, Dhaka, Bangladesh" Latitude="23.716827" Longitude="90.398023"/>
+  <Data Name="Belal Mosque" Address="Basabo Madertek Road" Latitude="23.737908" Longitude="90.431776"/>
+  <Data Name="Belatunessa Jame Moshjid" Address="South Pirerbagh" Latitude="23.786346" Longitude="90.372471"/>
+  <Data Name="Bepari Bari Masjid" Address="Bepari Bari, Dhaka, Bangladesh" Latitude="23.804387" Longitude="90.428901"/>
+  <Data Name="Bhatulia Dotala Jame Masjid" Address="Dhaka, Bangladesh" Latitude="23.896393" Longitude="90.382599"/>
+  <Data Name="BHBFC Jame Masjid" Address="Sector 8, Dhaka, Bangladesh" Latitude="23.875" Longitude="90.401403"/>
+  <Data Name="Bhiugor Jhor Pukurpar Jame Masjid" Address="Fatulla, Bangladesh" Latitude="23.676167" Longitude="90.480649"/>
+  <Data Name="Bhuigor EidGah" Address="Fatulla" Latitude="23.67941" Longitude="90.480155"/>
+  <Data Name="Bhuiyapara minar masjid" Address="Bhuiyan Para Rd, Dhaka 1219, Bangladesh " Latitude="23.754676" Longitude="90.431706"/>
+  <Data Name="Bibir Bagicha Bage Jannat Jame Mosque" Address="Bibir Bagicha Masjid Road" Latitude="23.712159" Longitude="90.43648"/>
+  <Data Name="Bibir Masjid" Address="Lalmatia, Dhaka, Bangladesh" Latitude="23.755543" Longitude="90.365716"/>
+  <Data Name="Bidurpara Mosque" Address="Holan - Dokkhinkhan Road" Latitude="23.858887" Longitude="90.427585"/>
+  <Data Name="BISF Masjid" Address="Zoo Rd, Dhaka 1206, Bangladesh" Latitude="23.807766" Longitude="90.351541"/>
+  <Data Name="Bishwa Ijtema Maidan Masjid" Address="Masimpur, Tongi, Bangladesh" Latitude="23.893094" Longitude="90.39911"/>
+  <Data Name="Bismillah Jame Masjid" Address="Abhay Das Ln, Dhaka, Bangladesh" Latitude="23.720282" Longitude="90.425843"/>
+  <Data Name="Bitul Mamur Tabarokia Jame Masjid" Address="Dhaka, Bangladesh" Latitude="23.89343" Longitude="90.381044"/>
+  <Data Name="Bokshi Bazar Jame Masjid" Address="Bakshi Bazar Rd, Dhaka, Bangladesh " Latitude="23.722095" Longitude="90.39554"/>
+  <Data Name="Bordhon Bari Jame Masjid" Address="Bordhon Bari More,Bordhon Bari,Darussalam,Dhaka, Buddijibi Sahid Minar Rd, Dhaka 1216, Bangladesh" Latitude="23.79207" Longitude="90.344639"/>
+  <Data Name="Boro Bazar Masjid" Address="Bara Bazar Para, Dhaka 1216, Bangladesh " Latitude="23.78778" Longitude="90.338976"/>
+  <Data Name="Boro Vat Mosque" Address="Stuf Quarter Road" Latitude="23.723902" Longitude="90.379402"/>
+  <Data Name="Boroitola Majar Masjid" Address="Satish Sarkar Rd, Dhaka, Bangladesh" Latitude="23.701216" Longitude="90.422949"/>
+  <Data Name="Bot Tola Jame Masjid" Address="Road No 23, Dhaka 1219, Bangladesh" Latitude="23.749985" Longitude="90.427627"/>
+  <Data Name="Bot Tola Jame Masjid" Address="Manda Rd, Dhaka, Bangladesh" Latitude="23.73037" Longitude="90.440131"/>
+  <Data Name="Brobag Ayshen Jame Masjid" Address="Masterbari, Dhaka, Bangladesh " Latitude="23.882296" Longitude="90.423423"/>
+  <Data Name="BRP Jame Masjid" Address="Cantonment, Dhaka, Bangladesh" Latitude="23.806716" Longitude="90.38616"/>
+  <Data Name="BSMMU Masjid" Address="Shahbagh Rd, Dhaka, Bangladesh" Latitude="23.739607" Longitude="90.394008"/>
+  <Data Name="BUET Central Masjid" Address="Bakshi Bazar, Dhaka, Bangladesh" Latitude="23.723897" Longitude="90.392136"/>
+  <Data Name="Bukhari Masjid" Address="Tipu Sultan Rd, Dhaka, Bangladesh" Latitude="23.7153" Longitude="90.412767"/>
+  <Data Name="Burir Bari Jame Mosjid" Address="Jurain Railgate" Latitude="23.693616" Longitude="90.435995"/>
+  <Data Name="BWDB Jame Masjid" Address="Road No 11, Dhaka, Bangladesh " Latitude="23.789979" Longitude="90.40964"/>
+  <Data Name="C Block Mosjid" Address="boshundhara" Latitude="23.819741" Longitude="90.42603"/>
+  <Data Name="C TYP QUATER MOSQUE" Address="Mirpur-1" Latitude="23.790558" Longitude="90.354383"/>
+  <Data Name="C&amp;B Jame Masjid" Address="Agargaon, Dhaka, Bangladesh " Latitude="23.777967" Longitude="90.363173"/>
+  <Data Name="C.M.H Mosque" Address="Dhaka 1206" Latitude="23.814186" Longitude="90.395452"/>
+  <Data Name="Central Boro Masjid " Address="Joar Shahara, Dhaka, Bangladesh" Latitude="23.816168" Longitude="90.419773"/>
+  <Data Name="Central Veterinary Hospital Masjid" Address="Kazi Allaudin Rd, Dhaka, Bangladesh " Latitude="23.722915" Longitude="90.405464"/>
+  <Data Name="Central Workshop Masjid" Address="Dhaka, Bangladesh " Latitude="23.787318" Longitude="90.39197"/>
+  <Data Name="Central Eidgah" Address="Section 1 mirpur" Latitude="23.801926" Longitude="90.353385"/>
+  <Data Name="Central Mosque" Address="Dhaka, Bangladesh" Latitude="23.805548" Longitude="90.396311"/>
+  <Data Name="Chaad Masjid" Address="Mokim Bazar Rd, Dhaka, Bangladesh" Latitude="23.716778" Longitude="90.403423"/>
+  <Data Name="Chairmangoli Jame Masjid" Address="Chairmangoli (Chairman Golli), Dhaka, Bangladesh" Latitude="23.755236" Longitude="90.409136"/>
+  <Data Name="Chalabon Baitun Nur Jame Masjid" Address="07,South Chalabon, Kazibari Road, Dhaka 1230, Bangladesh " Latitude="23.863243" Longitude="90.417243"/>
+  <Data Name="Chalk Bazar Shahi Mosque" Address="Water Works Road" Latitude="23.716014" Longitude="90.395657"/>
+  <Data Name="Chan Tara Jame Mosque" Address="East Shewrapara" Latitude="23.792875" Longitude="90.37745"/>
+  <Data Name="Chand Mia Housing Masjid" Address="Mohammadpur, Dhaka, Bangladesh" Latitude="23.759294" Longitude="90.358391"/>
+  <Data Name="Chandni Ghat Mosjid" Address="Lalbagh" Latitude="23.717198" Longitude="90.393195"/>
+  <Data Name="Chandrima Udyan Masjid" Address="Dhaka, Bangladesh" Latitude="23.767957" Longitude="90.377997"/>
+  <Data Name="Chapra Masjid" Address="Dhaka, Bangladesh" Latitude="23.874693" Longitude="90.410418"/>
+  <Data Name="Chapra Masjid" Address="Dewanpara, Dhaka 1230, Bangladesh " Latitude="23.874683" Longitude="90.410408"/>
+  <Data Name="Char Kaligonj Hakkani Masjid" Address="Charkaliganj, Bangladesh" Latitude="23.700547" Longitude="90.40787"/>
+  <Data Name="Char Mirerbag Jame Masjid" Address="Par Gandaria, Bangladesh " Latitude="23.689905" Longitude="90.418188"/>
+  <Data Name="Chasara Jame Masjid" Address="Chashara, Narayanganj 1400, Bangladesh" Latitude="23.627702" Longitude="90.499354"/>
+  <Data Name="Chata Minar Jame Masjid" Address="Keshab Benarjee Rd, Dhaka, Bangladesh" Latitude="23.700216" Longitude="90.420774"/>
+  <Data Name="Chata Mosjid" Address="116 Sher-E-Bangla Road" Latitude="23.745912" Longitude="90.365272"/>
+  <Data Name="Choto Diabari Masjid" Address="Diabari, Dhaka, Bangladesh " Latitude="23.797096" Longitude="90.340532"/>
+  <Data Name="Chowdhury Para Jame Masjid" Address="Primary School Rd, Dhaka, Bangladesh" Latitude="23.688992" Longitude="90.496726"/>
+  <Data Name="Coat Bari-Gabtoli Main Road Masjid" Address="AminBazar,Bridge,Coat Bari,Gabtoli,Dhaka, Amin Bazar Bridge, Dhaka 1216, Bangladesh " Latitude="23.783254" Longitude="90.338708"/>
+  <Data Name="CoatBari Masjid" Address="Kotbari, Dhaka, Bangladesh" Latitude="23.784523" Longitude="90.338894"/>
+  <Data Name="Collage Para Jame Masjid" Address="Shiddhirganj, Bangladesh " Latitude="23.674222" Longitude="90.516517"/>
+  <Data Name="College Gate Jame Masjid" Address="Mirpur Rd, Dhaka, Bangladesh" Latitude="23.769469" Longitude="90.368299"/>
+  <Data Name="Colony Masjid" Address="Lalbagh, Dhaka, Bangladesh" Latitude="23.726303" Longitude="90.386678"/>
+  <Data Name="Confidence Tower Jame Masjid" Address="Satmasjid Rd, Dhaka, Bangladesh" Latitude="23.755992" Longitude="90.36239"/>
+  <Data Name="Customs Quarter Masjid" Address="Banani, Dhaka, Bangladesh" Latitude="23.79578" Longitude="90.406054"/>
+  <Data Name="D- Block Eidgah Maidan" Address="Block- D" Latitude="23.82668" Longitude="90.372825"/>
+  <Data Name="Dakshin Paik Para Central Masjid" Address="South Paikpara, Dhaka, Bangladesh" Latitude="23.785679" Longitude="90.36231"/>
+  <Data Name="Dakshinkhan Eidgah" Address="Dhaka 1230" Latitude="23.860025" Longitude="90.426126"/>
+  <Data Name="Dania Boro Jame Masjid" Address="Dania, Dhaka, Bangladesh " Latitude="23.702291" Longitude="90.44317"/>
+  <Data Name="Darul Islam Jam E Masjid &amp; Madrasha" Address="Dhalpur, Dhaka, Bangladesh " Latitude="23.714489" Longitude="90.436392"/>
+  <Data Name="Darul Makam Masjid" Address="11/1,Diabari Bazar,Diabari,Mirpur,Dhaka, Mirpur Bridge Rd, Dhaka 1216, Bangladesh " Latitude="23.797832" Longitude="90.341969"/>
+  <Data Name="Darul Habib Khanka Sharif" Address="Khanka Sharif Road, Habibnagar Dhaka " Latitude="23.693341" Longitude="90.461916"/>
+  <Data Name="Darus Salaam Masjid" Address="Adabar, Dhaka, Bangladesh" Latitude="23.776727" Longitude="90.354749"/>
+  <Data Name="Darussalam Adi Mosque" Address="Adabar" Latitude="23.778826" Longitude="90.356442"/>
+  <Data Name="Darusslam Jame Masjid" Address="Mohammadpur, Dhaka, Bangladesh " Latitude="23.779611" Longitude="90.355052"/>
+  <Data Name="Delpara Central Mosque" Address="Dhaka, Bangladesh" Latitude="23.670252" Longitude="90.475692"/>
+  <Data Name="Dewanbari Masjid" Address="Chalaban, Dhaka 1230, Bangladesh" Latitude="23.871078" Longitude="90.413049"/>
+  <Data Name="DGFI Masjid" Address="Ibrahimpur, Dhaka, Bangladesh" Latitude="23.789748" Longitude="90.38944"/>
+  <Data Name="Dhaka Education Board Jame Masjid" Address="2nd Colony, Dhaka, Bangladesh" Latitude="23.79206" Longitude="90.350831"/>
+  <Data Name="Dhaka Housing Jame Masjid" Address="Dhaka Housing Main Rd, Dhaka, Bangladesh" Latitude="23.775434" Longitude="90.359174"/>
+  <Data Name="Dhaka Match Jame Masjid" Address="R810, Dhaka, Bangladesh" Latitude="23.673475" Longitude="90.447432"/>
+  <Data Name="Dhaka University Kendrio Masjid" Address="Dhaka University Campus, Dhaka, Bangladesh " Latitude="23.734615" Longitude="90.394772"/>
+  <Data Name="Dhaka Shahi Mosque" Address="Postagola" Latitude="23.693263" Longitude="90.424129"/>
+  <Data Name="Dhalpur Jakerin Jame Mosque" Address="Dhaka, Bangladesh" Latitude="23.717134" Longitude="90.434613"/>
+  <Data Name="Dhanmondi Eidgah Masjid Islamic Research Centre &amp; Library" Address="Road No. 6A, Dhaka, Bangladesh" Latitude="23.74311" Longitude="90.373736"/>
+  <Data Name="Dhanmondi Jame Masjid" Address="Hatirpool, Dhaka 1205, Bangladesh " Latitude="23.743653" Longitude="90.388107"/>
+  <Data Name="Dhanmondi Jame Masjid" Address="Hatirpool, Dhaka 1205, Bangladesh" Latitude="23.743653" Longitude="90.388115"/>
+  <Data Name="Dhupkhola Jame Masjid" Address="Dayaganj, Dhaka, Bangladesh " Latitude="23.70596" Longitude="90.421812"/>
+  <Data Name="Diabari Masjid" Address="Darussalam, Dhaka 1216, Bangladesh " Latitude="23.797145" Longitude="90.341261"/>
+  <Data Name="Dilu Bepari Jame Masjid" Address="Taltola goli, Dhaka 1000, Bangladesh" Latitude="23.751426" Longitude="90.401658"/>
+  <Data Name="Dilu Road Jame Masjid" Address="Dilu Rd, Dhaka, Bangladesh" Latitude="23.748237" Longitude="90.400765"/>
+  <Data Name="DLRS Mosque" Address="Shaheed Tajuddin Ahmed Avenue" Latitude="23.755737" Longitude="90.398039"/>
+  <Data Name="Doctor Goli Masjid" Address="Mogh Bazar, Dhaka 1217, Bangladesh " Latitude="23.748823" Longitude="90.410549"/>
+  <Data Name="Dormitory Jame Masjid" Address="Kalabagan, Dhaka, Bangladesh " Latitude="23.748897" Longitude="90.385817"/>
+  <Data Name="Dotala Masjid" Address="Shekh S. Bazar, Dhaka 1211, Bangladesh" Latitude="23.72248" Longitude="90.382241"/>
+  <Data Name="DRMC Central Masjid" Address="Dhaka, Bangladesh" Latitude="23.765917" Longitude="90.367111"/>
+  <Data Name="Dumni Noyapara Jame-Mosjid" Address="Dumni, Khilkhet, Dhaka 1229" Latitude="23.830674" Longitude="90.475177"/>
+  <Data Name="East Maniknagar Jame Masjid" Address="Golapbag, Dhaka, Bangladesh" Latitude="23.722652" Longitude="90.435164"/>
+  <Data Name="East Merul Badda Jame Masjid" Address="Neemtoli, Dhaka 1212, Bangladesh " Latitude="23.771293" Longitude="90.426758"/>
+  <Data Name="East Raja Bazar Jame Masjid" Address="E Raza Bazar Rd, Dhaka 1215, Bangladesh " Latitude="23.753581" Longitude="90.385961"/>
+  <Data Name="East Hazipara Jame Mosjid" Address="East Rampura, East Hazipara" Latitude="23.758275" Longitude="90.419399"/>
+  <Data Name="Eastern Housing Phase 2 Jame Masjid" Address="Alubdi, Dhaka, Bangladesh" Latitude="23.823446" Longitude="90.354285"/>
+  <Data Name="Eden Jame Mosjid" Address="South Kamalapur Colony" Latitude="23.729157" Longitude="90.422135"/>
+  <Data Name="Ekuria Beparipara Jame Masjid" Address="Dhaka, Bangladesh " Latitude="23.683971" Longitude="90.419591"/>
+  <Data Name="Elenbari Jame Masjid" Address="Old Airport Rd, Dhaka 1215, Bangladesh" Latitude="23.765482" Longitude="90.389148"/>
+  <Data Name="Elephant Road Aeroplan Masjid" Address="Khilgaon, Dhaka, Bangladesh " Latitude="23.735455" Longitude="90.385554"/>
+  <Data Name="Engineer Brigade Masjid" Address="Dhaka, Bangladesh" Latitude="23.810502" Longitude="90.406279"/>
+  <Data Name="Eskaton Garden Masjid" Address="Ramna, Dhaka, Bangladesh" Latitude="23.744119" Longitude="90.396446"/>
+  <Data Name="Eskaton Garden Masjid" Address="Ismail Ln, Dhaka 1000, Bangladesh" Latitude="23.74684" Longitude="90.402025"/>
+  <Data Name="Fakih Ul Millat Masjid &amp; Madrasa" Address="Bashundhara, Dhaka, Bangladesh" Latitude="23.816895" Longitude="90.432521"/>
+  <Data Name="Fakirbari Masjid" Address="(This place has closed or relocated)Section 10, Dhaka, Bangladesh " Latitude="23.808164" Longitude="90.370458"/>
+  <Data Name="Fire Service Jame Masjid" Address="Section 6, Dhaka, Bangladesh " Latitude="23.808156" Longitude="90.367296"/>
+  <Data Name="Fokirapool Jame Masjid" Address="Motijheel, Dhaka, Bangladesh" Latitude="23.732516" Longitude="90.41697"/>
+  <Data Name="Foridiya Jame Masjid" Address="Outer Circular Rd, Dhaka, Bangladesh" Latitude="23.72991" Longitude="90.429166"/>
+  <Data Name="Gabtoli Terminal Masjid" Address="Gabtali, Dhaka, Bangladesh" Latitude="23.782598" Longitude="90.341354"/>
+  <Data Name="Gana Bhaban Mosque" Address="Dhaka, Bangladesh" Latitude="23.765571" Longitude="90.373973"/>
+  <Data Name="Gandaria Jame Masjid" Address="Rajani Choudhury Ln, Dhaka, Bangladesh" Latitude="23.7043" Longitude="90.4234"/>
+  <Data Name="Ganoktuli Masjid" Address="Ganaktuli Rd, Dhaka, Bangladesh" Latitude="23.727605" Longitude="90.376531"/>
+  <Data Name="Gaosul Azam Jame Masjid" Address="Motijheel, Dhaka, Bangladesh " Latitude="23.743073" Longitude="90.42318"/>
+  <Data Name="Gausia Jame Masjid" Address="Barabag, Dhaka, Bangladesh" Latitude="23.798507" Longitude="90.362186"/>
+  <Data Name="Gausul Azam Jame Masjid" Address="Road No 9, Dhaka 1230, Bangladesh" Latitude="23.871747" Longitude="90.388115"/>
+  <Data Name="Gausul Azam Jame Masjid" Address="Golapbag, Dhaka, Bangladesh" Latitude="23.718767" Longitude="90.43385"/>
+  <Data Name="Gausul Azam Masjid" Address="Mohakhali, Dhaka, Bangladesh " Latitude="23.780777" Longitude="90.409122"/>
+  <Data Name="German Technical Central Masjid" Address="Section 2, Dhaka, Bangladesh" Latitude="23.802291" Longitude="90.357908"/>
+  <Data Name="Goalbari Mor Masjid" Address="Dhonia - Dholaipar Rd, Dhaka, Bangladesh " Latitude="23.701535" Longitude="90.446936"/>
+  <Data Name="Gofur Mosque" Address="Lalbagh" Latitude="23.721083" Longitude="90.385985"/>
+  <Data Name="Golapbagh High Way Jame Masjid" Address="Atish Deepankar Rd, Dhaka, Bangladesh" Latitude="23.718833" Longitude="90.428879"/>
+  <Data Name="Golartek Masjid" Address="Golartek,P.S-DarusSalam, Golartek Mosque Rd, Dhaka 1216, Bangladesh " Latitude="23.793896" Longitude="90.343546"/>
+  <Data Name="Gopibag Jame Masjid" Address="Rama Krishna Mission Rd, Dhaka, Bangladesh " Latitude="23.721967" Longitude="90.426659"/>
+  <Data Name="Greenway Jamay Mosque" Address="Greenway Rd" Latitude="23.751961" Longitude="90.407864"/>
+  <Data Name="Gudara Ghat" Address="Section 1, Road-4,House-7,Adorsho Bhaban,Gudara Ghat" Latitude="23.806009" Longitude="90.348685"/>
+  <Data Name="Gulbag Jame Masjid" Address="Motijheel, Dhaka, Bangladesh" Latitude="23.747937" Longitude="90.418014"/>
+  <Data Name="Gulshan 1 DCC Masjid" Address="Road No 9, Dhaka, Bangladesh " Latitude="23.77967" Longitude="90.414921"/>
+  <Data Name="Gulshan Central Masjid" Address="Gulshan Ave, Dhaka 1212, Bangladesh" Latitude="23.790126" Longitude="90.414893"/>
+  <Data Name="Gulshan Jame Masjid" Address="Tejgaon - Gulshan Link Rd, Dhaka, Bangladesh" Latitude="23.776349" Longitude="90.416085"/>
+  <Data Name="Gulshan Jame Masjid" Address="Road No 4, Dhaka, Bangladesh" Latitude="23.77631" Longitude="90.415957"/>
+  <Data Name="Hajaribag Kulal Mohol Jame Masjid" Address="Moneshwar, Dhaka, Bangladesh" Latitude="23.727529" Longitude="90.371802"/>
+  <Data Name="Haji Ansar Bag Masjid" Address="Khilgaon, Dhaka, Bangladesh" Latitude="23.754114" Longitude="90.433986"/>
+  <Data Name="Haji Camp Masjid" Address="Airport Dakshinkhan Rd, Dhaka 1230, Bangladesh " Latitude="23.850507" Longitude="90.411449"/>
+  <Data Name="Haji Shafaet Munshir Masjid" Address="Dhaka, Bangladesh" Latitude="23.803594" Longitude="90.467829"/>
+  <Data Name="Haji Masjid" Address="Chapra Masjid Rd, Dhaka, Bangladesh" Latitude="23.747031" Longitude="90.434944"/>
+  <Data Name="Haji Mosjid A Baitul Haram" Address="East Shewrapara" Latitude="23.793552" Longitude="90.37613"/>
+  <Data Name="Hajrat Shona Miah Jame Masjid" Address="Mazar Rd, Dhaka, Bangladesh" Latitude="23.78358" Longitude="90.34749"/>
+  <Data Name="Hamidia Jame Masjid" Address="North Manikdi, Nomboritek, Dhaka, Bangladesh " Latitude="23.827269" Longitude="90.38833"/>
+  <Data Name="Hamidia Mosque" Address="Banani" Latitude="23.788378" Longitude="90.400614"/>
+  <Data Name="Harirampur Jame Masjid" Address="Harirampur, Dhaka 1216, Bangladesh " Latitude="23.790673" Longitude="90.340686"/>
+  <Data Name="Hatembag Masjid" Address="Hazi Afsaruddin Rd, Dhaka 1209, Bangladesh" Latitude="23.743464" Longitude="90.367881"/>
+  <Data Name="Hazi Masjid" Address="Barontek, Kurmitola Cantonment, Dhaka-1206, Dhaka 1206, Bangladesh " Latitude="23.830822" Longitude="90.384391"/>
+  <Data Name="Hazrat Shah Khwaza Sharfuddin Chisti Mazar - Masjid" Address="Ramna, Dhaka, Bangladesh " Latitude="23.729847" Longitude="90.40294"/>
+  <Data Name="Hazrat Abubakar (Ra) Mosque" Address="Mugdapara" Latitude="23.733262" Longitude="90.435825"/>
+  <Data Name="Hazrat Shah Darbar Sharif Mosque" Address="Shekh S. Bazar" Latitude="23.724088" Longitude="90.382674"/>
+  <Data Name="Holy Family Medical College Jame Masjid" Address="1 no, Eskatan Garden Rd, Dhaka, Bangladesh" Latitude="23.74625" Longitude="90.403398"/>
+  <Data Name="Hosaf Masjid" Address="Malibagh Mor, Outer Circular Rd, Dhaka, Bangladesh " Latitude="23.744321" Longitude="90.414441"/>
+  <Data Name="Ibrahimpur Bazar Jame Masjid" Address="Ibrahimpur, Dhaka, Bangladesh " Latitude="23.793503" Longitude="90.382235"/>
+  <Data Name="Ibrahimpur Moddopara Jame Masjid" Address="Ibrahimpur, Dhaka, Bangladesh " Latitude="23.796085" Longitude="90.382599"/>
+  <Data Name="icddr,b Jame Masjid" Address="Mohakhali, Dhaka, Bangladesh " Latitude="23.777159" Longitude="90.399877"/>
+  <Data Name="Imambug Jame Masjid" Address="Shabujbag, Dhaka, Bangladesh " Latitude="23.752442" Longitude="90.454161"/>
+  <Data Name="Imambug Jame Masjid" Address="Dhaka, Bangladesh" Latitude="23.752471" Longitude="90.454193"/>
+  <Data Name="Islamabad Jame Masjid" Address="Ranabhola, Turag, Dhaka 1230, Bangladesh" Latitude="23.884611" Longitude="90.386183"/>
+  <Data Name="Jaha Box Jame Masjid" Address="Nayatola Rd, Dhaka, Bangladesh " Latitude="23.753522" Longitude="90.406271"/>
+  <Data Name="Jahanabad Masjid" Address="Jahanabad Badh Road,Darus Salam, Dhaka 1216, Bangladesh" Latitude="23.791206" Longitude="90.340027"/>
+  <Data Name="Jahangir Badsha Jame Masjid" Address="Shyampur, Dhaka, Bangladesh" Latitude="23.69745" Longitude="90.419937"/>
+  <Data Name="Jahurabad Masjid" Address="Golartek, Dhaka, Bangladesh" Latitude="23.794436" Longitude="90.341207"/>
+  <Data Name="Jamair Tek Jame Masjid" Address="Mugdapara, Dhaka, Bangladesh" Latitude="23.731317" Longitude="90.439737"/>
+  <Data Name="Jamalul Kuran Jame Masjid" Address="Satish Sarkar Rd, Dhaka, Bangladesh" Latitude="23.701309" Longitude="90.422281"/>
+  <Data Name="Jame Eskaton Masjid" Address="Hatirjheel Link Road 1, Dhaka, Bangladesh" Latitude="23.747164" Longitude="90.394563"/>
+  <Data Name="Jame Masjid" Address="Near Bangladesh Jute Research Institute, BJRI Colony Rd, Dhaka 1215, Bangladesh " Latitude="23.7568" Longitude="90.378333"/>
+  <Data Name="Jame Masjid" Address="Duaripara, Dhaka, Bangladesh " Latitude="23.817987" Longitude="90.357763"/>
+  <Data Name="Jame Masjid " Address="Urdu Rd, Dhaka, Bangladesh" Latitude="23.718077" Longitude="90.395072"/>
+  <Data Name="Jame Moshjid" Address="Bakshi Bazar" Latitude="23.723921" Longitude="90.389058"/>
+  <Data Name="Jame Mosjid" Address="Dayaganj" Latitude="23.706466" Longitude="90.421254"/>
+  <Data Name="Jame Mosjid" Address="4 No road" Latitude="23.822322" Longitude="90.359264"/>
+  <Data Name="Jame Mosjid" Address="Dayaganj" Latitude="23.706481" Longitude="90.421245"/>
+  <Data Name="Jam-e-Masjid" Address="Merul Badda, Dhaka 1212, Bangladesh" Latitude="23.777567" Longitude="90.424717"/>
+  <Data Name="Jamia Baitul Aman Minar Masjid" Address="Tajmahal Rd, Dhaka 1207, Bangladesh" Latitude="23.765151" Longitude="90.3622"/>
+  <Data Name="Jamiyat Ahle Hadith Mosque" Address="Tilpapara" Latitude="23.747444" Longitude="90.429731"/>
+  <Data Name="Janata Housing Jame Masjid" Address="Janata Housing , Sher E Bangla Nagar, Bangladesh " Latitude="23.783801" Longitude="90.371655"/>
+  <Data Name="Jannatul Baki Jame Masjid Complex" Address="Mirpur, Dhaka, Bangladesh " Latitude="23.791648" Longitude="90.347591"/>
+  <Data Name="Jannatul Ferdous Masjid" Address="Dholipara, Dhaka, Bangladesh" Latitude="23.862412" Longitude="90.387276"/>
+  <Data Name="Jannatul Mawa Jame Masjid" Address="Section 10, Dhaka, Bangladesh " Latitude="23.813194" Longitude="90.36714"/>
+  <Data Name="Japan Garden City Central Masjid" Address="Road 1, Dhaka, Bangladesh" Latitude="23.764299" Longitude="90.357364"/>
+  <Data Name="Jatrabari Al a Hadis Masjid" Address="naer jatrabari 3 no gate, Dhaka Demra Rd, Dhaka, Bangladesh" Latitude="23.711186" Longitude="90.437473"/>
+  <Data Name="Jatrabari Madrasha Masjid" Address="North Jatrabari, Madrasha Masjid Rd, Dhaka, Bangladesh" Latitude="23.712237" Longitude="90.434198"/>
+  <Data Name="Jatrabari Wapda Colony Jame Masjid" Address="Uttar Jatra Bari, Dhaka, Bangladesh " Latitude="23.707257" Longitude="90.437248"/>
+  <Data Name="Jatrabari Masque" Address="Dhaka - Sylhet Highway" Latitude="23.710651" Longitude="90.433003"/>
+  <Data Name="Jheel Masjid" Address="Shahjahanpur, Dhaka, Bangladesh" Latitude="23.746336" Longitude="90.421104"/>
+  <Data Name="Jheelpar Masjid" Address="Mugdapara, Dhaka, Bangladesh " Latitude="23.732886" Longitude="90.431712"/>
+  <Data Name="Jhell Par Chapra Masjid" Address="Jhell Par Rd, Dhaka, Bangladesh " Latitude="23.713117" Longitude="90.437924"/>
+  <Data Name="Jhilpar Jame Masjid" Address="Culvert Rd, Dhaka, Bangladesh" Latitude="23.729481" Longitude="90.418599"/>
+  <Data Name="Jhutpotti Masjid" Address="Section 10, Dhaka, Bangladesh" Latitude="23.810959" Longitude="90.373744"/>
+  <Data Name="Jigatola Gubtola Mosque" Address="Hazaribag" Latitude="23.739567" Longitude="90.369993"/>
+  <Data Name="Jilpar Jame Masjid" Address="Ibrahimpur, Dhaka 1206, Bangladesh" Latitude="23.794357" Longitude="90.378907"/>
+  <Data Name="Joar Shahara Bazaar Masjid" Address="Joar Shahara, Dhaka, Bangladesh" Latitude="23.814657" Longitude="90.416533"/>
+  <Data Name="Jobbu Khanom Jame Masjid" Address="Islampur Rd, Dhaka, Bangladesh" Latitude="23.711051" Longitude="90.405166"/>
+  <Data Name="Jonab Ali Masjid" Address="Chapra Masjid Rd, Dhaka, Bangladesh" Latitude="23.742197" Longitude="90.437159"/>
+  <Data Name="Journalist Residential Area Jame Masjid" Address="Palash Nagar, Dhaka, Bangladesh " Latitude="23.819525" Longitude="90.374938"/>
+  <Data Name="K D Jame Masjid" Address="Horonath Ghosh Rd, Dhaka, Bangladesh " Latitude="23.719428" Longitude="90.390838"/>
+  <Data Name="Kabarsthan Bosti Colony Masjid" Address="Mirpur Buddijibi Graveyard Bosti Colony Mosque,Darussalam, Dhaka 1216, Bangladesh " Latitude="23.796605" Longitude="90.345585"/>
+  <Data Name="Kabi Nazrul College Mosjid" Address="Lakshmi Bazaar" Latitude="23.709791" Longitude="90.412925"/>
+  <Data Name="Kachabazar Mosjid" Address="Agargaon" Latitude="23.778845" Longitude="90.366131"/>
+  <Data Name="Kadamtala Masjid and Madrasa" Address="Purbo Bashabo, Dhaka, Bangladesh" Latitude="23.736223" Longitude="90.433327"/>
+  <Data Name="Kadamtoli Uttarpara Jame Masjid" Address="Narayanganj, Bangladesh" Latitude="23.677916" Longitude="90.516442"/>
+  <Data Name="Kaderia Madrasa Jame Masjid" Address="Aziz Mahallah, Block-F, Mohammadpur, Dhaka-1207, Dhaka, Bangladesh" Latitude="23.768025" Longitude="90.362334"/>
+  <Data Name="Kadom Rasul Jame Masjid" Address="Dayaganj, Dhaka, Bangladesh " Latitude="23.709119" Longitude="90.424604"/>
+  <Data Name="Kagirbagh Baitul Mozid Jame Masjid" Address="Golapbag, Dhaka, Bangladesh " Latitude="23.719406" Longitude="90.430792"/>
+  <Data Name="Kakoli Jame Masjid" Address="Masjid Rd, Dhaka 1206, Bangladesh" Latitude="23.794563" Longitude="90.400252"/>
+  <Data Name="Kakrail Mosque" Address="Hare Road" Latitude="23.736906" Longitude="90.403521"/>
+  <Data Name="Kallyanpur Bus Stand Masjid" Address="Mirpur Rd, Dhaka, Bangladesh" Latitude="23.778001" Longitude="90.361529"/>
+  <Data Name="Kallyanpur Housing Jame Masjid" Address="Dar-Us-Salam Rd, Dhaka, Bangladesh" Latitude="23.784785" Longitude="90.354413"/>
+  <Data Name="Kallyanpur Eidgah" Address="Kallyanpur Main Road" Latitude="23.781918" Longitude="90.359146"/>
+  <Data Name="Kallyanpur Jame Mosque" Address="Kalyanpur" Latitude="23.78024" Longitude="90.360401"/>
+  <Data Name="Kalyanpur Shahi Masjid" Address="Khilgaon, Dhaka, Bangladesh " Latitude="23.781499" Longitude="90.362913"/>
+  <Data Name="Kalyanpur Shahi Masjid" Address="Primary School Rd, Dhaka, Bangladesh" Latitude="23.781496" Longitude="90.362924"/>
+  <Data Name="Kamalapur Boro Masjid" Address="South Kamalapur Colony, Dhaka, Bangladesh" Latitude="23.729279" Longitude="90.424749"/>
+  <Data Name="Kamalapur Jame Masjid" Address="South Kamalapur Colony, Dhaka, Bangladesh" Latitude="23.728985" Longitude="90.424349"/>
+  <Data Name="Kamalapur Puratan Bazar Jame Masjid" Address="Outer Circular Rd, Dhaka, Bangladesh" Latitude="23.729537" Longitude="90.426203"/>
+  <Data Name="Kamalapur Railway Station Jame Masjid" Address="Kamalapur, Dhaka, Bangladesh" Latitude="23.731042" Longitude="90.425661"/>
+  <Data Name="Kandapara Jame Mosjid" Address="Shiddhirganj" Latitude="23.689136" Longitude="90.490862"/>
+  <Data Name="Kaptan Bazar Central Masjid" Address="Kaptan Bazaar, Dhaka, Bangladesh" Latitude="23.721758" Longitude="90.414473"/>
+  <Data Name="Karail T&amp;T Colony Jame Masjid" Address="Karail, Dhaka, Bangladesh " Latitude="23.785747" Longitude="90.408709"/>
+  <Data Name="Kartalab Khan's Masjid" Address="Begum Bazaar, Dhaka, Bangladesh " Latitude="23.717178" Longitude="90.398559"/>
+  <Data Name="Kassabtuly Mosque" Address="Dhaka, Bangladesh" Latitude="23.716054" Longitude="90.405007"/>
+  <Data Name="Kataban Masjid" Address="Shahbagh, Dhaka, Bangladesh" Latitude="23.738509" Longitude="90.391176"/>
+  <Data Name="Kathalbag Baitul Jannat Jame Masjid" Address="Section 2, Dhaka, Bangladesh " Latitude="23.801786" Longitude="90.354647"/>
+  <Data Name="Kathalbagan Noor Jame Masjid" Address="Free School St, Dhaka, Bangladesh" Latitude="23.748155" Longitude="90.387535"/>
+  <Data Name="Kathalbagan Masjid" Address="Sonargaon Rd, Dhaka, Bangladesh " Latitude="23.745889" Longitude="90.392326"/>
+  <Data Name="Kawla Bazar Masjid" Address="Dhaka, Bangladesh" Latitude="23.75023" Longitude="90.390679"/>
+  <Data Name="Kawran Bazar Jame Masjid" Address="Kawran Bazaar, Dhaka, Bangladesh" Latitude="23.752113" Longitude="90.393254"/>
+  <Data Name="Kazi Bari Jame Masjid" Address="Mir Hazaribag, Dhaka, Bangladesh " Latitude="23.70628" Longitude="90.428509"/>
+  <Data Name="Kazi Bari Masjid" Address="Kuril, Dhaka, Bangladesh" Latitude="23.818985" Longitude="90.421663"/>
+  <Data Name="Kazipara Jam-E-Masjid" Address="Kazipara, Dhaka, Bangladesh" Latitude="23.797089" Longitude="90.372529"/>
+  <Data Name="Kazir Dargha Jame Masjid" Address="Mridha Para, Dhaka, Bangladesh " Latitude="23.717254" Longitude="90.430768"/>
+  <Data Name="Kazirbag Jame Masjid" Address="kiazirbag lane, Hazaribugh Bai Ln, Dhaka 1209, Bangladesh " Latitude="23.728295" Longitude="90.370968"/>
+  <Data Name="Kazla Central Jame Masjid" Address="Dhaka - Chittagong Hwy, Dhaka 1232, Bangladesh" Latitude="23.710958" Longitude="90.445112"/>
+  <Data Name="Kazla Jame Masjid" Address="kazlar par road, Dhaka, Bangladesh " Latitude="23.717402" Longitude="90.439836"/>
+  <Data Name="Kazla Madrasha Masjid" Address="Kazlar Par Rd, Dhaka, Bangladesh " Latitude="23.714872" Longitude="90.440515"/>
+  <Data Name="Khaja Ajmiri Jame Masjid" Address="Aftabnagar Main Rd, Dhaka 1219, Bangladesh" Latitude="23.76751" Longitude="90.426141"/>
+  <Data Name="Khaja Masjid" Address="Khaja Mosque Road, Bank Colony, Block - A, Savar, Dhaka, Savar 1340, Bangladesh" Latitude="23.843857" Longitude="90.25364"/>
+  <Data Name="Khaje Nehal Jame Masjid" Address="16 Abdul Hasnat Rd, Dhaka, Bangladesh " Latitude="23.717797" Longitude="90.4007"/>
+  <Data Name="Khaje Dewan Boro Mosjid" Address="Khaje Dewan" Latitude="23.720896" Longitude="90.391784"/>
+  <Data Name="Khaleq City Masjid" Address="1st Colony, Dhaka, Bangladesh " Latitude="23.783713" Longitude="90.345133"/>
+  <Data Name="Khalid Bin Walid Mosque" Address="Road No. 6 , Dhaka, Bangladesh" Latitude="23.881688" Longitude="90.387265"/>
+  <Data Name="Khalil Shardar Jame Masjid" Address="49, Moneshwar, Dhaka, Bangladesh" Latitude="23.728985" Longitude="90.371582"/>
+  <Data Name="Khalil Ullah Masjid" Address="Ibrahimpur, Dhaka, Bangladesh " Latitude="23.797233" Longitude="90.382385"/>
+  <Data Name="Khan Jame Masjid" Address="Dhaka, Bangladesh " Latitude="23.892106" Longitude="90.370959"/>
+  <Data Name="Khan Mohammad Mosque" Address="Lalbagh Road" Latitude="23.720759" Longitude="90.384172"/>
+  <Data Name="Khanka Masjid" Address="Elenbari, Dhaka 1215, Bangladesh " Latitude="23.764567" Longitude="90.391852"/>
+  <Data Name="Khejur Bagan Masjid" Address="Monipuripara, Dhaka, Bangladesh" Latitude="23.760089" Longitude="90.383899"/>
+  <Data Name="Khilgaon Chan Masjid" Address="Choudhuripara, Dhaka 1219, Bangladesh " Latitude="23.753156" Longitude="90.421283"/>
+  <Data Name="Khilgaon Chowrasta Jame Masjid &amp; Madrasa" Address="Khilgaon, Dhaka 1219, Bangladesh" Latitude="23.749" Longitude="90.42617"/>
+  <Data Name="Khilgaon Colony Jame Masjid" Address="Chowdhuripara, Dhaka, Bangladesh " Latitude="23.74996" Longitude="90.417241"/>
+  <Data Name="Khilgaon Moshidul Aaman Jame Masjid" Address="Chowdhuripara, Dhaka, Bangladesh " Latitude="23.751391" Longitude="90.421013"/>
+  <Data Name="Khilgaon Paka Jame Masjid" Address="Shantipur Rd, Dhaka 1219, Bangladesh" Latitude="23.750235" Longitude="90.424368"/>
+  <Data Name="Khilgaon Paka Masjid Market Complex" Address="Chowdhuripara, Dhaka, Bangladesh" Latitude="23.750542" Longitude="90.424558"/>
+  <Data Name="Khilgaon Shahi Masjid" Address="Khilgaon, Dhaka, Bangladesh" Latitude="23.748966" Longitude="90.421136"/>
+  <Data Name="Khilgaon-Bagicha Masjid" Address="Khilgaon, Dhaka, Bangladesh" Latitude="23.74721" Longitude="90.424242"/>
+  <Data Name="Khilkhet Bazar Masjid" Address="Bazar Rd, Dhaka, Bangladesh" Latitude="23.8293" Longitude="90.421502"/>
+  <Data Name="Khilkhet Nikunja-2 Mosque" Address="Nikunja 2 Dhaka, Bangladesh" Latitude="23.830311" Longitude="90.417854"/>
+  <Data Name="Koborstan Jame Masjid" Address="Kadamtoly, Bangladesh " Latitude="23.671942" Longitude="90.516957"/>
+  <Data Name="Koborsthan Jame Masjid" Address="Masterbari, Dhaka, Bangladesh " Latitude="23.881747" Longitude="90.426909"/>
+  <Data Name="Krishi Laboratory Jame Masjid" Address="Monipuripara, Dhaka, Bangladesh" Latitude="23.759979" Longitude="90.386136"/>
+  <Data Name="Krishnochura Jame Masjid" Address="24/BC, Krishnochura, Underground, Shahid Minar Rd, Dhaka 1207, Bangladesh" Latitude="23.77925" Longitude="90.359831"/>
+  <Data Name="Kuba Masjid" Address="Main Rd, Dhaka 1207, Bangladesh" Latitude="23.760619" Longitude="90.357106"/>
+  <Data Name="Kuba Masjid" Address="Mirpur Graveyard;P.S:-DarusSalam,Mirpur,Dhaka, Dhaka 1216, Bangladesh " Latitude="23.794936" Longitude="90.346218"/>
+  <Data Name="Kuratoli Masjid" Address="Kuril, Dhaka, Bangladesh" Latitude="23.821252" Longitude="90.423637"/>
+  <Data Name="Kuratoli Masjid" Address="Kuril, Dhaka, Bangladesh" Latitude="23.815049" Longitude="90.423187"/>
+  <Data Name="Kurmitola Old Masjid" Address="Manikdi, Dhaka 1206, Bangladesh" Latitude="23.824423" Longitude="90.391933"/>
+  <Data Name="Kuwaiti Masjid" Address="Uttar Badda, Dhaka, Bangladesh" Latitude="23.783185" Longitude="90.424764"/>
+  <Data Name="Kuwaiti Mosque" Address="Ahmed Nagar" Latitude="23.792992" Longitude="90.356324"/>
+  <Data Name="Lake View Jame Masjid" Address="Dolphin Goli, Dhaka, Bangladesh" Latitude="23.750792" Longitude="90.37877"/>
+  <Data Name="Lakshmi Bazaar Mosque" Address="Lakshmi Bazaar" Latitude="23.708711" Longitude="90.413628"/>
+  <Data Name="Lal Mia Jame Masjid" Address="Siddique Bazar, Dhaka 1000, Bangladesh" Latitude="23.722475" Longitude="90.410268"/>
+  <Data Name="Lal Mosjid" Address="Dhaka, Bangladesh" Latitude="23.681021" Longitude="90.439278"/>
+  <Data Name="Lalbag Chan Tara Masjid" Address="Lalbagh, Dhaka, Bangladesh" Latitude="23.721137" Longitude="90.388252"/>
+  <Data Name="Lalbagh Fort Masjid" Address="Lalbagh Rd, Dhaka 1205, Bangladesh" Latitude="23.718833" Longitude="90.386948"/>
+  <Data Name="Lalkuthi Boro Jame Masjid" Address="Lalkuthi, Dhaka, Bangladesh" Latitude="23.789615" Longitude="90.347686"/>
+  <Data Name="Lalmatia Masjid" Address="Lalmatia, Dhaka, Bangladesh" Latitude="23.757872" Longitude="90.368758"/>
+  <Data Name="Lichu Bagan Jame Masjid" Address="Shuti Khal Par Rd, Dhaka, Bangladesh" Latitude="23.714752" Longitude="90.432187"/>
+  <Data Name="Lichu Bagan Jame Masjid" Address="Dhaka, Bangladesh" Latitude="23.714914" Longitude="90.432167"/>
+  <Data Name="Loharpul Masjid" Address="Keshab Benarjee Rd, Dhaka, Bangladesh " Latitude="23.702136" Longitude="90.420071"/>
+  <Data Name="Madhya Badda Baitul Aman Jame Masque" Address="Bir Uttam Rafiqul Islam Ave" Latitude="23.779616" Longitude="90.42544"/>
+  <Data Name="Madina Masjid" Address="Sher-E-Bangla Rd, Dhaka 1209, Bangladesh " Latitude="23.741919" Longitude="90.366403"/>
+  <Data Name="Madina Masjid" Address="Shiddhirganj, Bangladesh" Latitude="23.691293" Longitude="90.494062"/>
+  <Data Name="Madina Masjid" Address="Madina Masjid Rd, Dhaka 1214, Bangladesh " Latitude="23.737878" Longitude="90.438624"/>
+  <Data Name="Madina Masjid and Madrasa" Address="Mazar Rd, Dhaka 1216, Bangladesh" Latitude="23.792796" Longitude="90.348986"/>
+  <Data Name="Madina Masjid Market" Address="2nd Colony,Mazar Rd.Darussalam,Dhaka, Mazar Rd, Dhaka 1216, Bangladesh " Latitude="23.792786" Longitude="90.348868"/>
+  <Data Name="Madrasaye Darul Ulum Jame Masjid" Address="Section 6, Dhaka, Bangladesh" Latitude="23.810733" Longitude="90.363726"/>
+  <Data Name="Mahmud Pur Jame Masjid" Address="Shiddhirganj, Bangladesh" Latitude="23.684946" Longitude="90.490774"/>
+  <Data Name="Majar Jame Mosjid" Address="Jurain" Latitude="23.687348" Longitude="90.439772"/>
+  <Data Name="Makki Masjid" Address="Lalbagh Rd, Dhaka, Bangladesh " Latitude="23.720233" Longitude="90.389539"/>
+  <Data Name="Makki Masjid" Address="Kazlar Par Rd, Dhaka, Bangladesh " Latitude="23.713298" Longitude="90.440577"/>
+  <Data Name="Malibagh Baitul Aman Jame Masjid" Address="Malibag, Dhaka, Bangladesh" Latitude="23.749066" Longitude="90.414261"/>
+  <Data Name="Malibagh Bazar Masjid" Address="Dhaka, Bangladesh" Latitude="23.750397" Longitude="90.414747"/>
+  <Data Name="Malibagh Shahi Masjid" Address="Malibag, Dhaka, Bangladesh" Latitude="23.745499" Longitude="90.414162"/>
+  <Data Name="Malitola Masjid" Address="Malitola Rd, Dhaka, Bangladesh" Latitude="23.714556" Longitude="90.409415"/>
+  <Data Name="Mama Vagina Mosque" Address="Mugdapara" Latitude="23.729284" Longitude="90.433025"/>
+  <Data Name="Manda Chhata Masjid" Address="Mugdapara, Dhaka, Bangladesh" Latitude="23.731308" Longitude="90.442304"/>
+  <Data Name="Manda Kendrio Sata Jame Mosjid" Address="Manda Road" Latitude="23.730139" Longitude="90.439108"/>
+  <Data Name="Manikdi Bazar Masjid" Address="Balurghat, Dhaka, Bangladesh" Latitude="23.826111" Longitude="90.391075"/>
+  <Data Name="Maniknagar Jame Masjid" Address="Mir Hajir Bag Rd, Dhaka, Bangladesh" Latitude="23.722664" Longitude="90.429341"/>
+  <Data Name="Market Jame Masjid" Address="Mayor Mohammad Hanif Flyover, Dhaka, Bangladesh" Latitude="23.70959" Longitude="90.434237"/>
+  <Data Name="Maruf Masjid" Address="Rampura, Dhaka 1219, Bangladesh" Latitude="23.764864" Longitude="90.421726"/>
+  <Data Name="Masjid" Address="Ahmed Nagar, Dhaka, Bangladesh" Latitude="23.710008" Longitude="90.417679"/>
+  <Data Name="Masjid" Address="Duaripara, Dhaka, Bangladesh" Latitude="23.819812" Longitude="90.358257"/>
+  <Data Name="Masjid" Address="Sbdi Kolagachia Rd, Bandar, Bangladesh " Latitude="23.604068" Longitude="90.544968"/>
+  <Data Name="Masjid E Baitul Falah" Address="Section 6, Dhaka, Bangladesh " Latitude="23.814213" Longitude="90.363656"/>
+  <Data Name="Masjid e Baitul Mamur" Address="Senpara Parbata, Dhaka, Bangladesh " Latitude="23.807386" Longitude="90.364659"/>
+  <Data Name="Masjid e Jabal-e-Nur" Address="286/1, Rayer Bazar Staff Quarter Rd, Dhaka, Bangladesh " Latitude="23.743459" Longitude="90.371188"/>
+  <Data Name="Masjid E Noor" Address="Khilgaon, Dhaka, Bangladesh" Latitude="23.755577" Longitude="90.390763"/>
+  <Data Name="Masjid E Noor" Address="Hatirjheel Link Road 1, Dhaka, Bangladesh" Latitude="23.750596" Longitude="90.399464"/>
+  <Data Name="Masjid Market" Address="Road 10, Dhaka, Bangladesh" Latitude="23.7694" Longitude="90.356122"/>
+  <Data Name="Masjid-e Baitul Karar" Address="254, Dhaka 1216, Bangladesh" Latitude="23.805648" Longitude="90.371633"/>
+  <Data Name="Masjid-e Baitullah" Address="Shah Ali Bag, Dhaka, Bangladesh " Latitude="23.794838" Longitude="90.353696"/>
+  <Data Name="Masjid-e Modina" Address="Dhaka, Bangladesh" Latitude="23.685742" Longitude="90.423832"/>
+  <Data Name="Masjide Belal (Ra)" Address="West Nakhalpara" Latitude="23.768875" Longitude="90.394981"/>
+  <Data Name="Masjid-e-Aman" Address="Dhaka - Chittagong Hwy, Dhaka, Bangladesh " Latitude="23.716407" Longitude="90.462369"/>
+  <Data Name="Masjid-E-Baqquatil Mubaraquah" Address="Lake Circus Rd, Dhaka, Bangladesh " Latitude="23.749327" Longitude="90.381656"/>
+  <Data Name="Masjid-e-Noor" Address="Shegunbagicha, Dhaka, Bangladesh" Latitude="23.733591" Longitude="90.409648"/>
+  <Data Name="Masjid-e-Sayyidil Mursaleen" Address="Tejkunipara-Nakhalpara Rd, Dhaka 1215, Bangladesh" Latitude="23.763595" Longitude="90.393608"/>
+  <Data Name="Masjidul Aksa Jame Masjid" Address="East Kazipara, Dhaka, Bangladesh " Latitude="23.799236" Longitude="90.373973"/>
+  <Data Name="masjidul falah" Address="Dhaka, Bangladesh" Latitude="23.7759" Longitude="90.427133"/>
+  <Data Name="Masjidul Taqwa Jame Masjid" Address="Sector 3, Dhaka 1230, Bangladesh" Latitude="23.864843" Longitude="90.399281"/>
+  <Data Name="Masjidul Aksa" Address="Dhaka, Bangladesh" Latitude="23.739582" Longitude="90.432618"/>
+  <Data Name="Mastertek Jame Masjid" Address="Mastertek, North Manikdi, Manikdi Bazar Rd, Dhaka, Bangladesh " Latitude="23.826209" Longitude="90.385657"/>
+  <Data Name="Mati Masjid" Address="Block - B, 138 &amp; 139, Dhaka 1219, Bangladesh " Latitude="23.753841" Longitude="90.418719"/>
+  <Data Name="Matikata Central Masjid" Address="Dhaka, Bangladesh " Latitude="23.818298" Longitude="90.392824"/>
+  <Data Name="Matir Masjid" Address="Chalaban, Dhaka 1230, Bangladesh" Latitude="23.865108" Longitude="90.418123"/>
+  <Data Name="Matuial Hospital Masjid" Address="Purba Jurain" Latitude="23.69344" Longitude="90.466765"/>
+  <Data Name="Meghu Bepari Jame Masjid" Address="Mugdapara, Dhaka, Bangladesh" Latitude="23.730483" Longitude="90.440552"/>
+  <Data Name="Meraj Nagar Madrasha Masjid" Address="Meraj Nagar Block-D, P.O Merajnagar, P.S Kadamtoli, Rayerbag,, Meraj nagar madrasha Rd, Dhaka 1362, Bangladesh " Latitude="23.691045" Longitude="90.455852"/>
+  <Data Name="Meraj Nagar Shahi Masjid" Address="Meraj Nagar, B-block, Kadamtoli, Dhaka 1362, Bangladesh " Latitude="23.693739" Longitude="90.45906"/>
+  <Data Name="Miapara Central Masjid" Address="Airport Dakshinkhan Rd, Dhaka 1230, Bangladesh " Latitude="23.85716" Longitude="90.426416"/>
+  <Data Name="Mike-wala Masjid" Address="Middle Monipur, Dhaka 1216, Bangladesh" Latitude="23.796769" Longitude="90.366312"/>
+  <Data Name="Mill Gate Jame Masjid" Address="Dhaka - Mymensingh Hwy, Tongi, Bangladesh" Latitude="23.89643" Longitude="90.399402"/>
+  <Data Name="Minar Masjid" Address="Shymoli, Dhaka, Bangladesh" Latitude="23.765212" Longitude="90.362146"/>
+  <Data Name="Minar Masjid" Address="Lalmatia, Dhaka, Bangladesh" Latitude="23.7553" Longitude="90.370759"/>
+  <Data Name="Mirbahg Jame Masjid" Address="Madhubag, Dhaka, Bangladesh" Latitude="23.757782" Longitude="90.414009"/>
+  <Data Name="Mirbahg Jame Masjid Madrasha" Address="Madhubag, Dhaka, Bangladesh" Latitude="23.757801" Longitude="90.414052"/>
+  <Data Name="Mirpur 10 No Market Masjid" Address="Section 10, Dhaka, Bangladesh " Latitude="23.807707" Longitude="90.369069"/>
+  <Data Name="Mirpur 11 Central Jame Masjid" Address="Begum Rokeya Ave, Dhaka, Bangladesh" Latitude="23.816588" Longitude="90.365848"/>
+  <Data Name="Mirpur 11 Dhal Masjid" Address="Section 10, Dhaka, Bangladesh " Latitude="23.813356" Longitude="90.369214"/>
+  <Data Name="Mirpur Cantonment Central Masjid" Address="Mirpur Cantonment, Dhaka, Bangladesh" Latitude="23.832304" Longitude="90.361946"/>
+  <Data Name="Mirpur DOHS Mosque" Address="Mirpur Cantonment, Dhaka, Bangladesh" Latitude="23.83619" Longitude="90.367696"/>
+  <Data Name="Mirpur Model Thana Jame Masjid" Address="Mirpur, Dhaka, Bangladesh" Latitude="23.80435" Longitude="90.363318"/>
+  <Data Name="Mirpur Packaging Jame Masjid" Address="Avenue No. 1, Dhaka, Bangladesh " Latitude="23.810875" Longitude="90.376622"/>
+  <Data Name="Mirpur Shahi Masjid and Madrasa Complex" Address="Khaleq City Masjid,Gabtoli,Darussalam,Dhaka, Mirpur Rd, Dhaka 1216, Bangladesh" Latitude="23.783622" Longitude="90.345079"/>
+  <Data Name="Mirza Manna Deuri Mosjid" Address="Horonath Ghosh Road" Latitude="23.718642" Longitude="90.39217"/>
+  <Data Name="Misco Super Market Masjid" Address="Shah Ali Bag, Dhaka, Bangladesh " Latitude="23.796684" Longitude="90.353696"/>
+  <Data Name="Mizan Jame Masjid" Address="Agargaon, Dhaka, Bangladesh" Latitude="23.782699" Longitude="90.36839"/>
+  <Data Name="Mizmizi Dokkhin Para Jame Mosjid" Address="Shiddhirganj" Latitude="23.681512" Longitude="90.499102"/>
+  <Data Name="Mizmizi Eid Gha Moydan" Address="Shiddhirganj" Latitude="23.687073" Longitude="90.496699"/>
+  <Data Name="Modina Jame Masjid" Address="Kolar Arot Rd, Dhaka, Bangladesh" Latitude="23.712355" Longitude="90.432106"/>
+  <Data Name="Modina Masjid" Address="Dhaka, Bangladesh " Latitude="23.818966" Longitude="90.391612"/>
+  <Data Name="Mogardia Mosque" Address="Mogardia road, satarkul, Uttar badda" Latitude="23.793297" Longitude="90.46419"/>
+  <Data Name="Mogbazar Chourasta Jame Masjid" Address="Outer Circular Rd, Dhaka 1217, Bangladesh" Latitude="23.749115" Longitude="90.403626"/>
+  <Data Name="Moghbazar T&amp;T Colony Jame Masjid" Address="Old Elephant Rd, Dhaka, Bangladesh " Latitude="23.753679" Longitude="90.410603"/>
+  <Data Name="Mohakhali DOHS Mosque" Address="DOHS Mahakhali" Latitude="23.782773" Longitude="90.396107"/>
+  <Data Name="Mohakhali South Para Jame Mosque" Address="Mohakhali" Latitude="23.775507" Longitude="90.401794"/>
+  <Data Name="Mohammadia Darululum Madrasa andMasjid " Address="151, WAPDA Road, Dhaka 1219, Bangladesh " Latitude="23.762399" Longitude="90.415863"/>
+  <Data Name="Mohammadia Housing Kacha Bazar JameMasjid" Address="Sher-E-Bangla Rd, Dhaka, Bangladesh" Latitude="23.761184" Longitude="90.358831"/>
+  <Data Name="Mohammadpur Bitul Sojut Masjid" Address="Nurjahan Rd, Dhaka, Bangladesh " Latitude="23.757799" Longitude="90.36254"/>
+  <Data Name="Mohammadpur Jame Masjid" Address="Mohammadpur, Dhaka, Bangladesh" Latitude="23.762809" Longitude="90.363096"/>
+  <Data Name="Mohammadpur Shahid Park Central Jame'Masjid" Address="Sher Shah Suri Rd, Dhaka 1207, Bangladesh" Latitude="23.759667" Longitude="90.365477"/>
+  <Data Name="Mohammadpur Shia Masjid" Address="Mohammadpur, Dhaka, Bangladesh " Latitude="23.762271" Longitude="90.359129"/>
+  <Data Name="Moinar Bagh Jame Masjid" Address="East Nurerchala, Dhaka, Bangladesh " Latitude="23.783234" Longitude="90.427585"/>
+  <Data Name="Moinar Bagh Jame Masjid" Address="East Nurerchala, Dhaka, Bangladesh " Latitude="23.783205" Longitude="90.427596"/>
+  <Data Name="Mokim Bazar Jame Masjid" Address="Bangshal Rd, Dhaka, Bangladesh" Latitude="23.717606" Longitude="90.40402"/>
+  <Data Name="Mollabari Jame Masjid" Address="Manda,Dhaka, Dhaka, Bangladesh" Latitude="23.731941" Longitude="90.442218"/>
+  <Data Name="Mollaji Masjid" Address="Sector 8, Dhaka, Bangladesh" Latitude="23.877629" Longitude="90.401676"/>
+  <Data Name="Mollartek Masjid" Address="Mollartek Masjid Road, 61 Shahid Latif Rd, Dhaka 1230, Bangladesh " Latitude="23.85978" Longitude="90.41074"/>
+  <Data Name="Momtaz Mansion Jame Mosque" Address="Dhaka, Bangladesh" Latitude="23.78077" Longitude="90.367761"/>
+  <Data Name="Monipur Jonokollyan Jame Masjid" Address="Monipur, Dhaka, Bangladesh" Latitude="23.798149" Longitude="90.365799"/>
+  <Data Name="Monipur Maek-oala Masjid" Address="Monipur, Dhaka, Bangladesh" Latitude="23.796769" Longitude="90.366314"/>
+  <Data Name="Monnu Shahi Jame Masjid" Address="Dhaka - Mymensingh Hwy, Tongi, Bangladesh " Latitude="23.895373" Longitude="90.399501"/>
+  <Data Name="Monsurabad Jame Masjid" Address="Adabar, Dhaka, Bangladesh " Latitude="23.775983" Longitude="90.352777"/>
+  <Data Name="Mosque" Address="Nadda" Latitude="23.811631" Longitude="90.422686"/>
+  <Data Name="Mosque" Address="Dhaka, Bangladesh" Latitude="23.785865" Longitude="90.446028"/>
+  <Data Name="Mosque" Address="Ahmed Nagar" Latitude="23.792747" Longitude="90.360412"/>
+  <Data Name="Mosque - Masjid" Address="Araihazar - Narsingdi Hwy, Araihazar 1450, Bangladesh " Latitude="23.792487" Longitude="90.656505"/>
+  <Data Name="Moszidut Takoa Masjid" Address="Zigatala Rd, Dhaka, Bangladesh" Latitude="23.737463" Longitude="90.372076"/>
+  <Data Name="Moti Sarder Jame Masjid" Address="Siddiq Bazar" Latitude="23.721795" Longitude="90.40784"/>
+  <Data Name="Motijheel Colony Jame Masjid" Address="Outer Circular Rd, Dhaka, Bangladesh " Latitude="23.736184" Longitude="90.423362"/>
+  <Data Name="Motijheel Jame Masjid" Address="Toyenbee Rd, Dhaka, Bangladesh" Latitude="23.724128" Longitude="90.422354"/>
+  <Data Name="Moulovi Bazar Jame Masjid" Address="Begum Bazar, Dhaka, Bangladesh " Latitude="23.716039" Longitude="90.397347"/>
+  <Data Name="Mridha Bari Jame Mosjid" Address="Block C" Latitude="23.816561" Longitude="90.426094"/>
+  <Data Name="Mugda Bazar Masjid" Address="Kamalapur Manda Rd, Dhaka, Bangladesh" Latitude="23.729915" Longitude="90.429169"/>
+  <Data Name="Mugda Boro Masjid" Address="Mugdapara, Dhaka 1214, Bangladesh" Latitude="23.729306" Longitude="90.43069"/>
+  <Data Name="Mugda Moddo Masjid" Address="Mugdapara, Dhaka, Bangladesh " Latitude="23.731064" Longitude="90.431626"/>
+  <Data Name="Muhammadia Jame Masjid" Address="Saat Rowza, Dhaka, Bangladesh" Latitude="23.718873" Longitude="90.398752"/>
+  <Data Name="Muhammadia Jame Masjid" Address="Ibrahimpur, Dhaka, Bangladesh " Latitude="23.792217" Longitude="90.387277"/>
+  <Data Name="Mujahid Nagar Ahsania Jame Masjid" Address="South Rayerbag, Mujahid Nagar, Habib Nagar, Kadamtoli, Dhaka 1362, Bangladesh " Latitude="23.696434" Longitude="90.458692"/>
+  <Data Name="Mukto Bangla Shopping Complex Masjid" Address="4th Floor, Mazar Rd, Dhaka, Bangladesh " Latitude="23.798922" Longitude="90.35346"/>
+  <Data Name="Muradpur Islamia Alim Madrasha" Address="Jurain" Latitude="23.696033" Longitude="90.438313"/>
+  <Data Name="Murghitola Jame Mosjid" Address="Dayaganj" Latitude="23.707316" Longitude="90.421122"/>
+  <Data Name="Nadhidhara Masjid" Address="Dhaka, Bangladesh " Latitude="23.706899" Longitude="90.402682"/>
+  <Data Name="Nakhalpara Chhapra Masjid" Address="Tejkunipara-West Nakhalpara Rd, Dhaka 1215, Bangladesh" Latitude="23.766553" Longitude="90.392967"/>
+  <Data Name="Nakhalpara Jame Mosque" Address="West Nakhalpara" Latitude="23.769754" Longitude="90.396191"/>
+  <Data Name="Nakhalpara Sapra Mosque" Address="Tejkunipara-West Nakhalpara Road" Latitude="23.766656" Longitude="90.392964"/>
+  <Data Name="Namapara Jame Masjid" Address="  ,  , ,, NamaPara Lain, Dhaka, Bangladesh" Latitude="23.707562" Longitude="90.424239"/>
+  <Data Name="Nandalalpur Poraton Moszid" Address="Dhaka, Bangladesh" Latitude="23.663354" Longitude="90.471508"/>
+  <Data Name="Nandipara Central Jame Masjid" Address="Koborstan Rd, Dhaka 1214, Bangladesh" Latitude="23.749859" Longitude="90.450717"/>
+  <Data Name="Naraibag Eidgah" Address="Dhaka, Bangladesh" Latitude="23.730227" Longitude="90.490853"/>
+  <Data Name="Narikal Bagan Boro Jame Masjid and Madrasha Complex" Address="Dhalpur, Dhaka, Bangladesh" Latitude="23.716601" Longitude="90.432321"/>
+  <Data Name="Narinda Jame Masjid" Address="46 no, Narinda Rd, Dhaka, Bangladesh " Latitude="23.713198" Longitude="90.418585"/>
+  <Data Name="Narinda Peer Masjid" Address="Sharat Gupta Rd, Dhaka, Bangladesh " Latitude="23.711113" Longitude="90.418899"/>
+  <Data Name="Natun Bazar Masjid" Address="Kallyanpur Main Rd, Dhaka, Bangladesh " Latitude="23.784991" Longitude="90.359641"/>
+  <Data Name="Navy Colony Jame Masjid" Address="Damalkot, Dhaka, Bangladesh " Latitude="23.799098" Longitude="90.390395"/>
+  <Data Name="Nawab Bari Jame Masjid" Address="Badamtali, Dhaka, Bangladesh" Latitude="23.709541" Longitude="90.405898"/>
+  <Data Name="Nazir Bazaar Boro Jame Masjid" Address="94 Kazi Alauddin Rd, Dhaka 1000, Bangladesh " Latitude="23.718617" Longitude="90.407046"/>
+  <Data Name="Nazira Bazar Big Mosque" Address="Kazi Alauddin Road" Latitude="23.718475" Longitude="90.40703"/>
+  <Data Name="New Colony Jame Masjid" Address="Mirpur Rd, Dhaka, Bangladesh" Latitude="23.75922" Longitude="90.37339"/>
+  <Data Name="New Market Masjid" Address="Mirpur Rd, Dhaka 1205, Bangladesh " Latitude="23.733112" Longitude="90.383995"/>
+  <Data Name="Niketon Central Mosque" Address="Mohakhali" Latitude="23.774682" Longitude="90.411396"/>
+  <Data Name="Nimtoli Masjid" Address="Station Rd, Dhaka, Bangladesh" Latitude="23.757303" Longitude="90.393791"/>
+  <Data Name="Nobinbag Jame Masjid" Address="Nobinbag Jame Masjid, Rampura-Khilgaon -Notun Rasta Rd, Dhaka 1219, Bangladesh " Latitude="23.756507" Longitude="90.429783"/>
+  <Data Name="Nogoriabari Masjid" Address=" , Dhaka, Bangladesh" Latitude="23.86496" Longitude="90.420933"/>
+  <Data Name="Nondu Bepari Jame Masjid" Address="Mugdapara, Dhaka, Bangladesh " Latitude="23.732194" Longitude="90.442583"/>
+  <Data Name="Noor Bag Masjid" Address="Kutub Khali, Dhaka, Bangladesh " Latitude="23.701643" Longitude="90.440311"/>
+  <Data Name="Noor Madina Jame Masjid" Address="Dhaka, Bangladesh" Latitude="23.8446" Longitude="90.423862"/>
+  <Data Name="Noor Nagar Jam-e-Masjid" Address="63 New Eskaton, Biam Rd, Dhaka 1000, Bangladesh" Latitude="23.748109" Longitude="90.396148"/>
+  <Data Name="Noor Masjid" Address="Mohammadpur, Dhaka, Bangladesh" Latitude="23.762316" Longitude="90.358128"/>
+  <Data Name="Noor Masjid" Address="Larmini St, Dhaka, Bangladesh" Latitude="23.716989" Longitude="90.417459"/>
+  <Data Name="Noor-e-Mohammadi (SAW) Jame Masjid" Address="Road No 11, Dhaka 1230, Bangladesh " Latitude="23.865375" Longitude="90.389357"/>
+  <Data Name="Norani Jami Mosque" Address="Jurain" Latitude="23.690866" Longitude="90.440909"/>
+  <Data Name="North Goran Masjid" Address="01, Dhaka 1219, Bangladesh " Latitude="23.752371" Longitude="90.432286"/>
+  <Data Name="North Matikata Jame Masjid" Address="Cantonment, Dhaka, Bangladesh" Latitude="23.821174" Longitude="90.393682"/>
+  <Data Name="North nandipara rosulbag Jam-e Masjid" Address="Tri Mohoni Rd, Dhaka, Bangladesh " Latitude="23.751018" Longitude="90.449472"/>
+  <Data Name="North Bashaboo Jame Mashjid" Address="Basaboo" Latitude="23.74652" Longitude="90.429999"/>
+  <Data Name="North Kafrul Central Mosque" Address="Dhaka, Bangladesh " Latitude="23.78936" Longitude="90.384402"/>
+  <Data Name="Notunbag Masjid" Address="Zia Sarani Rd, Dhaka 1236, Bangladesh" Latitude="23.75584" Longitude="90.423263"/>
+  <Data Name="Noyanichala Jame Masjid" Address="Dhaka, Bangladesh" Latitude="23.896265" Longitude="90.379263"/>
+  <Data Name="Nur E Shefa Jame Masjid" Address="Area 27, Dhaka, Bangladesh " Latitude="23.717051" Longitude="90.421836"/>
+  <Data Name="Nur Jame Masjid" Address="Mridha Para, Dhaka, Bangladesh" Latitude="23.706849" Longitude="90.44059"/>
+  <Data Name="Nur Masjid" Address="Shantibag Nur Mosjid Road,  1217, " Latitude="23.744993" Longitude="90.41774"/>
+  <Data Name="Nurani Jame Masjid" Address="Section 2, Dhaka, Bangladesh " Latitude="23.808691" Longitude="90.361071"/>
+  <Data Name="Nurani Jame Masjid" Address="Road No. 1, Dhaka, Bangladesh" Latitude="23.776585" Longitude="90.367934"/>
+  <Data Name="Nurani Masjid" Address="Kamarpara, Turag, Dhaka 1230, Bangladesh" Latitude="23.89243" Longitude="90.381977"/>
+  <Data Name="Nurani Masjid &amp; Madrasa" Address="Madhya Meradia, Dhaka, Bangladesh" Latitude="23.758071" Longitude="90.430068"/>
+  <Data Name="Nur-e-Mohammadia Jame Masjid" Address="Bosila, Dhaka, Bangladesh" Latitude="23.756255" Longitude="90.358431"/>
+  <Data Name="Nurer Chala Bazar Mosque" Address="Natun Bazaar" Latitude="23.795653" Longitude="90.429484"/>
+  <Data Name="Nuria Jame Masjid" Address="Luxmibazar, Dhaka, Bangladesh " Latitude="23.708885" Longitude="90.415898"/>
+  <Data Name="Nurjahan Road Masjid" Address="Nurjahan Rd, Dhaka 1207, Bangladesh" Latitude="23.757892" Longitude="90.362511"/>
+  <Data Name="Olipara Jame Masjid" Address="Joar Shahara, Dhaka, Bangladesh" Latitude="23.812492" Longitude="90.417453"/>
+  <Data Name="Olympia Textile Mill Masjid" Address="Tongi, Bangladesh" Latitude="23.895186" Longitude="90.394807"/>
+  <Data Name="Paikpara Central Jame Masjid" Address="Middle Paikpara, Dhaka 1216, Bangladesh" Latitude="23.789937" Longitude="90.359861"/>
+  <Data Name="PaikPara Darul Islam Jame Masjid" Address="Ahmed Nagar, Dhaka, Bangladesh " Latitude="23.794779" Longitude="90.358824"/>
+  <Data Name="Paka Market Mosque" Address="Sher- E- Bangla Nagar" Latitude="23.774535" Longitude="90.378876"/>
+  <Data Name="Palash Nagar Jame Masjid" Address="Palash Nagar, Dhaka, Bangladesh " Latitude="23.814227" Longitude="90.38079"/>
+  <Data Name="Pallabi Eid Ga Maydan" Address="pallabi" Latitude="23.825581" Longitude="90.365455"/>
+  <Data Name="Pallabi Jhil Jame Mashjid" Address="Eastern Pallabi" Latitude="23.82827" Longitude="90.359007"/>
+  <Data Name="Palpara Masjid" Address="Palpara,Darussalam,Dhaka, Palpara Ghat Rd, Dhaka 1216, Bangladesh " Latitude="23.793346" Longitude="90.341143"/>
+  <Data Name="Paltan Jame Masjid" Address="Naya Paltan, Dhaka, Bangladesh " Latitude="23.735948" Longitude="90.414277"/>
+  <Data Name="Panir Tank Masjid &amp; Madrasa" Address="New Elephant Rd, Dhaka, Bangladesh" Latitude="23.824656" Longitude="90.371813"/>
+  <Data Name="Pantha Path Jame Masjid" Address="Pantha Path, Dhaka, Bangladesh " Latitude="23.789161" Longitude="90.366542"/>
+  <Data Name="Paramona Masjid" Address="Baridhara, Dhaka, Bangladesh" Latitude="23.799604" Longitude="90.419103"/>
+  <Data Name="Paribag Masjid" Address="Shahbagh, Dhaka, Bangladesh" Latitude="23.741865" Longitude="90.393039"/>
+  <Data Name="Pashchim Tejturi Bazar Jame Masjid" Address="Tejgaon, Dhaka, Bangladesh " Latitude="23.750232" Longitude="90.390677"/>
+  <Data Name="Patuatuli Jame Masjid" Address="Islampur Rd, Dhaka, Bangladesh" Latitude="23.707301" Longitude="90.410243"/>
+  <Data Name="Pesci Culture Housing Society Jam-E-Mosque" Address="12 Road 11 PC Culture Housing" Latitude="23.769459" Longitude="90.355584"/>
+  <Data Name="Pir Ma Jame Mosjid" Address="Tejkunipara" Latitude="23.764785" Longitude="90.390073"/>
+  <Data Name="Pirerbag Central Jame Masjid" Address="Pirerbag, Dhaka, Bangladesh " Latitude="23.789161" Longitude="90.366548"/>
+  <Data Name="Pirerbag Chhapra Masjid" Address="Pirerbag, Dhaka, Bangladesh" Latitude="23.791925" Longitude="90.365365"/>
+  <Data Name="Poschimpara Jame Masjid" Address="Shiddhirganj, Bangladesh" Latitude="23.687876" Longitude="90.498939"/>
+  <Data Name="Poshchim Merul Jame Masjid" Address="Merul Badda, Dhaka 1212, Bangladesh" Latitude="23.771457" Longitude="90.42351"/>
+  <Data Name="Postal Quarter Jame Masjid" Address="Sector 8, Dhaka 1230, Bangladesh" Latitude="23.875289" Longitude="90.404533"/>
+  <Data Name="Provatibag Mosque" Address="Provatibag Rd" Latitude="23.74323" Longitude="90.428208"/>
+  <Data Name="Pulpar Jame Masjid" Address="Sher-E-Bangla Rd, Dhaka, Bangladesh" Latitude="23.751595" Longitude="90.362843"/>
+  <Data Name="Puran Para Masjid" Address="Uttar Khan, Dhaka 1230, Bangladesh" Latitude="23.875802" Longitude="90.419797"/>
+  <Data Name="Puraton Gabtoli Mini Truck Terminal Masjid" Address="Gabtoli Road, Dhaka - Aricha Hwy, Dhaka 1216, Bangladesh " Latitude="23.782608" Longitude="90.348188"/>
+  <Data Name="Purbo Baishteki Masjid" Address="Section 13, Dhaka, Bangladesh" Latitude="23.807577" Longitude="90.382134"/>
+  <Data Name="PWD Jame Masjid" Address="Shanti Nagar, Dhaka, Bangladesh " Latitude="23.737073" Longitude="90.415848"/>
+  <Data Name="R A Central Jame Masjid and Madrasah" Address="Road 14, Rupnagar Rd, Dhaka, Bangladesh" Latitude="23.814424" Longitude="90.356543"/>
+  <Data Name="Radio Colony Mosque" Address="Mirpur Road" Latitude="23.779219" Longitude="90.357869"/>
+  <Data Name="Rahim Metal Jame Masjid" Address="Tejgaon Industrial Area, Dhaka, Bangladesh" Latitude="23.768634" Longitude="90.403954"/>
+  <Data Name="Rahmat Ganj Jame Mosjid" Address="water Works Road" Latitude="23.715882" Longitude="90.392669"/>
+  <Data Name="Railway Jame Masjid" Address="1 Road No. 2, Dhaka, Bangladesh" Latitude="23.830419" Longitude="90.420569"/>
+  <Data Name="Rainkhola Jam-e Masjid" Address="Section 2, Dhaka, Bangladesh " Latitude="23.803977" Longitude="90.352925"/>
+  <Data Name="Rajarbagh Police Lines Jame Masjid" Address="Rajarbagh, Dhaka, Bangladesh" Latitude="23.742533" Longitude="90.415546"/>
+  <Data Name="Ramna Thana Masjid" Address="Shiddheswari, Dhaka, Bangladesh " Latitude="23.745607" Longitude="90.405453"/>
+  <Data Name="Rampura Paka Masjid" Address="Ulon Rd, Dhaka, Bangladesh " Latitude="23.761879" Longitude="90.418848"/>
+  <Data Name="RHD Jame Mosque" Address="308 Shaheed Tajuddin Ahmed Ave" Latitude="23.772022" Longitude="90.400013"/>
+  <Data Name="Rojonigandha Super Market Jame Masjid" Address="Kachukhet, Dhaka, Bangladesh " Latitude="23.79149" Longitude="90.388844"/>
+  <Data Name="Rokon Uddin Jame Masjid" Address="110 Kazi Alauddin Rd, Dhaka, Bangladesh" Latitude="23.717539" Longitude="90.406837"/>
+  <Data Name="Ruhin Masjid" Address="Khilli Road" Latitude="23.771491" Longitude="90.363116"/>
+  <Data Name="Rupnagar Housing Jame Masjid" Address="Road 14, Dhaka, Bangladesh" Latitude="23.813685" Longitude="90.353123"/>
+  <Data Name="Rupnagar Nurani Jame Masjid" Address="Rupnagar R/A, Dhaka, Bangladesh" Latitude="23.817182" Longitude="90.353987"/>
+  <Data Name="S. A. Khaleque R/A Mosque" Address="Mirpur Road" Latitude="23.778089" Longitude="90.353664"/>
+  <Data Name="Saat Gombuj Masjid" Address="Mohammadpur, Dhaka, Bangladesh" Latitude="23.757728" Longitude="90.358992"/>
+  <Data Name="Sabisthan Jame Masjid" Address="Armanitola Rd, Dhaka 1100, Bangladesh" Latitude="23.713117" Longitude="90.40449"/>
+  <Data Name="Sadarghat Central Tarminal Mosjid" Address="Sodorghat" Latitude="23.705327" Longitude="90.410782"/>
+  <Data Name="Sahajadi Begum Masjid" Address="Naya Bazaar, Dhaka, Bangladesh " Latitude="23.714364" Longitude="90.405187"/>
+  <Data Name="Saidabad Baitul Rahmat jame masjid" Address="saidabad college road, Dhaka, Bangladesh " Latitude="23.714597" Longitude="90.42952"/>
+  <Data Name="Sapra Mosque" Address="Block F , boshundhara" Latitude="23.821439" Longitude="90.436007"/>
+  <Data Name="Sarak Bhaban Masjid" Address="Ramna Rd, Dhaka, Bangladesh " Latitude="23.73395" Longitude="90.401867"/>
+  <Data Name="Sardar Jame Masjid" Address="Commissioner Rd, Dhaka, Bangladesh " Latitude="23.715958" Longitude="90.435247"/>
+  <Data Name="Sarderbari Family Mosque" Address="Dhaka, Bangladesh" Latitude="23.669033" Longitude="90.478825"/>
+  <Data Name="Sat Masjid Super Market" Address="Mohammadpur, Dhaka, Bangladesh " Latitude="23.757546" Longitude="90.360751"/>
+  <Data Name="Sath Khola Mosque" Address="Dhaka, Bangladesh" Latitude="23.799707" Longitude="90.463591"/>
+  <Data Name="Science Laboratory Masjid" Address="Road No 1, Dhaka 1236, Bangladesh" Latitude="23.738683" Longitude="90.383859"/>
+  <Data Name="Science Staff Quarter Masjid" Address="R M Dash Rd, Dhaka, Bangladesh " Latitude="23.790614" Longitude="90.362184"/>
+  <Data Name="Section 13 Central Masjid" Address="S J Jahanara Imam Sharani, Dhaka, Bangladesh" Latitude="23.807329" Longitude="90.378846"/>
+  <Data Name="Segun Bagicha Commisionar Complex Jame Masjid" Address="N South Rd, Dhaka, Bangladesh" Latitude="23.735403" Longitude="90.407505"/>
+  <Data Name="Senpara Jame Masjid" Address="276, Dhaka 1216, Bangladesh" Latitude="23.804016" Longitude="90.37233"/>
+  <Data Name="Shah Ali Plaza Market Masjid" Address="Club Rd, Dhaka, Bangladesh " Latitude="23.806738" Longitude="90.369251"/>
+  <Data Name="Shah Shaheb Nagar Jame Masjid" Address="Middle Paikpara, Dhaka, Bangladesh " Latitude="23.789846" Longitude="90.356538"/>
+  <Data Name="Shah Saiyad Miskin Ashraf Jame Mosjid" Address="Dhakeshwari Rd" Latitude="23.721476" Longitude="90.389805"/>
+  <Data Name="Shaheenbag Mosque" Address="Shaheenbag" Latitude="23.772522" Longitude="90.393125"/>
+  <Data Name="Shahi Jame Masjid" Address="Manikdi, Dhaka 1206, Bangladesh " Latitude="23.824639" Longitude="90.393435"/>
+  <Data Name="Shahi Jame Masjid" Address="Khilkhet, Dhaka, Bangladesh" Latitude="23.830606" Longitude="90.428851"/>
+  <Data Name="Shahi Nurani Jame Masjid" Address="Dhaka 1230, Bangladesh " Latitude="23.883346" Longitude="90.414282"/>
+  <Data Name="Shahi Masjid" Address="Sonamia Market, Shiddhirganj, Bangladesh" Latitude="23.672541" Longitude="90.521001"/>
+  <Data Name="Shahi Masjid" Address="Kutub Khali, Dhaka, Bangladesh " Latitude="23.700285" Longitude="90.4463"/>
+  <Data Name="Shahid Muktijodha Jam-e-Masjid Complex" Address="Section 12, Dhaka 1216, Bangladesh" Latitude="23.826653" Longitude="90.369477"/>
+  <Data Name="Shahid Yakub Ali Masjid" Address="Army Housing Society Rd, Dhaka 1230, Bangladesh" Latitude="23.868419" Longitude="90.420578"/>
+  <Data Name="Shahidbag Masjid" Address="03, Dhaka, Bangladesh" Latitude="23.829114" Longitude="90.375562"/>
+  <Data Name="Shahjadpur Eidgah Jame Masjid" Address="Shahajadpur, Dhaka, Bangladesh" Latitude="23.790543" Longitude="90.425806"/>
+  <Data Name="Shahjahanpur Jame Masjid" Address="Khilgaon, Dhaka 1219, Bangladesh" Latitude="23.743766" Longitude="90.426857"/>
+  <Data Name="Shaikhdi Masjid" Address="Kajla, Dhaka, Bangladesh" Latitude="23.706761" Longitude="90.450648"/>
+  <Data Name="Shameem Sharani Masjid" Address="Shewrapara, Dhaka, Bangladesh " Latitude="23.787171" Longitude="90.375672"/>
+  <Data Name="Shamibag Jame Masjid" Address="Shamibag, Dhaka, Bangladesh" Latitude="23.71554" Longitude="90.425275"/>
+  <Data Name="Shantipur Jame Masjid" Address="Section 13, Dhaka, Bangladesh" Latitude="23.745347" Longitude="90.431218"/>
+  <Data Name="Shantipur Jame Masjid" Address="Shantipur, Khilgao, Dhaka, Dhaka, Bangladesh " Latitude="23.745342" Longitude="90.431218"/>
+  <Data Name="Shat Tara Jame Mosque" Address="Senpara Parbata" Latitude="23.803339" Longitude="90.368984"/>
+  <Data Name="Sher- E- Bangla Agriculture University JameMasjid" Address="Sher- E- Bangla Nagar" Latitude="23.773347" Longitude="90.376162"/>
+  <Data Name="Sher-E-Bangla Nagar Police Station Jame Masjid" Address="Foot Path, Dhaka, Bangladesh" Latitude="23.776057" Longitude="90.377053"/>
+  <Data Name="Shewrapara Jame Mosque" Address="Shewrapara Overbridge" Latitude="23.791441" Longitude="90.375057"/>
+  <Data Name="Shiddeswari Boys School Jame Masjid" Address="Shahid Sangbadik Selina Parvin Rd, Dhaka, Bangladesh " Latitude="23.746395" Longitude="90.410753"/>
+  <Data Name="Shiddhirganj Eidgah" Address="Road to Shiddhirganj Power Plant" Latitude="23.682298" Longitude="90.51938"/>
+  <Data Name="Shikkha Bhaban Jame Masjid" Address="Ramna, Dhaka, Bangladesh " Latitude="23.728786" Longitude="90.404565"/>
+  <Data Name="Shimultola Masjid" Address="Shimultola, Dhaka, Bangladesh" Latitude="23.789063" Longitude="90.364968"/>
+  <Data Name="Shintola Jame Masjid" Address="Pyari Das Rd, Dhaka, Bangladesh" Latitude="23.706184" Longitude="90.415337"/>
+  <Data Name="Shintola Jame Masjid" Address="Pyari Das Rd, Dhaka, Bangladesh " Latitude="23.706172" Longitude="90.415334"/>
+  <Data Name="Shobji Bagan Jame Masjid" Address="Old Elephant Rd, Dhaka, Bangladesh" Latitude="23.744114" Longitude="90.400099"/>
+  <Data Name="Shobuj Masjid" Address="Naya Bazaar, Dhaka, Bangladesh " Latitude="23.714686" Longitude="90.404015"/>
+  <Data Name="Shohid Minar Road Jame Masjid" Address="Mirpur Rd, Dhaka, Bangladesh" Latitude="23.778931" Longitude="90.35944"/>
+  <Data Name="Shorkarpara Masjid" Address="Shorkarpara Mosque, Shorkarpara, Dhaka 1214, Bangladesh " Latitude="23.742241" Longitude="90.438066"/>
+  <Data Name="Shukhi Textaile Jame Masjid" Address="Dhaka Demra Rd, Dhaka, Bangladesh " Latitude="23.717227" Longitude="90.46901"/>
+  <Data Name="Shuti Khal Par Jame Masjid" Address="Shuti Khal par, Dhalpur, Dhaka, Bangladesh" Latitude="23.714376" Longitude="90.433978"/>
+  <Data Name="Shyampur Kodomtoly Eid Gah" Address="R810" Latitude="23.681512" Longitude="90.438506"/>
+  <Data Name="Siddhirganj Central Mosque" Address="Shiddhirganj" Latitude="23.689372" Longitude="90.512964"/>
+  <Data Name="Siddique Bazar Jame Masjid" Address="Haji Osman Gani Rd, Dhaka, Bangladesh" Latitude="23.72068" Longitude="90.410986"/>
+  <Data Name="Signal Base Workshop masjid" Address="Shaheed Sharani, Dhaka 1206, Bangladesh" Latitude="23.820683" Longitude="90.400356"/>
+  <Data Name="Signal Jame Masjid" Address="Cantonment, Dhaka, Bangladesh" Latitude="23.819957" Longitude="90.399519"/>
+  <Data Name="Sobhanbag Jame Masjid" Address="Shaukrabad, Dhaka, Bangladesh" Latitude="23.75457" Longitude="90.376225"/>
+  <Data Name="Sobhanbag Officers Quater Jame Mosjid" Address="Dhaka 1215" Latitude="23.75472" Longitude="90.377879"/>
+  <Data Name="Sonatongor Masjid" Address="Hazaribag, Dhaka, Bangladesh " Latitude="23.739199" Longitude="90.366633"/>
+  <Data Name="Sontek Jame Masjid" Address="Masjid Rd, Dhaka 1236, Bangladesh " Latitude="23.705496" Longitude="90.445949"/>
+  <Data Name="Sorai Jame Masjid" Address=", ,, Dhaka, Bangladesh" Latitude="23.700813" Longitude="90.440678"/>
+  <Data Name="Sordar Bari Jame Masjid" Address="Manda Rd, Dhaka, Bangladesh " Latitude="23.73116" Longitude="90.442221"/>
+  <Data Name="South Badda Jam-e-Masjid" Address="Merul Badda, Dhaka, Bangladesh" Latitude="23.774381" Longitude="90.422415"/>
+  <Data Name="South Badda Jam-e-Masjid" Address="Merul Badda, Dhaka, Bangladesh " Latitude="23.774363" Longitude="90.422415"/>
+  <Data Name="South Kafrul Jame Masjid" Address="Ibrahimpur, Dhaka, Bangladesh " Latitude="23.785526" Longitude="90.384559"/>
+  <Data Name="South Kamalapur Jame Masjid" Address="Outer Circular Rd, Dhaka, Bangladesh" Latitude="23.726095" Longitude="90.425385"/>
+  <Data Name="South Banasree Central Mosque" Address="Purba Goran" Latitude="23.752511" Longitude="90.440503"/>
+  <Data Name="South Banasree Mosque-2" Address="West Nandipara" Latitude="23.756714" Longitude="90.444022"/>
+  <Data Name="South Banasree Mosque-2" Address="West Nandipara" Latitude="23.756743" Longitude="90.444054"/>
+  <Data Name="South Kafrul Central Jame Mosque" Address="Dhaka, Bangladesh " Latitude="23.787868" Longitude="90.38643"/>
+  <Data Name="South Shahjahanpur Jame Mosque" Address="Outer Circular Road" Latitude="23.738654" Longitude="90.421566"/>
+  <Data Name="Steemer Ghat Jame Masjid" Address="Sadarghat - Gabtoli Rd, Bangladesh" Latitude="23.709239" Longitude="90.403007"/>
+  <Data Name="Subedar Ghat Mosque" Address="Haji Osman Gani Road" Latitude="23.719428" Longitude="90.40865"/>
+  <Data Name="Sugondha Baitul Mamur Jamey Masjid" Address="Sadar Upozila Road, East Isdair, Bangladesh" Latitude="23.633455" Longitude="90.492901"/>
+  <Data Name="Sunibir Jame Masjid" Address="Munsurabad Housing" Latitude="23.772179" Longitude="90.345692"/>
+  <Data Name="Sunnoti Jame Masjid" Address="(This place has closed or relocated) Shahidbag, Dhaka, Bangladesh " Latitude="23.743073" Longitude="90.416378"/>
+  <Data Name="Suruj Khan Mosque" Address="Ahmed Nagar" Latitude="23.791117" Longitude="90.356678"/>
+  <Data Name="Sutrapur Thana Mosjid" Address="R M Dash Road" Latitude="23.702498" Longitude="90.417842"/>
+  <Data Name="T and T Colony Jame Masjid" Address="Motijheel, Dhaka, Bangladesh" Latitude="23.734863" Longitude="90.41808"/>
+  <Data Name="Taiyeba Mosque" Address="Section 11" Latitude="23.819761" Longitude="90.370401"/>
+  <Data Name="Taj Jame Masjid" Address="Mohammadpur, Dhaka, Bangladesh" Latitude="23.763892" Longitude="90.35952"/>
+  <Data Name="Taj Masjid" Address="Mohammadpur, Dhaka, Bangladesh" Latitude="23.763919" Longitude="90.35952"/>
+  <Data Name="Tali Company Masjid" Address="Harirampur,Darussalam,Dhaka, Dhaka 1216, Bangladesh " Latitude="23.788781" Longitude="90.342077"/>
+  <Data Name="Tallabag Jame Masjid" Address="Sher-E-Bangla Rd, Dhaka, Bangladesh" Latitude="23.740093" Longitude="90.367414"/>
+  <Data Name="Taltola Baitun Nur Jame Masjid" Address="Mosjid Rd, Dhaka 1230, Bangladesh" Latitude="23.853598" Longitude="90.424367"/>
+  <Data Name="Taltola Jame Masjid" Address="Begum Rokeya Avenue" Latitude="23.785099" Longitude="90.376634"/>
+  <Data Name="Taltola Kacha Bazar Jame Masjid" Address="Tal Tala, Bangladesh" Latitude="23.783423" Longitude="90.376324"/>
+  <Data Name="Taltola Government Quarter Central JamayMosque Complex" Address="Dhaka, Bangladesh" Latitude="23.781791" Longitude="90.376162"/>
+  <Data Name="Tamirul Millat Jame Masjid" Address="Pipe Rd, Dhaka, Bangladesh" Latitude="23.707554" Longitude="90.428579"/>
+  <Data Name="Taqwa Masjid" Address="Road No. 12A, Dhaka, Bangladesh" Latitude="23.750392" Longitude="90.374688"/>
+  <Data Name="Tara Mosque" Address="Armanitola" Latitude="23.715612" Longitude="90.401687"/>
+  <Data Name="Tejgaon Central Jame Masjid" Address="Kazi Nazrul Islam Ave, Dhaka 1215, Bangladesh" Latitude="23.763059" Longitude="90.388877"/>
+  <Data Name="Tejgaon College Jame Masjid" Address="Farmgate, Dhaka 1215, Bangladesh " Latitude="23.757725" Longitude="90.388721"/>
+  <Data Name="Tejgaon Railway Mosque" Address="Tejkunipara" Latitude="23.760607" Longitude="90.393951"/>
+  <Data Name="Tejgoan College Hostel Jame Masjid" Address="Shaukrabad, Dhaka, Bangladesh " Latitude="23.757664" Longitude="90.381732"/>
+  <Data Name="Tejkunipara Jaam E Masjid" Address="Bijoy Sarani - Tejgaon Link Rd, Dhaka 1215, Bangladesh" Latitude="23.763619" Longitude="90.392487"/>
+  <Data Name="Tenary Circle Masjid" Address="Sher-E-Bangla Rd, Dhaka, Bangladesh " Latitude="23.739179" Longitude="90.367451"/>
+  <Data Name="Tikatuli Jame Masjid" Address="Shiddhirganj, Bangladesh" Latitude="23.719526" Longitude="90.420422"/>
+  <Data Name="Tilpapara Mosque" Address="Tilpapara" Latitude="23.74599" Longitude="90.428315"/>
+  <Data Name="Titumir College Mosque" Address="Mohakhali" Latitude="23.782326" Longitude="90.40321"/>
+  <Data Name="Trans meter Mosque" Address="Dhaka 1230" Latitude="23.879834" Longitude="90.416256"/>
+  <Data Name="Uttar Kafrul Jame Masjid" Address="Ibrahimpur, Dhaka, Bangladesh " Latitude="23.792786" Longitude="90.381848"/>
+  <Data Name="Uttar Kutub Khali Jame Masjid" Address="Bashundhara City Parking Entrance, Dhaka, Bangladesh " Latitude="23.709128" Longitude="90.441038"/>
+  <Data Name="Uttar Badda Jam-e Moshjid" Address="Nama Para" Latitude="23.784049" Longitude="90.431104"/>
+  <Data Name="Uttar Badda Jam-e Moshjid" Address="Nama Para" Latitude="23.784049" Longitude="90.431104"/>
+  <Data Name="uttara 3 no sector masjid" Address="uttara" Latitude="23.864205" Longitude="90.393596"/>
+  <Data Name="Uttara Central Masjid" Address="Road No.8, Dhaka 1230, Bangladesh" Latitude="23.861575" Longitude="90.403006"/>
+  <Data Name="Uttara Central Masjid and Eidgah" Address="Sector 6, Dhaka 1230, Bangladesh" Latitude="23.869427" Longitude="90.400968"/>
+  <Data Name="Vandary Pol Baitul Jame Mosque" Address="Godenail" Latitude="23.666655" Longitude="90.514854"/>
+  <Data Name="West Dhanmondi Jam-e-Masjid" Address="West Dhanmondi &amp; Shangkar, Dhaka, Bangladesh " Latitude="23.750888" Longitude="90.366714"/>
+  <Data Name="West Rajabazar Masjid" Address="Shaukrabad, Dhaka, Bangladesh" Latitude="23.754963" Longitude="90.381479"/>
+  <Data Name="Zamidar Bari Jame Masjid" Address="Mugdapara, Dhaka, Bangladesh" Latitude="23.731669" Longitude="90.44055"/>
+  <Data Name="Zia Hall Masjid" Address="Dhaka University Campus, Dhaka, Bangladesh" Latitude="23.737942" Longitude="90.391237"/>
+  <Data Name="Zindabahar Jame Masjid" Address="Bangshal, Dhaka, Bangladesh" Latitude="23.713556" Longitude="90.406097"/>
+  <Data Name="Zinzira School Masjid" Address="Zinzira, Bangladesh" Latitude="23.707498" Longitude="90.394885"/>
+  <Data Name="Goran Sapra Masjid" Address="500, South Goran" Latitude="23.744011" Longitude="90.43684"/>
+  <Data Name="Dorjibari Koborsthan Masjid" Address="Mohakhali" Latitude="23.781113" Longitude="90.404691"/>
+  <Data Name="West Omarpur Masjid" Address="Bazar Road Shiddhirganj, Bangladesh" Latitude="23.687348" Longitude="90.518371"/>
+  <Data Name="East Omarpur Masjid" Address="Bazar Road Shiddhirganj, Bangladesh" Latitude="23.688095" Longitude="90.520646"/>
+  <Data Name="Baitul Mamur Jame Masjid" Address="Nandipara" Latitude="23.748367" Longitude="90.448131"/>
+  <Data Name="Bawnia Dhakshinpara Kirambag Baitun Nur Jame Masjid" Address="Bawnia Bazar,Bawnia Dhaka 1230" Latitude="23.843314" Longitude="90.387234"/>
+  <Data Name="Baitul Falah Jame Masjid" Address="Dhaka, Bangladesh" Latitude="23.762978" Longitude="90.4228"/>
+  <Data Name="Barar Masjid" Address="Jurain" Latitude="23.69452" Longitude="90.4393"/>
+  <Data Name="Railway Bazar Jame Masjid" Address="Tejkunipara" Latitude="23.762419" Longitude="90.393651"/>
+  <Data Name="Shurjo Villa Jame Masjid" Address="House:23, Ground Floor, Turag City" Latitude="23.801543" Longitude="90.345832"/>
+  <Data Name="Hira Jhil Baitun Nur Jame Masjid" Address="hirarajheel R/A road" Latitude="23.694736" Longitude="90.507621"/>
+</Content>

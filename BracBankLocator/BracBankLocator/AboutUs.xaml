@@ -1,0 +1,80 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="BracBankLocator.AboutUs"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <toolkit:TransitionService.NavigationInTransition>
+        <toolkit:NavigationInTransition>
+            <toolkit:NavigationInTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardIn"/>
+            </toolkit:NavigationInTransition.Backward>
+            <toolkit:NavigationInTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardIn"/>
+            </toolkit:NavigationInTransition.Forward>
+        </toolkit:NavigationInTransition>
+    </toolkit:TransitionService.NavigationInTransition>
+    <toolkit:TransitionService.NavigationOutTransition>
+        <toolkit:NavigationOutTransition>
+            <toolkit:NavigationOutTransition.Backward>
+                <toolkit:TurnstileTransition Mode="BackwardOut"/>
+            </toolkit:NavigationOutTransition.Backward>
+            <toolkit:NavigationOutTransition.Forward>
+                <toolkit:TurnstileTransition Mode="ForwardOut"/>
+            </toolkit:NavigationOutTransition.Forward>
+        </toolkit:NavigationOutTransition>
+    </toolkit:TransitionService.NavigationOutTransition>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="Brac Bank Locator" Foreground="RoyalBlue" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="about us" Foreground="RoyalBlue" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <Line  x:Name="line" X1="0" Y1="5" X2="456" Y2="5"  Stroke="RoyalBlue" StrokeThickness="4"></Line>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <ScrollViewer HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="587" Width="436">
+                <TextBlock TextWrapping="Wrap" Height="1000" Width="436" Foreground="RoyalBlue" FontSize="25">
+                	<Span>
+                		<Run Text="We are 'Bd Devs'. 'BD Devs' is the first company in Bangladesh which offers completely free Bangladesh related local apps for the mass people of Bangladesh and the Government. We are trying to contribute making a 'Digital Bangladesh', by developing difficulties into a simple mobile apps. So that people can save their valuable time and make a prosperous Bangladesh."/>
+                	</Span>
+                	<LineBreak/><LineBreak/>
+                	<Span>
+                		<Run Text="'Brac Bank Locator' is such an app that will help to find your nearest Brac Bank ATM Booth and Branch in whole Bangladesh. You don't have to waste your time to find ATM Booth or Branch. It will lead you to the nearest ATM Booth in the shortest way from your current location."/>
+                	</Span>
+                	<LineBreak/><LineBreak/>
+                	<Span>
+                		<Run Text="This Brac Bank ATM and Branch Database is completely made by us. We have tested every possible location, perhaps if you find any mistake, we really beg your pardon and please inform us to give you better service."/>
+                	</Span>
+                    <LineBreak/><LineBreak/>
+                	<Span>
+                		<Run Text="Copyright @ BD Devs 2014"/>
+                	</Span>
+                    <LineBreak/>
+                    <Span>
+                		<Run Text="support@bddevs.com"/>
+                	</Span>
+                </TextBlock>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

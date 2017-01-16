@@ -1,0 +1,63 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="VehicleTracker.Page1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True"
+    shell:SystemTray.BackgroundColor="#383838"
+    shell:SystemTray.ForegroundColor="White">
+
+    <shell:SystemTray.ProgressIndicator>
+        <shell:ProgressIndicator x:Name="indicator" IsIndeterminate="true" Text="Loading..." />
+    </shell:SystemTray.ProgressIndicator>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Assets/back2.png" Opacity="0.65"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="Vehicle Tracker" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="broadcast" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Traffic Jam" VerticalAlignment="Top" Height="63" Width="250" FontSize="{StaticResource PhoneFontSizeExtraLarge}"/>
+            <TextBlock HorizontalAlignment="Left" Margin="10,200,0,0" TextWrapping="Wrap" Text="Emergency" VerticalAlignment="Top" Height="63" Width="250" FontSize="{StaticResource PhoneFontSizeExtraLarge}"/>
+            <TextBlock HorizontalAlignment="Left" Margin="10,372,0,0" TextWrapping="Wrap" Text="Help" VerticalAlignment="Top" Height="63" Width="250" FontSize="{StaticResource PhoneFontSizeExtraLarge}"/>
+
+            <CheckBox x:Name="high" Content="High" HorizontalAlignment="Left" Margin="281,80,0,0" VerticalAlignment="Top"/>
+            <CheckBox x:Name="medium" Content="Meidum" HorizontalAlignment="Left" Margin="124,80,0,0" VerticalAlignment="Top"/>
+            <CheckBox x:Name="low" Content="Low" HorizontalAlignment="Left" Margin="10,80,0,0" VerticalAlignment="Top"/>
+
+            <CheckBox x:Name="emergency" Content="Ok" HorizontalAlignment="Left" Margin="349,201,0,0" VerticalAlignment="Top"/>
+            <CheckBox x:Name="help" Content="Ok" HorizontalAlignment="Left" Margin="349,372,0,0" VerticalAlignment="Top"/>
+            
+            <TextBox x:Name="em" HorizontalAlignment="Left" Height="72" Margin="10,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="436"/>
+            <TextBox x:Name="hp" HorizontalAlignment="Left" Height="72" Margin="10,444,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="436"/>
+        </Grid>
+    </Grid>
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar Mode="Minimized" Opacity="0.65"
+        StateChanged="OnApplicationBarStateChanged" IsMenuEnabled="True" IsVisible="True" >
+            <shell:ApplicationBarIconButton Click="Save_Click" IconUri="/Assets/AppBar/check.png" Text="Save" />
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

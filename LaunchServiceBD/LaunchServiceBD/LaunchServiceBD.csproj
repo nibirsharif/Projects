@@ -1,0 +1,1286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{09A7A4C0-BEC6-4AEA-8172-A0A743BEDE96}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LaunchServiceBD</RootNamespace>
+    <AssemblyName>LaunchServiceBD</AssemblyName>
+    <TargetFrameworkIdentifier>WindowsPhone</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>LaunchServiceBD.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>LaunchServiceBD.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|ARM' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\ARM\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|ARM' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\ARM\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="AboutUs.xaml.cs">
+      <DependentUpon>AboutUs.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Launch.cs" />
+    <Compile Include="LaunchList.xaml.cs">
+      <DependentUpon>LaunchList.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LocalizedStrings.cs" />
+    <Compile Include="MainMenu.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map0.xaml.cs">
+      <DependentUpon>Map0.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map1.xaml.cs">
+      <DependentUpon>Map1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map10.xaml.cs">
+      <DependentUpon>Map10.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map11.xaml.cs">
+      <DependentUpon>Map11.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map12.xaml.cs">
+      <DependentUpon>Map12.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map13.xaml.cs">
+      <DependentUpon>Map13.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map14.xaml.cs">
+      <DependentUpon>Map14.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map15.xaml.cs">
+      <DependentUpon>Map15.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map16.xaml.cs">
+      <DependentUpon>Map16.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map17.xaml.cs">
+      <DependentUpon>Map17.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map18.xaml.cs">
+      <DependentUpon>Map18.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map19.xaml.cs">
+      <DependentUpon>Map19.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map2.xaml.cs">
+      <DependentUpon>Map2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map20.xaml.cs">
+      <DependentUpon>Map20.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map21.xaml.cs">
+      <DependentUpon>Map21.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map22.xaml.cs">
+      <DependentUpon>Map22.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map23.xaml.cs">
+      <DependentUpon>Map23.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map24.xaml.cs">
+      <DependentUpon>Map24.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map25.xaml.cs">
+      <DependentUpon>Map25.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map26.xaml.cs">
+      <DependentUpon>Map26.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map27.xaml.cs">
+      <DependentUpon>Map27.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map28.xaml.cs">
+      <DependentUpon>Map28.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map29.xaml.cs">
+      <DependentUpon>Map29.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map3.xaml.cs">
+      <DependentUpon>Map3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map30.xaml.cs">
+      <DependentUpon>Map30.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map31.xaml.cs">
+      <DependentUpon>Map31.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map32.xaml.cs">
+      <DependentUpon>Map32.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map33.xaml.cs">
+      <DependentUpon>Map33.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map34.xaml.cs">
+      <DependentUpon>Map34.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map35.xaml.cs">
+      <DependentUpon>Map35.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map36.xaml.cs">
+      <DependentUpon>Map36.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map37.xaml.cs">
+      <DependentUpon>Map37.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map38.xaml.cs">
+      <DependentUpon>Map38.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map39.xaml.cs">
+      <DependentUpon>Map39.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map4.xaml.cs">
+      <DependentUpon>Map4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map40.xaml.cs">
+      <DependentUpon>Map40.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map41.xaml.cs">
+      <DependentUpon>Map41.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map42.xaml.cs">
+      <DependentUpon>Map42.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map43.xaml.cs">
+      <DependentUpon>Map43.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map44.xaml.cs">
+      <DependentUpon>Map44.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map45.xaml.cs">
+      <DependentUpon>Map45.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map46.xaml.cs">
+      <DependentUpon>Map46.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map47.xaml.cs">
+      <DependentUpon>Map47.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map48.xaml.cs">
+      <DependentUpon>Map48.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map49.xaml.cs">
+      <DependentUpon>Map49.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map5.xaml.cs">
+      <DependentUpon>Map5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map50.xaml.cs">
+      <DependentUpon>Map50.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map51.xaml.cs">
+      <DependentUpon>Map51.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map6.xaml.cs">
+      <DependentUpon>Map6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map7.xaml.cs">
+      <DependentUpon>Map7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map8.xaml.cs">
+      <DependentUpon>Map8.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Map9.xaml.cs">
+      <DependentUpon>Map9.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page1.xaml.cs">
+      <DependentUpon>Page1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page10.xaml.cs">
+      <DependentUpon>Page10.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page100.xaml.cs">
+      <DependentUpon>Page100.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page11.xaml.cs">
+      <DependentUpon>Page11.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page12.xaml.cs">
+      <DependentUpon>Page12.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page13.xaml.cs">
+      <DependentUpon>Page13.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page14.xaml.cs">
+      <DependentUpon>Page14.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page15.xaml.cs">
+      <DependentUpon>Page15.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page16.xaml.cs">
+      <DependentUpon>Page16.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page17.xaml.cs">
+      <DependentUpon>Page17.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page18.xaml.cs">
+      <DependentUpon>Page18.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page19.xaml.cs">
+      <DependentUpon>Page19.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page2.xaml.cs">
+      <DependentUpon>Page2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page20.xaml.cs">
+      <DependentUpon>Page20.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page21.xaml.cs">
+      <DependentUpon>Page21.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page22.xaml.cs">
+      <DependentUpon>Page22.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page23.xaml.cs">
+      <DependentUpon>Page23.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page24.xaml.cs">
+      <DependentUpon>Page24.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page25.xaml.cs">
+      <DependentUpon>Page25.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page26.xaml.cs">
+      <DependentUpon>Page26.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page27.xaml.cs">
+      <DependentUpon>Page27.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page28.xaml.cs">
+      <DependentUpon>Page28.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page29.xaml.cs">
+      <DependentUpon>Page29.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page3.xaml.cs">
+      <DependentUpon>Page3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page30.xaml.cs">
+      <DependentUpon>Page30.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page31.xaml.cs">
+      <DependentUpon>Page31.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page32.xaml.cs">
+      <DependentUpon>Page32.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page33.xaml.cs">
+      <DependentUpon>Page33.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page34.xaml.cs">
+      <DependentUpon>Page34.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page35.xaml.cs">
+      <DependentUpon>Page35.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page36.xaml.cs">
+      <DependentUpon>Page36.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page37.xaml.cs">
+      <DependentUpon>Page37.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page38.xaml.cs">
+      <DependentUpon>Page38.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page39.xaml.cs">
+      <DependentUpon>Page39.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page4.xaml.cs">
+      <DependentUpon>Page4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page40.xaml.cs">
+      <DependentUpon>Page40.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page41.xaml.cs">
+      <DependentUpon>Page41.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page42.xaml.cs">
+      <DependentUpon>Page42.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page43.xaml.cs">
+      <DependentUpon>Page43.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page44.xaml.cs">
+      <DependentUpon>Page44.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page45.xaml.cs">
+      <DependentUpon>Page45.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page46.xaml.cs">
+      <DependentUpon>Page46.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page47.xaml.cs">
+      <DependentUpon>Page47.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page48.xaml.cs">
+      <DependentUpon>Page48.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page49.xaml.cs">
+      <DependentUpon>Page49.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page5.xaml.cs">
+      <DependentUpon>Page5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page50.xaml.cs">
+      <DependentUpon>Page50.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page51.xaml.cs">
+      <DependentUpon>Page51.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page52.xaml.cs">
+      <DependentUpon>Page52.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page53.xaml.cs">
+      <DependentUpon>Page53.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page54.xaml.cs">
+      <DependentUpon>Page54.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page55.xaml.cs">
+      <DependentUpon>Page55.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page56.xaml.cs">
+      <DependentUpon>Page56.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page57.xaml.cs">
+      <DependentUpon>Page57.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page58.xaml.cs">
+      <DependentUpon>Page58.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page59.xaml.cs">
+      <DependentUpon>Page59.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page6.xaml.cs">
+      <DependentUpon>Page6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page60.xaml.cs">
+      <DependentUpon>Page60.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page61.xaml.cs">
+      <DependentUpon>Page61.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page62.xaml.cs">
+      <DependentUpon>Page62.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page63.xaml.cs">
+      <DependentUpon>Page63.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page64.xaml.cs">
+      <DependentUpon>Page64.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page65.xaml.cs">
+      <DependentUpon>Page65.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page66.xaml.cs">
+      <DependentUpon>Page66.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page67.xaml.cs">
+      <DependentUpon>Page67.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page68.xaml.cs">
+      <DependentUpon>Page68.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page69.xaml.cs">
+      <DependentUpon>Page69.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page7.xaml.cs">
+      <DependentUpon>Page7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page70.xaml.cs">
+      <DependentUpon>Page70.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page71.xaml.cs">
+      <DependentUpon>Page71.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page72.xaml.cs">
+      <DependentUpon>Page72.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page73.xaml.cs">
+      <DependentUpon>Page73.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page74.xaml.cs">
+      <DependentUpon>Page74.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page75.xaml.cs">
+      <DependentUpon>Page75.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page76.xaml.cs">
+      <DependentUpon>Page76.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page77.xaml.cs">
+      <DependentUpon>Page77.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page78.xaml.cs">
+      <DependentUpon>Page78.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page79.xaml.cs">
+      <DependentUpon>Page79.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page8.xaml.cs">
+      <DependentUpon>Page8.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page80.xaml.cs">
+      <DependentUpon>Page80.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page81.xaml.cs">
+      <DependentUpon>Page81.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page82.xaml.cs">
+      <DependentUpon>Page82.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page83.xaml.cs">
+      <DependentUpon>Page83.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page84.xaml.cs">
+      <DependentUpon>Page84.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page85.xaml.cs">
+      <DependentUpon>Page85.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page86.xaml.cs">
+      <DependentUpon>Page86.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page87.xaml.cs">
+      <DependentUpon>Page87.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page88.xaml.cs">
+      <DependentUpon>Page88.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page89.xaml.cs">
+      <DependentUpon>Page89.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page9.xaml.cs">
+      <DependentUpon>Page9.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page90.xaml.cs">
+      <DependentUpon>Page90.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page91.xaml.cs">
+      <DependentUpon>Page91.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page92.xaml.cs">
+      <DependentUpon>Page92.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page93.xaml.cs">
+      <DependentUpon>Page93.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page94.xaml.cs">
+      <DependentUpon>Page94.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page95.xaml.cs">
+      <DependentUpon>Page95.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page96.xaml.cs">
+      <DependentUpon>Page96.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page97.xaml.cs">
+      <DependentUpon>Page97.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page98.xaml.cs">
+      <DependentUpon>Page98.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page99.xaml.cs">
+      <DependentUpon>Page99.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\AppResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AppResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.xaml.cs">
+      <DependentUpon>SplashScreen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Thanksgiving.xaml.cs">
+      <DependentUpon>Thanksgiving.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="AboutUs.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LaunchList.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map0.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map10.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map11.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map12.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map13.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map14.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map15.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map16.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map17.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map18.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map19.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map20.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map21.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map22.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map23.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map24.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map25.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map26.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map27.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map28.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map29.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map30.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map31.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map32.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map33.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map34.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map35.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map36.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map37.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map38.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map39.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map40.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map41.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map42.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map43.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map44.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map45.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map46.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map47.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map48.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map49.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map50.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map51.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map6.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map7.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map8.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Map9.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page10.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page100.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page11.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page12.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page13.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page14.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page15.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page16.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page17.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page18.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page19.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page20.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page21.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page22.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page23.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page24.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page25.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page26.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page27.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page28.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page29.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page30.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page31.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page32.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page33.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page34.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page35.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page36.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page37.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page38.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page39.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page4.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page40.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page41.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page42.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page43.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page44.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page45.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page46.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page47.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page48.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page49.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page5.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page50.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page51.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page52.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page53.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page54.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page55.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page56.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page57.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page58.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page59.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page6.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page60.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page61.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page62.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page63.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page64.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page65.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page66.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page67.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page68.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page69.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page7.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page70.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page71.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page72.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page73.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page74.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page75.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page76.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page77.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page78.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page79.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page8.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page80.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page81.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page82.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page83.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page84.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page85.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page86.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page87.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page88.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page89.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page9.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page90.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page91.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page92.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page93.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page94.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page95.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page96.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page97.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page98.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page99.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SplashScreen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Thanksgiving.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="100.png" />
+    <Content Include="160.png" />
+    <Content Include="300.png" />
+    <Content Include="337.png" />
+    <Content Include="692.png" />
+    <Content Include="Assets\AlignmentGrid.png" />
+    <Content Include="Assets\ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\SplashScreen.jpg" />
+    <Content Include="Assets\Tiles\FlipCycleTileLarge.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileMedium.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileSmall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\IconicTileMediumLarge.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\IconicTileSmall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="README_FIRST.txt" />
+    <Content Include="Toolkit.Content\ApplicationBar.Add.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Cancel.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Check.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Delete.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Select.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\AppResources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="JeffWilcox.PhoneThemeManager">
+      <HintPath>..\packages\PhoneThemeManager.2.0\lib\windowsphone8\JeffWilcox.PhoneThemeManager.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Phone.Controls.Toolkit">
+      <HintPath>..\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="SidebarWP8">
+      <HintPath>..\packages\SidebarWP8.1.0.1\lib\windowsphone8\SidebarWP8.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls.Input, Version=2013.3.1016.3040, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.Primitives, Version=2013.3.1016.3040, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Core, Version=2013.3.1016.3040, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

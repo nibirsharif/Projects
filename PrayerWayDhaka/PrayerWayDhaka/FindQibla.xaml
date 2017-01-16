@@ -1,0 +1,57 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="PrayerWayDhaka.FindQibla"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Images/SingleBackground.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="prayer way dhaka" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="qibla compass" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" >
+            
+            <Ellipse StrokeThickness="2" x:Name="circle" Width="400" Height="400" 
+                  Margin="0,90,0,0">
+                <Ellipse.Fill>
+                    <ImageBrush Stretch="Fill"/>
+                </Ellipse.Fill>
+                <Ellipse.Stroke>
+                    <SolidColorBrush Color="{StaticResource PhoneAccentColor}" />
+                </Ellipse.Stroke>
+            </Ellipse>
+
+            <Line  x:Name="line" X1="240" Y1="350" X2="240" Y2="200"  Stroke="{StaticResource PhoneAccentBrush}" StrokeThickness="4"></Line>
+            
+            <TextBlock Height="45" HorizontalAlignment="Left" Margin="229,97,0,0" Name="textBlock1" Text="N" VerticalAlignment="Top" FontSize="36" />
+            <TextBlock Height="45" HorizontalAlignment="Left" Margin="229,550,0,0" Name="textBlock2" Text="S" VerticalAlignment="Top" FontSize="36" />
+            <TextBlock Height="45" HorizontalAlignment="Left" Margin="5,320,0,0" Name="textBlock3" Text="W" VerticalAlignment="Top" FontSize="36" />
+            <TextBlock Height="45" HorizontalAlignment="Left" Margin="445,320,0,0" Name="textBlock4" Text="E" VerticalAlignment="Top" FontSize="36" />
+            <TextBlock Height="70" Margin="0,20,30,0" Name="textBlock5" Text="W" VerticalAlignment="Top" FontSize="56" HorizontalAlignment="Right" Width="52" />
+            <TextBlock Height="32" HorizontalAlignment="Left" Margin="383,32,0,0" Name="textBlock6" Text="0" VerticalAlignment="Top" Width="31" FontSize="24" />
+            <TextBlock Height="62" Margin="284,20,103,0" Name="degreeText" Text="" VerticalAlignment="Top" FontSize="56" />
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

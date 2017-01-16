@@ -1,0 +1,74 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="MedicalDirectoryBD.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="/Assets/Aq.PNG"/>
+        </Grid.Background>
+        
+        <TextBlock  HorizontalAlignment="Left" Height="119" Margin="10,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="460" FontSize="40" Foreground="White" FontFamily="Segoe WP Black">
+        	<Run Text="     Medical Directory"/>
+        	<LineBreak/>
+        	<Run Text="           Bangladesh"/>
+        </TextBlock>
+        
+        <Button Content="Specialist Doctors" 
+                HorizontalAlignment="Left" 
+                Height="73" Margin="97,155,0,0" 
+                VerticalAlignment="Top" Width="296" 
+                Background="{StaticResource PhoneSemitransparentBrush}" 
+                Click="btnSpecialistDoctorsList" />
+        <Button Content="Hospital" 
+                HorizontalAlignment="Left" 
+                Height="71" Margin="97,228,0,0" 
+                VerticalAlignment="Top" 
+                Width="296" 
+                Background="{StaticResource PhoneSemitransparentBrush}" 
+                Click="btnHospitalsList"/>
+        <Button Content="Ambulance" 
+                HorizontalAlignment="Left" 
+                Height="71" Margin="97,299,0,0" 
+                VerticalAlignment="Top" 
+                Width="296" Background="{StaticResource PhoneSemitransparentBrush}" 
+                Click="btnAmbulanceService"/>
+        <Button Content="Nearest Hospitals" 
+                HorizontalAlignment="Left" 
+                Height="71" 
+                Margin="97,370,0,0" 
+                VerticalAlignment="Top" 
+                Width="296" Background="{StaticResource PhoneSemitransparentBrush}" 
+                Click="btnNearestHospitals" />
+        <Button Content="About" 
+                HorizontalAlignment="Left" 
+                Height="71" 
+                Margin="97,441,0,0" 
+                VerticalAlignment="Top" 
+                Width="296" 
+                Background="{StaticResource PhoneSemitransparentBrush}"
+                Click="btnAbout" />
+        
+        <Rectangle HorizontalAlignment="Left" 
+                   Height="88" Margin="0,680,0,0" 
+                   VerticalAlignment="Top" 
+                   Width="480"/>
+        <Image HorizontalAlignment="Left" 
+               Source="Assets/Logo.png" 
+               Margin="157,512,0,10" 
+               Width="313"/>
+        
+    </Grid>
+    
+</phone:PhoneApplicationPage>

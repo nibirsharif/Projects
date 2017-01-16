@@ -1,0 +1,151 @@
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\obj\Release\App.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\obj\Release\AboutUs.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\obj\Release\Disclaimer.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\obj\Release\Help.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\obj\Release\MainPage.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\obj\Release\PrivacyPolicy.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\obj\Release\SplashScreen.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\obj\Release\DhakaBankLocator.g.resources
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\obj\Release\DhakaBankLocator.Resources.AppResources.resources
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\obj\Release\DhakaBankLocator.csproj.GenerateResource.Cache
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\DhakaBankLocator.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\DhakaBankLocator.pdb
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\AppManifest.xaml
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\Dhaka Bank Locator.xap
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\obj\Release\DhakaBankLocator.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\obj\Release\DhakaBankLocator.pdb
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\obj\Release\XapCacheFile.xml
+C:\Users\Nibir\documents\visual studio 2012\Projects\DhakaBankLocator\DhakaBankLocator\obj\Release\DhakaBankLocator.csprojResolveAssemblyReference.cache
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\Assets\ApplicationIcon.png
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\Assets\Tiles\IconicTileSmall.png
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\DhakaBankLocator.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\DhakaBankLocator.pdb
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\AppManifest.xaml
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\Properties\WMAppManifest.xml
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\Dhaka Bank Locator.xap
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\obj\Release\DhakaBankLocator.csprojResolveAssemblyReference.cache
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\obj\Release\App.g.cs
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\obj\Release\AboutUs.g.cs
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\obj\Release\Disclaimer.g.cs
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\obj\Release\Help.g.cs
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\obj\Release\MainPage.g.cs
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\obj\Release\PrivacyPolicy.g.cs
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\obj\Release\SplashScreen.g.cs
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\obj\Release\DhakaBankLocator.g.resources
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\obj\Release\DhakaBankLocator.Resources.AppResources.resources
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\obj\Release\DhakaBankLocator.csproj.GenerateResource.Cache
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\obj\Release\DhakaBankLocator.dll
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\obj\Release\DhakaBankLocator.pdb
+Z:\Downloads\Projects 2\DhakaBankLocator\DhakaBankLocator\obj\Release\XapCacheFile.xml

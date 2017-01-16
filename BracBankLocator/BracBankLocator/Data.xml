@@ -1,0 +1,1183 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Content>
+  
+  <!--ATM-->
+  <Data Type="ATM Booth"
+		  Address="House : 15#Road : 10#Block : D#Area : Bashundhara : Dhaka"
+		  Latitude="23.813619"
+		  Longitude="90.428185"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Kuril ATM (off-site) Hakim Plaza, KA-216, Kuril Chowrasta, Badda Dhaka. Badda Dhaka"
+		  Latitude="23.798566"
+		  Longitude="90.426541"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Khilkhet Kazi Shopping Complex, Badda, Dhaka Badda Dhaka "
+		  Latitude="23.771889"
+		  Longitude="90.406504"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Lake City Concord, Kha-211/1, Khilkhet Namapara, Dhaka, Bangladesh "
+		  Latitude="23.833042"
+		  Longitude="90.435099"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Progati Sarani Kha-206/1, Merul Badda, Dhaka Badda Dhaka"
+		  Latitude="23.774178"
+		  Longitude="90.425648"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Road No. 15A, Dhaka, Bangladesh"
+		  Latitude="23.751056"
+		  Longitude="90.368605"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Agargaon Eye Hospital Lions Bhaban, Begum Rokeya Sarani, Agargaon, Dhaka-1207 Agargaon Dhaka"
+		  Latitude="23.779288"
+		  Longitude="90.379405"
+		  />
+  <Data Type="ATM Booth"
+		  Address="12, Gaznabi Road, College Gate Mohammadpur (Opposite to Sohrawardy Hospital) Dhaka"
+		  Latitude="23.768855"
+		  Longitude="90.368800"
+		  />
+  <Data Type="ATM Booth"
+		  Address="House - 13, Road - 3, Block - A Section - 11, Mirpur, Dhaka"
+		  Latitude="23.816536"
+		  Longitude="90.366227"
+		  />
+  <Data Type="ATM Booth"
+		  Address="House# 1/2 , Block-D, Road#15, Avenue 5, Dhaka, Bangladesh"
+		  Latitude="23.810382"
+		  Longitude="90.361120"
+		  />
+  <Data Type="ATM Booth"
+		  Address="26, Mirpur Road, dhanmondi, Dhaka"
+		  Latitude="23.740955"
+		  Longitude="90.382713"
+		  />
+  <Data Type="ATM Booth"
+		  Address="107,Motijheel C/A,Dhaka, Motijheel Road, Dhaka, Bangladesh"
+		  Latitude="23.729737"
+		  Longitude="90.415871"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Motijheel Graphics Building,9-G Motijheel C/A, Toyenbee Road, Dhaka, Bangladesh"
+		  Latitude="23.722289"
+		  Longitude="90.421387"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Opposite of KFC, Municipal Road,Wari,Dhaka, Bangladesh"
+		  Latitude="23.712322"
+		  Longitude="90.418509"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Nawab Eusuf Road, Dhaka, Bangladesh"
+		  Latitude="23.71434"
+		  Longitude="90.407819"
+		  />
+  <Data Type="ATM Booth"
+		  Address="3 Mirpur Road, Balaka Cineworld, Balaka Cinema Hall Building, New Market, Dhaka"
+		  Latitude="23.733490"
+		  Longitude="90.385142"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Khilgaon, Dhaka, Bangladesh"
+		  Latitude="23.750531"
+		  Longitude="90.429465"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Basabo Tampu Stand Road, Dhaka, Bangladesh"
+		  Latitude="23.740259"
+		  Longitude="90.433209"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Holding # 193, Block - B, Safwan Road, Bashundhara R/A"
+		  Latitude="23.825121"
+		  Longitude="90.443162"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Mirpur Road, Dhaka, Bangladesh"
+		  Latitude="23.816209"
+		  Longitude="90.366489"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Senpara Parbata, Dhaka, Bangladesh"
+		  Latitude="23.803105"
+		  Longitude="90.37012"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Begum Rokeya Avenue, Dhaka, Bangladesh"
+		  Latitude="23.791031"
+		  Longitude="90.375231"
+		  />
+  <Data Type="ATM Booth"
+		  Address="169 S. S. Nazrul Islam Sharani, Dhaka, Bangladesh"
+		  Latitude="23.733355"
+		  Longitude="90.410437"
+		  />
+  <Data Type="ATM Booth"
+		  Address="H # 202, Shohoid Syed Nazrul Islam Avenue (New), Old Bijoy Nagar, Dhaka-1000"
+		  Latitude="23.733207"
+		  Longitude="90.410009"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Kazi Nazrul Islam Avenue, Dhaka, Bangladesh"
+		  Latitude="23.760436"
+		  Longitude="90.389301"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Palmal group, Fantasy kingdom, Ashulia, Dhaka"
+		  Latitude="23.936911"
+		  Longitude="90.291158"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Airport Road, Dhaka, Bangladesh"
+		  Latitude="23.780846"
+		  Longitude="90.398373"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Road-8,Banani-2"
+		  Latitude="23.790763"
+		  Longitude="90.404042"
+		  />
+  <Data Type="ATM Booth"
+		  Address="10, Kemal Ataturk Avenue, Banani, Dhaka"
+		  Latitude="23.794064"
+		  Longitude="90.403062"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Mollik Tower, 3/1 Banglabazar, Sadar Ghat, Dhaka"
+		  Latitude="23.707042"
+		  Longitude="90.410873"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Plot # 22, Block # J, Pragati Sharani, Baridhara, Dhaka"
+		  Latitude="23.790746"
+		  Longitude="90.425056"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Muktijoddha Market, Ashkona, Dakhinkhan, Dhaka-1230"
+		  Latitude="23.851473"
+		  Longitude="90.411351"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Rifles Square Market, Dhanmondi, Dhaka"
+		  Latitude="23.746465"
+		  Longitude="90.376013"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Plaza AR Market, House No. 02, Road No 14 (New), Dhanmondi, Dhaka-1209"
+		  Latitude="23.754821"
+		  Longitude="90.376023"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Monipuripara, Dhaka, Bangladesh"
+		  Latitude="23.762222"
+		  Longitude="90.383547"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Kulutala, Dhaka, Bangladesh"
+		  Latitude="23.705934"
+		  Longitude="90.419572"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Bir Uttam AK Khandakar Road, Dhaka, Bangladesh"
+		  Latitude="23.780388"
+		  Longitude="90.406417"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Bir Uttam AK Khandakar Road, Dhaka, Bangladesh"
+		  Latitude="23.780388"
+		  Longitude="90.406417"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Tejgaon-Gulshan Link Rd, Dhaka, Bangladesh"
+		  Latitude="23.771162"
+		  Longitude="90.411649"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Tejgaon-Gulshan Link Rd, Dhaka, Bangladesh"
+		  Latitude="23.774333"
+		  Longitude="90.415866"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Niketan Housing Project, Dhaka, Bangladesh"
+		  Latitude="23.771887"
+		  Longitude="90.406512"
+		  />
+  <Data Type="ATM Booth"
+		  Address="24,Gulshan Circle-2, Gulshan, Dhaka"
+		  Latitude="23.794965"
+		  Longitude="90.413723"
+		  />
+  <Data Type="ATM Booth"
+		  Address="North Gulshan Avenue, Gulshan, Dhaka"
+		  Latitude="23.796724"
+		  Longitude="90.413524"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Shah-Jalal Airport,Dhaka"
+		  Latitude="23.848203"
+		  Longitude="90.405030"
+		  />
+  <Data Type="ATM Booth"
+		  Address="342,Dania Bissaw Road,Jatrabari,Dhaka., Dhaka - Chittagong Highway, Dhaka, Bangladesh"
+		  Latitude="23.703786"
+		  Longitude="90.445754"
+		  />
+  <Data Type="ATM Booth"
+		  Address="26/3 Jigatola, Dhanmondi, Dhaka"
+		  Latitude="23.737804"
+		  Longitude="90.371558"
+		  />
+  <Data Type="ATM Booth"
+		  Address="279/1, IBRAHIMPUR, KAFRUL, DHAKA."
+		  Latitude="23.794606"
+		  Longitude="90.384265"
+		  />
+  <Data Type="ATM Booth"
+		  Address="79/A, Kazi Allauddin Road, Dhaka"
+		  Latitude="23.719556"
+		  Longitude="90.406493"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Shamoli, Mirpur Road, Dhaka, Bangladesh"
+		  Latitude="23.775102"
+		  Longitude="90.365127"
+		  />
+  <Data Type="ATM Booth"
+		  Address="House No 132/4 , 1st Colony , Mazar Road,Mirpur , Dhaka"
+		  Latitude="23.786959"
+		  Longitude="90.347715"
+		  />
+  <Data Type="ATM Booth"
+		  Address="House # 1/1, Road - 6, Section - 7, Mirpur Dhaka"
+		  Latitude="23.816415"
+		  Longitude="90.363925"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Ring Road, Dhaka, Bangladesh"
+		  Latitude="23.772263"
+		  Longitude="90.360168"
+		  />
+  <Data Type="ATM Booth"
+		  Address="House #32/1, Sher ShahSuri Road , Block -D, Mohammadpur, Dhaka"
+		  Latitude="23.763936"
+		  Longitude="90.364632"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Mohammadpur BRTC Bus Stand"
+		  Latitude="23.757403"
+		  Longitude="90.361371"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Asadgate, Dhanmondi. Dhaka."
+		  Latitude="23.758825"
+		  Longitude="90.373395"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Keranigonj ,Dhaka"
+		  Latitude="23.705772"
+		  Longitude="90.400613"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Nahar Plaza,Shahbag,Dhaka"
+		  Latitude="23.743776"
+		  Longitude="90.39246"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Aziz super market, Dhaka."
+		  Latitude="23.738647"
+		  Longitude="90.39197"
+		  />
+  <Data Type="ATM Booth"
+		  Address="140, Shantinagar , Dhaka"
+		  Latitude="23.740333"
+		  Longitude="90.415585"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Asif Mason,77/1,Kakrail,Dhaka."
+		  Latitude="23.730254"
+		  Longitude="90.409262"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Outer Circular Road, Dhaka, Bangladesh"
+		  Latitude="23.743737"
+		  Longitude="90.41506"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Bakul Manshion, 42/1/kha, Segunbagicha, Dhaka	"
+		  Latitude="23.732759"
+		  Longitude="90.409788"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Beside Shukrabad Bus Stand."
+		  Latitude="23.751666"
+		  Longitude="90.378181"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Shahid Faroque Rd,Jatrabari"
+		  Latitude="23.709028"
+		  Longitude="90.431374"
+		  />
+  <Data Type="ATM Booth"
+		  Address="90/91,Nazimuddin Road,Lalbag Dhaka"
+		  Latitude="23.72246"
+		  Longitude="90.399788"
+		  />
+  <Data Type="ATM Booth"
+		  Address="58/Kha/1 west Razabazar, Tejgaon, Dhaka"
+		  Latitude="23.754853"
+		  Longitude="90.381528"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Green road,Kathalbagan Dhaka, Bangladesh"
+		  Latitude="23.748089"
+		  Longitude="90.386208"
+		  />
+  <Data Type="ATM Booth"
+		  Address="58/Kha/1 west Razabazar, Tejgaon, Dhaka"
+		  Latitude="23.754853"
+		  Longitude="90.381528"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Delta Medical College and Hospital Dar-Us-Salam Road, Dhaka 1216, Bangladesh"
+		  Latitude="23.78803"
+		  Longitude="90.353697"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Rabindro Shoroni, Azampur, Uttara Dhaka"
+		  Latitude="23.867649"
+		  Longitude="90.399284"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Plot No. 31, Garib-E-Newaz Avenue, Sector-13, Uttara, Dhaka"
+		  Latitude="23.869552"
+		  Longitude="90.393539"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Shah Kabir Mazar Road,Uttara-6"
+		  Latitude="23.867759"
+		  Longitude="90.40703"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Ground Floor, Plot # 37, Road # 7, Sector - 3, Uttara dhaka"
+		  Latitude="23.864399"
+		  Longitude="90.39555"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Shonargaon Jonopoth,Uttara"
+		  Latitude="23.874286"
+		  Longitude="90.383513"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Shop-19, 6 Folder Street, Bokultola, Wari, Dhaka."
+		  Latitude="23.717351"
+		  Longitude="90.417820"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Shop No.-2, 32 Hatkhola Road, Mouja-Wari, Khatian-736, Dhaka"
+		  Latitude="23.718814"
+		  Longitude="90.420409"
+		  />
+  <Data Type="ATM Booth"
+		  Address="House # 67/D , Road # 11, Block # E,Banani , Dhaka"
+		  Latitude="23.8046202"
+		  Longitude="90.40742219999993"
+		  />
+  <Data Type="ATM Booth"
+		  Address="House # 117/4, DIT Ext. Road, Fakirapul, Dhaka."
+		  Latitude="23.709921"
+		  Longitude="90.40714300000002"
+		  />
+  <Data Type="ATM Booth"
+		  Address="168, North Jatrabari, P.S.-Jatrabari Dhaka"
+		  Latitude="23.7054697"
+		  Longitude="90.43848170000001"
+		  />
+  <Data Type="ATM Booth"
+		  Address="67/3/B (GF), North Golapbag, Bishwaroad, Jatrabari, Dhaka"
+		  Latitude="23.709921"
+		  Longitude="90.40714300000002"
+		  />
+  <Data Type="ATM Booth"
+		  Address="342, DANIA BISSAW ROAD,JATRABARI, DHAKA"
+		  Latitude="23.709921"
+		  Longitude="90.407143"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Azimpur Matador Harbour, 102, Azimpur Road, Azimpur, Dhaka Azimpur Dhaka"
+		  Latitude="23.732739"
+		  Longitude="90.38473"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Baily Road ATM(off-site) Baily Road ATM Booth 1/5, Nawratan Color Shop-5, Property Arcade, New Baily Road, Dhaka Baily Road Dhaka"
+		  Latitude="23.741681"
+		  Longitude="90.408559"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Bonosree 2nd Ground Floor, Holding# B/4, Block-B, Main Road, Bonosree, Dhaka Bonosree Dhaka"
+		  Latitude="23.763847"
+		  Longitude="90.417329"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Elephant Road ATM(off-site) Sheltech Sierra, 236, New Elephant Road Elephant Road Dhaka"
+		  Latitude="23.732744"
+		  Longitude="90.384733"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Suvastu Aroma 370, Elephant Road Dhaka Elephant Road Dhaka"
+		  Latitude="23.738246"
+		  Longitude="90.376581"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Eskaton SHANAZ TOWER , 9, NEW ESKATON ROAD, P,S- RAMNA, MOUZA- BARA MOGHBAZAR, DHAKA - 1000. Eskaton Dhaka"
+		  Latitude="23.747655"
+		  Longitude="90.401612"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Farmgate (Off-site) 115/A, Old Airport Roar (Near Police Camp) Farmgate Dhaka"
+		  Latitude="23.760465"
+		  Longitude="90.389283"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Gulshan-2 24,Gulshan Circle-2, Gulshan, Dhaka Gulshan Dhaka"
+		  Latitude="23.796733"
+		  Longitude="90.413498"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Karnafully Garden City 1/29, Karnafully Garden City, 109, Kakrail, Ramna, Dhaka Kakrail Dhaka"
+		  Latitude="23.739818"
+		  Longitude="90.410238"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Katabon Shop # 56, Kataban, Dhaka University Market Katabon Dhaka"
+		  Latitude="23.740736"
+		  Longitude="90.389927"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Karwan Bazar, BTMC Ground Floor, BTMC Vaban (Opposite of Sonargaon Hotel), Karwanbazar, Dhaka Kawranbazar Dhaka"
+		  Latitude="23.750252"
+		  Longitude="90.393897"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Kawran Bazar (off-site) H # 31, Salda Overseas (Under Krishi Bank), Kazi Nazrul Islam Avenue Kawranbazar Dhaka"
+		  Latitude="23.753827"
+		  Longitude="90.392234"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Kallyanpur Ground Floor, Holding No. 8, South Kollanpur, PS- Mirpur, Dhaka Mirpur Dhaka"
+		  Latitude="23.788329"
+		  Longitude="90.353695"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Mirpur 1 Holding No. 1, Road No. 4, Block No. F, Section No. 1, Mirpur, Dhaka Mirpur Dhaka"
+		  Latitude="23.799175"
+		  Longitude="90.354518"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Mirpur Pallabi 9/11 Pallabi, Mirpur, Dhaka Mirpur Dhaka"
+		  Latitude="23.824295"
+		  Longitude="90.362278"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Mirpur-10(West) Mirpur 10 Circle, Plot # 35 , Block -Kha,Road # 01,Section-06, Mirpur 10, Dhaka Mirpur Dhaka"
+		  Latitude="23.806863"
+		  Longitude="90.372116"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Malibagh Moar 219, Outer Circular Road, Bara Maghbazar Moghbazar Dhaka"
+		  Latitude="23.749879"
+		  Longitude="90.406187"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Moghbazar 70 Outer Circular Road, Shohid Selina Parvin Sharoni, Dhaka Moghbazar Dhaka"
+		  Latitude="23.744183"
+		  Longitude="90.41516"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Moghbazar Branch ATM Arong Plaza, 211 Outer Circular Road, Moghbazar, Dhaka Moghbazar Dhaka"
+		  Latitude="23.740648"
+		  Longitude="90.419667"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Arambagh 10/3 Toyenbee Circular Road, Motijheel Commercial Area, Dhaka-1000 Motijheel Dhaka"
+		  Latitude="23.732398"
+		  Longitude="90.423442"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Kamlapur (off-site) 1/1, Khalil Bhaban, North Kamlapur, Motijheel, Dhaka Motijheel Dhaka"
+		  Latitude="23.719455"
+		  Longitude="90.429148"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Mughda 163, Atish Depankar Road, South Mughda, Dhaka Mugda Dhaka"
+		  Latitude="23.729176"
+		  Longitude="90.428742"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Bashundhara City ATM(off-site) Basundhara city Market(Groun Floor) L-1.B-1-A(Near Fixed Glass Cover , Opposite Of TITAN) Panthapath Dhaka"
+		  Latitude="23.751273"
+		  Longitude="90.390698"
+		  />
+  <Data Type="ATM Booth"
+		  Address="F. Rahman Market (1st Floor)#79 Sadar Road #Barisal"
+		  Latitude="22.701267"
+		  Longitude="90.370034"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Makimabad# Hazigonj# Chandpur"
+		  Latitude="23.251096"
+		  Longitude="90.854067"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Rank Toshiba Green line Electronics Holding -3660# Commercial area# Hobigong"
+		  Latitude="24.383748"
+		  Longitude="91.413445"
+		  />
+  <Data Type="ATM Booth"
+		  Address="RN Road (Keshobpur Stand)# Jessore 	"
+		  Latitude="23.160966"
+		  Longitude="89.222472"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Ground Floor, Dakkshin Cherpara, Holding # 223, Word # 7, Hospital Road"
+		  Latitude="23.938859"
+		  Longitude="90.61834"
+		  />
+  <Data Type="ATM Booth"
+		  Address="The Daily Prabaha Bhaban# KDA Block: 3# KDA Avenue# khulna"
+		  Latitude="22.81"
+		  Longitude="89.562066"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Hazi Ali Akbar Shopping Complex# Bus Stand (Main Road)# Raipur# Laxmipur"
+		  Latitude="23.034914"
+		  Longitude="90.767372"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Rana plaza#Savar"
+		  Latitude="23.846989"
+		  Longitude="90.257478"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Sayadpur Plaza# Sher-E-Bangla Road# PS-Sayadpur# District- Nilphamari"
+		  Latitude="25.782464"
+		  Longitude="88.896620"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Rupali Bhaban# Holding : 807# Mouja - Hajipur# Chowmuhoni# Begumgonj# Noakhali"
+		  Latitude="22.945751"
+		  Longitude="91.125175"
+		  />
+  <Data Type="ATM Booth"
+		  Address="177# Kumarpara# Ghoramara# Rajshahi"
+		  Latitude="22.945751"
+		  Longitude="91.125175"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Plot : 4325-4328# Mouja-Radha Bhallav# Station Road# Rangpur"
+		  Latitude="25.740092"
+		  Longitude="89.254341"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Plot C/18# Main ROAD# Block-26# Bogra Housing Estate# Bogra"
+		  Latitude="24.8699"
+		  Longitude="89.357641"
+		  />
+  <Data Type="ATM Booth"
+		  Address="682/615# Jhaotala# PS-Kotwali# Comilla	"
+		  Latitude="23.463574"
+		  Longitude="91.176626"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Comilla Cantonment Branch# Rupali Bank Limited# Police Station: Sadar# Comilla- 3501."
+		  Latitude="23.479022"
+		  Longitude="91.118915"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Ground floor# Seagull Hotels Ltd# at Hotel Motel Zone# Cox’s Bazar"
+		  Latitude="21.424666"
+		  Longitude="91.975951"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Hotel Albatross# Kalatoli Road# Cox's Bazar"
+		  Latitude="21.427431"
+		  Longitude="91.978384"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Shahjalal Upashahar Main Road, Sylhet 3100, Bangladesh"
+		  Latitude="24.886419"
+		  Longitude="91.882446"
+		  />
+  <Data Type="ATM Booth"
+		  Address="N2, Sylhet, Bangladesh"
+		  Latitude="24.894848"
+		  Longitude="91.879689"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Sylhet 3100 Bangladesh"
+		  Latitude="24.895427"
+		  Longitude="91.872002"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Mirjajangal Road, Sylhet 3100, Bangladesh"
+		  Latitude="24.894327"
+		  Longitude="91.863926"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Sylhet 3100, Bangladesh"
+		  Latitude="24.908085"
+		  Longitude="91.857993"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Nayasarak Road Sylhet 3100, Bangladesh"
+		  Latitude="24.897371"
+		  Longitude="91.873619"
+		  />
+  <Data Type="ATM Booth"
+		  Address="C and F Tower#1222 Sheikh Mujib Road (1st Floor)#Agrabad#Ctg."
+		  Latitude="22.324535"
+		  Longitude="91.812047"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Hosna Kalam Complex Plot # 3439 ,CDA Avenue East Nasirabad ,Chittagong 4000"
+		  Latitude="22.362660"
+		  Longitude="91.820783"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Bahaddarhat More# Riad Center# 4508/A# Arakan Road# Chandgaon# Chittagong.	"
+		  Latitude="22.358019"
+		  Longitude="91.837576"
+		  />
+  <Data Type="ATM Booth"
+		  Address="CTG ChawackBazar Branch ATM# Al Modina Tower# Olikha mosjid Road# Chawk Bazar.	"
+		  Latitude="22.358019"
+		  Longitude="91.837577"
+		  />
+  <Data Type="ATM Booth"
+		  Address=" BRAC TARK# 18 SS Khalid Road# Kazir Deori#Thana- Kotoali# Chittagong City Corporation# Chittagong."
+		  Latitude="22.347704"
+		  Longitude="91.826524"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Nahar Plaza# 323 Siraj-Ud-Daula Road# Dawanbazar# Kotwali# Chittagong	"
+		  Latitude="22.619619"
+		  Longitude="91.658348"
+		  />
+  <Data Type="ATM Booth"
+		  Address="H : 1# R : 1# Block L# Halishahar Housing Estate# Chittagong.	"
+		  Latitude="22.330675"
+		  Longitude="91.789371"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Shop No. 01# Islam Plaza# Kadamtali Circle#Kadamtali# Chittagong"
+		  Latitude="22.334913"
+		  Longitude="91.819787"
+		  />
+  <Data Type="ATM Booth"
+		  Address="18 SS Khalid Road# Kazir Dewri# Khulshi# Chittagong"
+		  Latitude="22.347798"
+		  Longitude="91.826329"
+		  />
+  <Data Type="ATM Booth"
+		  Address="4 Kolagaon# Union : Patiya# Ctg."
+		  Latitude="22.291548"
+		  Longitude="91.9814"
+		  />
+  <Data Type="ATM Booth"
+		  Address="36 Korbaniganj# Chittagong"
+		  Latitude="22.339689"
+		  Longitude="91.842636"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Nizaloy# Nasirabad Housing Society# Road No.4# House No.1# Nasirabad# Chittagong"
+		  Latitude="22.366076"
+		  Longitude="91.823851"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Holding No-1034#Moja Out para#Sub-rejister Office#Gazipur#Dhaka - Tangail Highway Bangladesh"
+		  Latitude="23.989652"
+		  Longitude="90.379605"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Joydebpur highway"
+		  Latitude="24.011312"
+		  Longitude="90.319024"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Ganakbari# Hasem Plaza#1st floor# DEPZ gate Nabinagar - Chandra Road# Baipayl# Bangladesh 	"
+		  Latitude="23.949851"
+		  Longitude="90.275064"
+		  />
+  <Data Type="ATM Booth"
+		  Address="House#142# Dhaka Mymensingh Road# Board Bazar# Dhaka."
+		  Latitude="23.947273"
+		  Longitude="90.38194"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Holding : 1034# Mouja - Outpara# Sub Registry Office# Gazipur	"
+		  Latitude="23.9239"
+		  Longitude="90.573888"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Holding-147(New), 113(OLD), B.B.Road Narayangonj."
+		  Latitude="23.619058"
+		  Longitude="90.501047"
+		  />
+  <Data Type="ATM Booth"
+		  Address="SONARGAON SHOPPING COMPLEX, MOUZA- HABIBPUR, SUB-REGISTRY OFFICE: BAYDER BAZAR, SONARGAON,"
+		  Latitude="23.649161"
+		  Longitude="90.624253"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Rangpur Rd, Bogra, Bangladesh"
+		  Latitude="24.853585"
+		  Longitude="89.372597"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Uposhohor Rd, Nishindara 5800, Bangladesh"
+		  Latitude="24.865568"
+		  Longitude="89.359487"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Gabtali - Shariakandi Rd, Bangladesh"
+		  Latitude="24.881434"
+		  Longitude="89.463546"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Gabtali - Shariakandi Rd, Bangladesh ‎"
+		  Latitude="24.882281"
+		  Longitude="89.552006"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Chowk Bazar Rd, Comilla 3500"
+		  Latitude="23.462744"
+		  Longitude="91.192402"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Alam Khan Ln, Narayanganj, Bangladesh"
+		  Latitude="23.619047"
+		  Longitude="90.500955"
+		  />
+  <Data Type="ATM Booth"
+		  Address="2/1 DIT Market,Bongobondhu Road,Narayanganj., Bangabandhu Sarak, Bangladesh"
+		  Latitude="23.614034"
+		  Longitude="90.501787"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Nasiruddin Sarker Tower, Dhaka - Mymensingh Hwy, Tongi 1700, Bangladesh ‎"
+		  Latitude="23.887559"
+		  Longitude="90.400791"
+		  />
+  <Data Type="ATM Booth"
+		  Address="N6, Rajshahi, Bangladesh ‎"
+		  Latitude="24.364001"
+		  Longitude="88.603512"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Amisha Para Dakkhin Bazar, Amisha Para, Bangladesh ‎"
+		  Latitude="23.003664"
+		  Longitude="91.039793"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Upper Jessore Rd, Khulna, Bangladesh ‎"
+		  Latitude="22.816239"
+		  Longitude="89.562412"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Khaja Chisti Yusuf Ali Ln, Khulna, Bangladesh ‎"
+		  Latitude="22.820969"
+		  Longitude="89.553095"
+		  />
+  <Data Type="ATM Booth"
+		  Address="KDA Ave, Khulna, Bangladesh ‎"
+		  Latitude="22.82038"
+		  Longitude="89.553111"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Thana Rd, Jhalokati, Bangladesh ‎"
+		  Latitude="22.645858"
+		  Longitude="90.198653"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Kazi Nazrul Islam Road, Bagerhat, Bangladesh "
+		  Latitude="22.659482"
+		  Longitude="89.79658"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Bhola, Bangladesh ‎"
+		  Latitude="22.683232"
+		  Longitude="90.645988"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Arong Center, 346, Dhaka 1208, Bangladesh ‎"
+		  Latitude="23.777108"
+		  Longitude="90.398608"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Mohammadia Housing Plot No. 13,10/1, Mohammadia Housing Main Road, Mohammadpur, Dhaka, Mohammadpur Dhaka"
+		  Latitude="23.769322"
+		  Longitude="90.356367"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Salimullah Road Ground floor, House # 4/30, Salimullah Road, Block-D, Mohammadpur, Dhaka-1207 Mohammadpur Dhaka"
+		  Latitude="23.760003"
+		  Longitude="90.363589"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Shukrabad Dhaka"
+		  Latitude="23.752884"
+		  Longitude="90.37748"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Narinda 14 / 1 Narinda Road, Sutrapur, Dhaka Sutrapur Dhaka"
+		  Latitude="23.71237"
+		  Longitude="90.418477"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Topkhana Road 28, Topkhana Road, Dhaka Topkhana Dhaka"
+		  Latitude="23.730249"
+		  Longitude="90.409259"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Uttara - 13 Plot No. 31, Garib-E-Newaz Avenue, Sector-13, Uttara, Dhaka Uttara Dhaka"
+		  Latitude="23.869547"
+		  Longitude="90.393533"
+		  />
+  <Data Type="ATM Booth"
+		  Address="Uttara, Dhaka Uttara Dhaka"
+		  Latitude="23.871863"
+		  Longitude="90.40092"
+		  />
+  <Data Type="ATM Booth"
+		  Address="172 Nawabpur Road, Dhaka"
+		  Latitude="23.72039"
+		  Longitude="90.41164"
+		  />
+
+  <!--Branch-->
+  <Data Type="Branch"
+		  Address="79, Sadar Road (1st Floor), F. Rahman Market, Barisal- 8200"
+		  Latitude="22.702118"
+		  Longitude="90.370251"
+		  />
+  <Data Type="Branch"
+		  Address="Mahbuba Market, Holding # 1331-1338, Sadar Road, Bhola."
+		  Latitude="22.702118"
+		  Longitude="90.370251"
+		  />
+  <Data Type="Branch"
+		  Address="Sheikh mansion, 368/405, Rangpur road, Borogola, Bogra"
+		  Latitude="24.853569"
+		  Longitude="89.372617"
+		  />
+  <Data Type="Branch"
+		  Address="CF Tower Progoti House, 1070 Seheikh Mujib Road, Agrabad, Chittagong"
+		  Latitude="22.326269"
+		  Longitude="91.812523"
+		  />
+  <Data Type="Branch"
+		  Address="Momtaz Tower ( 1st Floor), 4540, Arakan Road, Bahadderhat, Chandgaon,Chittagong."
+		  Latitude="22.368891"
+		  Longitude="91.844595"
+		  />
+  <Data Type="Branch"
+		  Address="Al Madina Tower, College Road Olikha Mosjid Road), Chawk Bazar, Chittagong."
+		  Latitude="22.355092"
+		  Longitude="91.83713"
+		  />
+  <Data Type="Branch"
+		  Address="1st Floor, Haji M Rahman Mansion, 184/A, Anayet Bazar, Chittagong"
+		  Latitude="22.33981"
+		  Longitude="91.827971"
+		  />
+  <Data Type="Branch"
+		  Address="02, Momin Road, Jamal Khan, Chittagong"
+		  Latitude="22.343336"
+		  Longitude="91.834818"
+		  />
+  <Data Type="Branch"
+		  Address="House # 1, Lane # 1, Road # 1, Block – L, Halishar Housing State, Chittagong"
+		  Latitude="22.330653"
+		  Longitude="91.789333"
+		  />
+  <Data Type="Branch"
+		  Address="BRAC TARC, 18, SS Khalid Road, Kazir Deori, Khulshi, Chittagong"
+		  Latitude="22.347712"
+		  Longitude="91.826391"
+		  />
+  <Data Type="Branch"
+		  Address="Ramna Trade Center, 36/7, CDA Avenue, Muradpur, Chittagong"
+		  Latitude="22.368129"
+		  Longitude="91.828781"
+		  />
+  <Data Type="Branch"
+		  Address="GEC Plot # 3439, Hosna Kalam Complex (Ist floor), Nasirabad, Chittagong"
+		  Latitude="22.362655"
+		  Longitude="91.82079"
+		  />
+  <Data Type="Branch"
+		  Address="An Nahar Complex, 1462, Burmise Market prodhan Sarak, Cox's bazar"
+		  Latitude="21.442155"
+		  Longitude="91.982433"
+		  />
+  <Data Type="Branch"
+		  Address="Plot # 01, Asad Gate, Mohammadpur, Dhaka"
+		  Latitude="23.759998"
+		  Longitude="90.363589"
+		  />
+  <Data Type="Branch"
+		  Address="10, Kemal Ataturk Avenue, Banani, Dhaka"
+		  Latitude="23.793967"
+		  Longitude="90.405335"
+		  />
+  <Data Type="Branch"
+		  Address="Holding # 193, Block # B, Safwan Road, Basundhara R/A, Dhaka- 1229"
+		  Latitude="23.813616"
+		  Longitude="90.428177"
+		  />
+  <Data Type="Branch"
+		  Address="Askona Community Center, 567/1, Askona, Dakkhin Khan, Dhaka-1230"
+		  Latitude="23.851385"
+		  Longitude="90.417329"
+		  />
+  <Data Type="Branch"
+		  Address="Green Akshay Plaza, 146/G (old), 59 (new), Satmasjid road Dhaka"
+		  Latitude="23.749363"
+		  Longitude="90.36942"
+		  />
+  <Data Type="Branch"
+		  Address="334, Elephant Road, Ferdausi Plaza, (1st floor), Opposite of Eastern Mollika, Dhaka-1205"
+		  Latitude="23.736776"
+		  Longitude="90.386678"
+		  />
+  <Data Type="Branch"
+		  Address="23 New Eskaton Road, Ramna, Dhaka-1000"
+		  Latitude="23.747579"
+		  Longitude="90.400024"
+		  />
+  <Data Type="Branch"
+		  Address="House # 50 (GF), Road # 03, Gulshan 1, Dhaka-1212"
+		  Latitude="23.774327"
+		  Longitude="90.415865"
+		  />
+  <Data Type="Branch"
+		  Address="Holding # 166 NE (k), Gulshan Avenue-2, Dhaka-1212"
+		  Latitude="23.796728"
+		  Longitude="90.41351"
+		  />
+  <Data Type="Branch"
+		  Address="342, Donia Bisshaw Road, Jatrabari, Dhaka"
+		  Latitude="23.70429"
+		  Longitude="90.446298"
+		  />
+  <Data Type="Branch"
+		  Address="Haji Mollah Mansion (1st Floor), East Aganoger Mosque Road, Kerinegonj, Dhaka-1310"
+		  Latitude="23.705798"
+		  Longitude="90.400654"
+		  />
+  <Data Type="Branch"
+		  Address="Mona Trade City (1st Floor), Dakpara, Zinjira High Way, Keraniganj, Dhaka-1310"
+		  Latitude="23.702227"
+		  Longitude="90.405681"
+		  />
+  <Data Type="Branch"
+		  Address="Plot # 03, Road # 03, Block # A, Section # 11, Mirpur, Dhaka"
+		  Latitude="23.816536"
+		  Longitude="90.36622"
+		  />
+  <Data Type="Branch"
+		  Address="Holding No. 129, Ward No. 14, Senpara Parbata, Mirpur, Dhaka."
+		  Latitude="23.803104"
+		  Longitude="90.370123"
+		  />
+  <Data Type="Branch"
+		  Address="Arong Plaza, 211, Moghbazar, Dhaka"
+		  Latitude="23.749282"
+		  Longitude="90.407191"
+		  />
+  <Data Type="Branch"
+		  Address="58, Motijheel C/A, Dhaka-1000"
+		  Latitude="23.72938"
+		  Longitude="90.416531"
+		  />
+  <Data Type="Branch"
+		  Address="107, Motijheel C/A, Dhaka-1000"
+		  Latitude="23.726389"
+		  Longitude="90.420119"
+		  />
+  <Data Type="Branch"
+		  Address="Plot: 12, Block: C, Main Road, Word: 22, P.O : Rampura, Dhaka"
+		  Latitude="23.764378"
+		  Longitude="90.429558"
+		  />
+  <Data Type="Branch"
+		  Address="khan tower 359. DIT Road, East Rampura, Dhaka-1219"
+		  Latitude="23.762257"
+		  Longitude="90.420082"
+		  />
+  <Data Type="Branch"
+		  Address="Hashem Plaza, EPZ Gate, Gonak Bari, Savar, Dhaka"
+		  Latitude="23.949869"
+		  Longitude="90.275049"
+		  />
+  <Data Type="Branch"
+		  Address="A/44, Amin Tower, Bazar Road, Savar , Dhaka"
+		  Latitude="23.846651"
+		  Longitude="90.25725"
+		  />
+  <Data Type="Branch"
+		  Address="19-20, Adarsho Chayaneer, Ring road, Shymoli, Dhaka-1207"
+		  Latitude="23.77226"
+		  Longitude="90.360169"
+		  />
+  <Data Type="Branch"
+		  Address="Shaan Tower, Holiding # 24/1, Chamellybug, Shantinagor Chourasta, Word- 36, Dhaka-1217"
+		  Latitude="23.741637"
+		  Longitude="90.412065"
+		  />
+  <Data Type="Branch"
+		  Address="Majid Bahaban, Plot # 115, 10, Shahid Latif Road, Dakhinkhan, Uttara, Dhaka"
+		  Latitude="23.860668"
+		  Longitude="90.426439"
+		  />
+  <Data Type="Branch"
+		  Address="House # 01, Road # 15, Sector # 03, Uttara, Dhaka-1230"
+		  Latitude="23.864411"
+		  Longitude="90.39554"
+		  />
+  <Data Type="Branch"
+		  Address="Main Road# West Bazar# Islam and Sons Building (1st Floor)# Sonagazi# Feni"
+		  Latitude="22.841099"
+		  Longitude="91.367362"
+		  />
+  <Data Type="Branch"
+		  Address="Holding : 142# Kalameshwar# Dhaka-Mymensing Road# Board Bazar# Gazipur-1704"
+		  Latitude="23.947273"
+		  Longitude="90.382026"
+		  />
+  <Data Type="Branch"
+		  Address="Rahmat Tower# Holding : 1034# Outpara# Gazipur"
+		  Latitude="23.989652"
+		  Longitude="90.379602"
+		  />
+  <Data Type="Branch"
+		  Address="Nasiruddin Sarker Tower: 2# Mymensingh road# Tongi# Gazipur-1700"
+		  Latitude="23.887491"
+		  Longitude="90.400963"
+		  />
+  <Data Type="Branch"
+		  Address="Puran Munsefi Road# Habigonj"
+		  Latitude="24.383651"
+		  Longitude="91.415922"
+		  />
+  <Data Type="Branch"
+		  Address="Holding : 79/3# Shantipara# Khaleque Market# Hospital Road#Nabigonj# Habigonj"
+		  Latitude="24.425309"
+		  Longitude="91.439077"
+		  />
+  <Data Type="Branch"
+		  Address="Medical Road# Beauty Plaza# Jamalpur-2000"
+		  Latitude="24.925859"
+		  Longitude="89.948482"
+		  />
+  <Data Type="Branch"
+		  Address="1 Hatkhola (M.K) Road# Jessore-7400"
+		  Latitude="23.165268"
+		  Longitude="89.213085"
+		  />
+  <Data Type="Branch"
+		  Address="Rahim Tower# Station Bazar# Jessore Khulna Road# Noapara# Jessore"
+		  Latitude="22.878817"
+		  Longitude="88.761522"
+		  />
+  <Data Type="Branch"
+		  Address="A.Hossain Plaza# 4# Sir Iqbal Road# Khulna."
+		  Latitude="22.816224"
+		  Longitude="89.562416"
+		  />
+  <Data Type="Branch"
+		  Address="The Daily Probaho Bhaban# KDA Plot No : 03# KDA Avenue# Khulna"
+		  Latitude="22.820417"
+		  Longitude="89.553195"
+		  />
+  <Data Type="Branch"
+		  Address="Jahanara Mansion# Bhairab# Kishoregonj"
+		  Latitude="24.046675"
+		  Longitude="90.98636"
+		  />
+  <Data Type="Branch"
+		  Address="Haji Ali Akbar Shopping Complex# Holding: 384# Raipur# Laxmipur"
+		  Latitude="23.036602"
+		  Longitude="90.768096"
+		  />
+  <Data Type="Branch"
+		  Address="S Kamruzzaman Sharani Road, Dhaka, Bangladesh"
+		  Latitude="23.740783"
+		  Longitude="90.389948"
+		  />
+  <Data Type="Branch"
+		  Address="House - 13, Road - 3, Block - A Section - 11, Mirpur, Dhaka"
+		  Latitude="23.816536"
+		  Longitude="90.366227"
+		  />
+  <Data Type="Branch"
+		  Address="Nawab Eusuf Road, Dhaka, Bangladesh"
+		  Latitude="23.71434"
+		  Longitude="90.407819"
+		  />
+  <Data Type="Branch"
+		  Address="169 S. S. Nazrul Islam Sharani, Dhaka, Bangladesh"
+		  Latitude="23.733355"
+		  Longitude="90.410437"
+		  />
+  <Data Type="Branch"
+		  Address="Bir Uttam AK Khandakar Road, Dhaka, Bangladesh"
+		  Latitude="23.780269"
+		  Longitude="90.407174"
+		  />
+  <Data Type="Branch"
+		  Address="Dhaka - Mawa Highway, Dhaka, Bangladesh"
+		  Latitude="23.703787"
+		  Longitude="90.434962"
+		  />
+  <Data Type="Branch"
+		  Address="Sahid Baki Road,Khilgaon,Dhaka, Bangladesh "
+		  Latitude="23.751685"
+		  Longitude="90.422634"
+		  />
+  <Data Type="Branch"
+		  Address="Rupali Bhaban, Holding # 807, Mouja - Hajipur, Chowmuhoni, Begumgonj, Noakhali"
+		  Latitude="22.945751"
+		  Longitude="91.125175"
+		  />
+  <Data Type="Branch"
+		  Address="Rupali Branch Ltd. Shabgramhat Br. Noudapara,Noongola,Nishindara,Bogra Sadar,Bogra"
+		  Latitude="24.896551"
+		  Longitude="89.358796"
+		  />
+  <Data Type="Branch"
+		  Address="Sheikh mansion, 368/405, Rangpur road, Borogola, Bogra	"
+		  Latitude="24.853569"
+		  Longitude="89.372617"
+		  />
+  <Data Type="Branch"
+		  Address="Rupali Sadan, P.S and P.O, Dist-Cox's Bazar"
+		  Latitude="21.442155"
+		  Longitude="91.982433"
+		  />
+  <Data Type="Branch"
+		  Address="Roynagar Rajbari Road, Sylhet 3100, Bangladesh"
+		  Latitude="24.908087"
+		  Longitude="91.857877"
+		  />
+  <Data Type="Branch"
+		  Address="Hazrat Shahjalal Road Sylhet 3100, Bangladesh"
+		  Latitude="24.900205"
+		  Longitude="91.869207"
+		  />
+</Content>

@@ -1,0 +1,167 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="LaunchServiceBD.Thanksgiving"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True"
+    
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    xmlns:sidebar="clr-namespace:SidebarWP8;assembly=SidebarWP8"
+    
+    xmlns:telerikInput="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Input"
+    xmlns:telerikPrimitives="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Primitives"
+    xmlns:telerikCore="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Core"
+    
+    xmlns:myTilt="clr-namespace:LaunchServiceBD">
+
+    <phone:PhoneApplicationPage.Resources>
+        <Style TargetType="Border" x:Key="MenuHeaderBorderStyle">
+            <Setter Property="Background" Value="Green" />
+            <Setter Property="HorizontalAlignment" Value="Stretch" />
+            <Setter Property="VerticalAlignment" Value="Top" />
+        </Style>
+
+        <Style TargetType="Grid" x:Key="MenuItemGridStyle">
+            <Setter Property="Margin" Value="0,8,0,8" />
+            <Setter Property="Height" Value="48" />
+            <Setter Property="HorizontalAlignment" Value="Stretch" />
+            <Setter Property="toolkit:TiltEffect.IsTiltEnabled" Value="True" />
+        </Style>
+
+        <Style TargetType="TextBlock" x:Key="MenuHeaderTextStyle">
+            <Setter Property="Padding" Value="24" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontFamily" Value="{StaticResource PhoneFontFamilySemiBold}" />
+            <Setter Property="FontSize" Value="{StaticResource PhoneFontSizeMedium}" />
+        </Style>
+
+        <Style TargetType="TextBlock" x:Key="MenuItemTextStyle">
+            <Setter Property="Padding" Value="10" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="FontFamily" Value="{StaticResource PhoneFontFamilySemiBold}" />
+            <Setter Property="FontSize" Value="{StaticResource PhoneFontSizeMedium}" />
+        </Style>
+
+        <!-- The group header template, for groups in the main list -->
+        <DataTemplate x:Key="groupHeaderTemplate">
+            <Grid Style="{StaticResource MenuItemGridStyle}">
+                <Grid.Background>
+                    <LinearGradientBrush StartPoint="1,0" EndPoint="0.89,1">
+                        <GradientStop Color="Transparent" Offset="0.13"/>
+                        <GradientStop Color="Green" Offset="0.13"/>
+                    </LinearGradientBrush>
+                </Grid.Background>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2"/>
+                    <ColumnDefinition Width="48"/>
+                    <ColumnDefinition Width="2"/>
+                    <ColumnDefinition Width="48"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="{Binding Name}" Style="{StaticResource MenuItemTextStyle}" />
+            </Grid>
+        </DataTemplate>
+
+        <Style x:Key="TitleBorder" TargetType="Border">
+            <Setter Property="CornerRadius" Value="3"/>
+            <Setter Property="BorderThickness" Value="3"/>
+            <Setter Property="BorderBrush" Value="Green"></Setter>
+            <Setter Property="Grid.Column" Value="0"/>
+        </Style>
+    </phone:PhoneApplicationPage.Resources>
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <sidebar:SidebarControl x:Name="sidebarControl"
+                                IsOpen="False"
+                                HeaderText="কৃতজ্ঞতায়"
+                                HeaderBackground="Green"
+                                HeaderForeground="White"
+                                SidebarBackground="{StaticResource PhoneChromeBrush}">
+
+            <sidebar:SidebarControl.SidebarContent>
+                <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Width="380">
+                    <Border Style="{StaticResource MenuHeaderBorderStyle}" >
+                        <TextBlock Style="{StaticResource MenuHeaderTextStyle}">মেনু</TextBlock>
+                    </Border>
+
+                    <Grid VerticalAlignment="Top" HorizontalAlignment="Stretch"
+                          Margin="12">
+                        <phone:LongListSelector Margin="0,80,0,0" x:Name="MenuListGropus" Background="Transparent"            
+					        Tap="OnMenuTap"
+                            ItemTemplate="{StaticResource groupHeaderTemplate}"
+                            LayoutMode="List"
+                            IsGroupingEnabled="True"
+                            HideEmptyGroups ="True">
+                        </phone:LongListSelector>
+                    </Grid>
+
+                </Grid>
+            </sidebar:SidebarControl.SidebarContent>
+
+            <Grid VerticalAlignment="Top" HorizontalAlignment="Stretch"
+                  Margin="12" Style="{StaticResource TransitionPageStyle}">
+                <Border Style="{StaticResource TitleBorder}">
+                    <ScrollViewer HorizontalAlignment="Left" Margin="10,10,10,10" VerticalAlignment="Top">
+                        <TextBlock TextWrapping="Wrap" Height="768" Width="436" Foreground="Green" FontSize="25">
+                		<Span>
+                			<Run Text="সব তথ্য নেওয়া হয়েছে "/>
+                		</Span>
+                		<Span>
+                			<Run Text="&quot;অনলাইন"/>
+                		</Span>
+                		<Span>
+                			<Run Text=" "/>
+                		</Span>
+                		<Span>
+                			<Run Text="ঢাকা"/>
+                		</Span>
+                		<Span>
+                			<Run Text=" "/>
+                		</Span>
+                		<Span>
+                			<Run Text="গাইড&quot;"/>
+                		</Span>
+                		<Span>
+                			<Run Text=" ওয়েব সাইট থেকে। সব ধরনের সঠিক তথ্য প্রদানের জন্য তাদের জানাই আন্তরিক ধন্যবাদ।"/>
+                		</Span>
+                		<LineBreak/>
+                		<Span>
+                			<Run/>
+                		</Span>
+                		<LineBreak/>
+                		<Span>
+                			<Run Text="এই ওয়েব সাইটটির সব তথ্য প্রতিনিয়ত আপডেট করা হয়,  সর্বশেষ আপডেট ভার্সন থেকেই তথ্য নেওয়া হয়েছে। বিস্তারিত জানতে ঘুরে আসুন,"/>
+                		</Span>
+                		<LineBreak/>
+                		<Span>
+                			<Run/>
+                		</Span>
+                		<LineBreak/>
+                		<Span>
+                			<Run Text="www.online-dhaka.com"/>
+                		</Span>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Border>
+            </Grid>
+        </sidebar:SidebarControl>
+
+        <!--Uncomment to see an alignment grid to help ensure your controls are
+            aligned on common boundaries.  The image has a top margin of -32px to
+            account for the System Tray. Set this to 0 (or remove the margin altogether)
+            if the System Tray is hidden.
+
+            Before shipping remove this XAML and the image itself.-->
+        <!--<Image Source="/Assets/AlignmentGrid.png" VerticalAlignment="Top" Height="800" Width="480" Margin="0,-32,0,0" Grid.Row="0" Grid.RowSpan="2" IsHitTestVisible="False" />-->
+    </Grid>
+
+</phone:PhoneApplicationPage>

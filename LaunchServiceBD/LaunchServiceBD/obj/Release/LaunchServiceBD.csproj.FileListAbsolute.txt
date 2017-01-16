@@ -1,0 +1,764 @@
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\App.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchList.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\MainPage.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map1.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map10.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map11.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map12.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map13.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map14.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map15.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map16.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map17.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map18.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map19.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map2.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map20.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map21.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map22.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map23.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map24.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map25.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map26.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map27.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map28.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map29.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map3.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map30.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map31.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map32.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map33.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map34.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map35.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map36.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map37.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map38.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map39.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map4.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map40.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map41.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map42.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map43.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map44.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map45.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map46.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map47.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map48.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map49.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map5.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map50.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map51.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map6.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map7.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map8.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map9.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page1.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page10.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page100.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page11.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page12.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page13.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page14.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page15.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page16.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page17.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page18.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page19.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page2.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page20.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page21.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page22.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page23.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page24.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page25.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page26.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page27.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page28.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page29.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page3.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page30.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page31.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page32.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page33.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page34.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page35.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page36.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page37.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page38.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page39.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page4.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page40.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page41.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page42.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page43.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page44.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page45.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page46.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page47.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page48.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page49.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page5.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page50.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page51.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page52.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page53.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page54.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page55.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page56.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page57.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page58.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page59.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page6.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page60.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page61.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page62.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page63.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page64.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page65.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page66.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page67.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page68.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page69.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page7.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page70.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page71.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page72.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page73.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page74.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page75.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page76.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page77.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page78.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page79.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page8.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page80.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page81.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page82.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page83.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page84.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page85.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page86.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page87.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page88.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page89.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page9.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page90.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page91.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page92.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page93.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page94.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page95.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page96.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page97.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page98.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page99.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.g.resources
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.Resources.AppResources.resources
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.csproj.GenerateResource.Cache
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\LaunchServiceBD.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\LaunchServiceBD.pdb
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\AppManifest.xaml
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\LaunchServiceBD_Release_AnyCPU.xap
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\JeffWilcox.PhoneThemeManager.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\SidebarWP8.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Input.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Primitives.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Core.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\JeffWilcox.PhoneThemeManager.pdb
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\SidebarWP8.pdb
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Input.pdb
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Input.xml
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Primitives.xml
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Core.pdb
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Core.xml
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\de-DE\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fr-FR\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\it-IT\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.csprojResolveAssemblyReference.cache
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.pdb
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\XapCacheFile.xml
+C:\Users\Nibir\documents\visual studio 2012\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map0.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\LaunchServiceBD.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\LaunchServiceBD.pdb
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\AppManifest.xaml
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\JeffWilcox.PhoneThemeManager.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\SidebarWP8.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Input.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Primitives.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Core.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\System.Windows.Interactivity.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\JeffWilcox.PhoneThemeManager.pdb
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\SidebarWP8.pdb
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Input.pdb
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Input.xml
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Primitives.xml
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Core.pdb
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Core.xml
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\de-DE\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fr-FR\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\it-IT\Telerik.Windows.Controls.Input.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.csprojResolveAssemblyReference.cache
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\App.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchList.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\MainPage.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map0.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map1.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map10.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map11.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map12.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map13.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map14.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map15.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map16.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map17.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map18.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map19.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map2.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map20.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map21.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map22.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map23.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map24.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map25.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map26.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map27.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map28.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map29.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map3.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map30.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map31.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map32.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map33.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map34.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map35.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map36.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map37.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map38.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map39.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map4.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map40.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map41.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map42.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map43.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map44.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map45.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map46.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map47.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map48.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map49.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map5.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map50.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map51.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map6.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map7.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map8.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Map9.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page1.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page10.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page100.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page11.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page12.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page13.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page14.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page15.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page16.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page17.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page18.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page19.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page2.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page20.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page21.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page22.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page23.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page24.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page25.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page26.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page27.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page28.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page29.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page3.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page30.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page31.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page32.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page33.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page34.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page35.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page36.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page37.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page38.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page39.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page4.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page40.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page41.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page42.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page43.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page44.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page45.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page46.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page47.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page48.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page49.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page5.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page50.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page51.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page52.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page53.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page54.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page55.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page56.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page57.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page58.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page59.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page6.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page60.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page61.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page62.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page63.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page64.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page65.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page66.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page67.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page68.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page69.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page7.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page70.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page71.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page72.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page73.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page74.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page75.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page76.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page77.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page78.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page79.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page8.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page80.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page81.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page82.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page83.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page84.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page85.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page86.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page87.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page88.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page89.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page9.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page90.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page91.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page92.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page93.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page94.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page95.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page96.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page97.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page98.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Page99.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.g.resources
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.Resources.AppResources.resources
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.csproj.GenerateResource.Cache
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.dll
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.pdb
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\XapCacheFile.xml
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\AboutUs.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\SplashScreen.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\obj\Release\Thanksgiving.g.cs
+C:\Users\Nibir\Documents\Visual Studio 2013\Projects\LaunchServiceBD\LaunchServiceBD\Bin\Release\LaunchServiceBD.xap
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\ApplicationIcon.png
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\Assets\Tiles\IconicTileSmall.png
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\LaunchServiceBD.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\LaunchServiceBD.pdb
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\AppManifest.xaml
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\Properties\WMAppManifest.xml
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\LaunchServiceBD.xap
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\JeffWilcox.PhoneThemeManager.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\SidebarWP8.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\System.Windows.Interactivity.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\JeffWilcox.PhoneThemeManager.pdb
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\SidebarWP8.pdb
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Input.pdb
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Input.xml
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Primitives.pdb
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Controls.Primitives.xml
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Core.pdb
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\Telerik.Windows.Core.xml
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\de-DE\Telerik.Windows.Controls.Input.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\fr-FR\Telerik.Windows.Controls.Input.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\it-IT\Telerik.Windows.Controls.Input.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\de\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\en\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\es\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\it\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\ru\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.csprojResolveAssemblyReference.cache
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\App.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\AboutUs.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchList.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\MainPage.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map0.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map1.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map10.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map11.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map12.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map13.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map14.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map15.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map16.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map17.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map18.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map19.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map2.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map20.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map21.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map22.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map23.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map24.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map25.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map26.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map27.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map28.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map29.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map3.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map30.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map31.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map32.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map33.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map34.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map35.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map36.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map37.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map38.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map39.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map4.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map40.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map41.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map42.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map43.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map44.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map45.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map46.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map47.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map48.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map49.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map5.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map50.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map51.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map6.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map7.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map8.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Map9.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page1.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page10.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page100.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page11.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page12.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page13.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page14.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page15.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page16.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page17.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page18.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page19.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page2.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page20.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page21.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page22.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page23.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page24.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page25.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page26.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page27.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page28.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page29.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page3.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page30.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page31.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page32.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page33.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page34.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page35.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page36.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page37.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page38.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page39.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page4.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page40.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page41.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page42.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page43.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page44.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page45.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page46.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page47.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page48.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page49.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page5.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page50.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page51.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page52.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page53.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page54.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page55.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page56.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page57.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page58.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page59.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page6.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page60.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page61.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page62.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page63.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page64.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page65.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page66.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page67.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page68.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page69.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page7.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page70.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page71.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page72.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page73.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page74.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page75.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page76.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page77.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page78.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page79.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page8.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page80.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page81.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page82.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page83.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page84.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page85.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page86.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page87.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page88.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page89.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page9.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page90.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page91.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page92.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page93.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page94.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page95.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page96.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page97.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page98.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Page99.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\SplashScreen.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\Thanksgiving.g.cs
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.g.resources
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.Resources.AppResources.resources
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.csproj.GenerateResource.Cache
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.dll
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\LaunchServiceBD.pdb
+Z:\Downloads\Projects 5\LaunchServiceBD\LaunchServiceBD\obj\Release\XapCacheFile.xml

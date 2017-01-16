@@ -1,0 +1,134 @@
+c:\users\nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\ApplicationIcon.png
+c:\users\nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Background.png
+c:\users\nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\MedicalDirectoryBD.dll
+c:\users\nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\MedicalDirectoryBD.pdb
+c:\users\nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\App.g.cs
+c:\users\nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\MainPage.g.cs
+c:\users\nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\MedicalDirectoryBD.g.resources
+c:\users\nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\MedicalDirectoryBD.dll
+c:\users\nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\MedicalDirectoryBD.pdb
+c:\users\nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList.g.cs
+c:\users\nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\AppManifest.xaml
+c:\users\nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\MedicalDirectoryBD.xap
+c:\users\nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\XapCacheFile.xml
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\MedicalDirectoryBD.csprojResolveAssemblyReference.cache
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\Cancer.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\CardiacSurgeons.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\Cardiology.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\ChestAsthmaMedicine.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\Child.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\Diabetes.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\ENT.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\EyeSpecialist.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\LiverGastroenterology.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\Orthopedic.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\HospitalsList.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\AmbulanceService.g.cs
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Nibir\documents\visual studio 2012\Projects\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\NearestHospitals.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\ApplicationIcon.png
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Background.png
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\MedicalDirectoryBD.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\MedicalDirectoryBD.pdb
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\AppManifest.xaml
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Properties\WMAppManifest.xml
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\MedicalDirectoryBD_Debug_AnyCPU.xap
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Microsoft.Phone.Controls.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Microsoft.Expression.Controls.xml
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\Microsoft.Expression.Drawing.xml
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\System.Windows.Interactivity.xml
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\MedicalDirectoryBD.csprojResolveAssemblyReference.cache
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\App.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\AmbulanceService.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\HospitalsList.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\NearestHospitals.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\Cancer.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\CardiacSurgeons.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\Cardiology.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\ChestAsthmaMedicine.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\Child.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\Diabetes.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\ENT.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\EyeSpecialist.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\LiverGastroenterology.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\MainPage.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList\Orthopedic.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\SpecialistDoctorsList.g.cs
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\MedicalDirectoryBD.g.resources
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\MedicalDirectoryBD.dll
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\MedicalDirectoryBD.pdb
+Z:\Downloads\Projects 1\MedicalDirectoryBD\MedicalDirectoryBD\obj\Debug\XapCacheFile.xml
